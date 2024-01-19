@@ -381,6 +381,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Należy pamiętać, że ta modyfikacja nie została\n sprawdzona pod kątem obecności\nwirusów przez niezależnego przedstawiciela.',
     languageDe:
         "Bitte beachten Sie, dass diese Modifikation\nnicht von einem unabhängigen Vertreter\nauf Virenbedrohungen getestet wurde.",
+    languageIt: 
+        'Tieni presente che queste modifiche\nnon sono state controllate per l`assenza di virus\nda un rappresentante indipendente.',
   },
   'TrustFactorAffectionGreat': {
     languageEn:
@@ -393,6 +395,8 @@ const Map<String, Map<String, String>> localeItems = {
         "Według dewelopera ta modyfikacja nie wpływa\nna poziom zaufania Twojego konta",
     languageDe:
         "Laut Entwickler hat diese Modifikation keinen Einfluss\nauf den Vertrauensfaktor Ihres Kontos!",
+    languageIt: 
+        'Questa modifica, secondo il suo sviluppatore,\nnon influisce sul fattore di fiducia del tuo account!',
   },
   'TrustFactorAffectionUnknown': {
     languageEn:
@@ -405,6 +409,8 @@ const Map<String, Map<String, String>> localeItems = {
         "Twórca tej modyfikacji nie podał żadnych informacji o jej\nwpływie na poziom współczynnika zaufania Twojego konta!",
     languageDe:
         "Der Entwickler diese Modifikation hat\nkeine Informationen über ihre\nAuswirkungen auf die Höhe des \nVertrauensfaktors Ihres Kontos\ngemeldet!",
+    languageIt: 
+        'Lo sviluppatore di questa modifica non ha fornito\nalcuna informazione circa il suo impatto sul\nlivello del fattore di fiducia del tuo account!',
   },
   'TrustFactorAffectionBad': {
     languageEn:
@@ -417,6 +423,8 @@ const Map<String, Map<String, String>> localeItems = {
         "Użycie tej modyfikacji na serwerach valve może\nwpłynąć na współczynnik zaufania Twojego konta!",
     languageDe:
         "Die Verwendung dieses Mods auf den Servern von Valve\nkann den Vertrauensfaktor Ihres Kontos beeinträchtigen!",
+    languageIt: 
+        'L`utilizzo di questa modifica sui server Valve potrebbe\ninfluenzare il livello del fattore di fiducia del tuo account!',
   },
   'PressToOpenMenu': {
     languageEn: "Modification's menu opens with {key} key",
@@ -424,6 +432,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Меню модифікації відкривається кнопкою {key}',
     languagePl: "Menu modyfikacji otwiera się klawiszem {key}",
     languageDe: "Die Modifikation wird mit der Taste {key} geöffnet",
+    languageIt: 'Il menu di modifica si apre con il tasto {key}',
   },
   'YouCanRebind': {
     languageEn:
@@ -436,6 +445,8 @@ const Map<String, Map<String, String>> localeItems = {
         "Jeśli nie lubisz tego klawisza, zawsze możesz\ngo zmienić w ustawieniach\nExLoadera! Pamiętaj, że jeśli zmieniasz\nklawisz, aplikacja musi być otwarta podczas\ndziałania modyfikacji.",
     languageDe:
         "Wenn Ihnen diese Schaltfläche nicht gefällt, können Sie\njederzeit in den Einstellungen ExLoader eine neue \nBindung erstellen! Bitte beachten Sie, dass beim Ändern\ndes Taste der Loader geöffnet sein muss, während\nder Mod funktioniert.",
+    languageIt: 
+        'Se non ti piace questo tasto, puoi sempre\nmodificarlo nelle impostazioni di ExLoader! Tieni\nnota che se cambi il tasto,\nl`applicazione dovrà essere aperta mentre\nla modifica è in esecuzione.',
   },
   'YouCanRebindLaptop': {
     languageEn:
@@ -448,6 +459,8 @@ const Map<String, Map<String, String>> localeItems = {
         "Jeśli nie lubisz tego klawisza, zawsze możesz go zmienić w\nustawieniach ExLoadera! Pamiętaj, że jeśli zmieniasz klawisz,\naplikacja musi być otwarta podczas działania modyfikacji.",
     languageDe:
         "Wenn Ihnen diese Schaltfläche nicht gefällt, können Sie jederzeit in den\nEinstellungen ExLoader eine neue Bindung erstellen! Bitte beachten Sie,\ndass beim Ändern des Taste der Loader geöffnet sein muss, während\nder Mod funktioniert.",
+    languageIt: 
+        'Se non ti piace questo tasto, puoi sempre\nmodificarlo nelle impostazioni di ExLoader! Tieni presente che se cambi il tasto, l`applicazione\ndeve essere aperta mentre è in corso la modifica.',
   },
   'SafeToUse': {
     languageEn:
@@ -460,6 +473,8 @@ const Map<String, Map<String, String>> localeItems = {
         'W oparciu o ostatnio zebrane statystyki, szanse\notrzymania blokady VAC podczas korzystania z tej\nmodyfikacji są niezwykle małe, co oznacza, że \nmodyfikacja jest bezpieczna w użyciu. Procent\notrzymanych banów w ciągu ostatnich dwóch\ntygodni: ',
     languageDe:
         "Basierend auf aktuellen Statistiken, sind die Chancen,\nmit diesem Mod eine VAC-Sperre zu erhalten, extrem \ngering, was bedeutet, dass der Mod sicher zu verwenden\nist. Prozentsatz der Sperren, die in den letzten\nzwei Wochen erhalten wurden: ",
+    languageIt: 
+        'Sulla base delle statistiche raccolte di recente, le possibilità che il VAC venga bloccato per l`utilizzo di questa modifica sono estremamente ridotte, il che significa che la modifica è sicura da usare. Percentuale di ban ricevuti nelle\nultime due settimane: ',
   },
   'UnsafeToUse': {
     languageEn:
@@ -472,6 +487,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Pamiętaj, że nie zalecamy używania tej modyfikacji\nw oficjalnych trybach gry (takich jak matchmaking,\ndeathmatch itp.) ze względu na zwiększone\nryzyko zablokowania przez system VAC. Modyfikacje\nz tym statusem są najbardziej odpowiednie do gry\nna serwerach społeczności lub w trybach HvH. Procent\notrzymanych banów w ciągu ostatnich dwóch tygodni:\n',
     languageDe:
         "Bitte beachte, dass wir nicht empfehlen, diesen Mod\nin offiziellen Spielmodi (wie Matchmaking, Deathmatch\nusw.) zu verwenden, da das Risiko einer VAC-Sperre\nerhöht ist. Mods mit ähnlichem Status eignen sich am\nbesten zum Spielen auf Community-Servern oder\nHvH-Modi. Der Prozentsatz der erhaltenen Sperren für\ndie letzten zwei Wochen: ",
+    languageIt: 
+        'Tieni presente che non consigliamo di utilizzare questa\nmodifica nelle modalità di gioco ufficiali (come\nmatchmaking, deathmatch, ecc.) a causa dei maggiori\nrischio di blocco del VAC del tuo account. Le modifiche\ncon questo stato sono più adatte per giocare su\nserver della comunità o modalità HvH. Percentuale di\nban ricevuti nelle ultime due settimane: ',
   },
   'AlmostSafe': {
     languageEn:
@@ -484,6 +501,8 @@ const Map<String, Map<String, String>> localeItems = {
         "Używaj tej modyfikacji na własne ryzyko! Statystyki VACa\nutrzymują się na bardzo niestabilnym poziomie. Każda\nprognoza jest niedokładna i nieprzewidywalna. Procent\notrzymanych banów w ciągu ostatnich dwóch tygodni: ",
     languageDe:
         "Verwenden Sie diese Modifikation auf eigene Gefahr!\nIhre Statistiken werden auf einem durchschnittlichen\nund sehr instabilen Niveau gehalten. Alle Vorhersagen\nsind ungenau und unvorhersehbar. Prozentsatz\nerhaltener Sperren in den letzten zwei Wochen: ",
+    languageIt: 
+        'Utilizza questa modifica a tuo rischio e pericolo! Le statistiche dei\nvac ban si mantengono a un livello estremamente instabile. Qualsiasi\nprevisione è imprecisa e imprevedibile. Percentuale\ndi ban ricevuti nelle ultime due settimane: ',
   },
   'InstallConfigs': {
     languageEn: 'Install configs for modification',
