@@ -510,6 +510,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Встановити конфіги до модифікації',
     languagePl: 'Zainstaluj konfiguracje dla modyfikacji',
     languageDe: "Fertige Konfigurationen installieren",
+    languageIt: 'Installa le configurazioni per la modifica',
   },
   'OpenConfigFolder': {
     languageEn: "Open modification's files folder",
@@ -517,6 +518,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Відкрити папку файлів модифікації',
     languagePl: 'Otwórz folder plików modyfikacji',
     languageDe: "Öffnen Sie den Dateiordner der Modifikation",
+    languageIt: 'Apri la cartella dei file di modifica',
   },
   'RemoveModificationFiles': {
     languageEn: "Delete all modification's files",
@@ -524,6 +526,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Видалити всі файли модифікації',
     languagePl: 'Usuń wszystkie pliki modyfikacji',
     languageDe: "Alle Modifikationsdateien löschen",
+    languageIt: 'Elimina tutti i file di modifica',
   },
   'ModificationDoesNotWork': {
     languageEn: 'Modification does not work, help',
@@ -531,6 +534,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Модифікація не працює, допоможіть',
     languagePl: 'Modyfikacja nie działa, pomocy',
     languageDe: "Die Modifikation funktioniert nicht, Hilfe mir",
+    languageIt: 'La modifica non funziona, aiuto',
   },
   'ContactSupport': {
     languageEn: "Contact {mod} support",
@@ -538,6 +542,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Зв'язатися з підтримкою {mod}",
     languagePl: 'Skontaktuj się z pomocą techniczną {mod}',
     languageDe: "Kontaktaufnahme mit {mod} Unterstützung",
+    languageIt: 'Contatta l`assistenza di {mod}',
   },
   'LaunchGuide': {
     languageEn: "Modification's launch guide",
@@ -545,6 +550,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Інструкція до запуску модифікації",
     languagePl: 'Przewodnik uruchamiania modyfikacji',
     languageDe: "Anleitung zum Starten der Modifikation",
+    languageIt: 'Guida all`avvio della modifica',
   },
   'Cancel': {
     languageEn: "Cancel",
@@ -552,6 +558,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Відмінити",
     languagePl: 'Anuluj',
     languageDe: "Abbrechen",
+    languageIt: 'Cancella',
   },
   'Rate': {
     languageEn: "RATE",
@@ -559,6 +566,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "РЕЙТИНГ",
     languagePl: 'OCENA',
     languageDe: "BEWERTUNG",
+    languageIt: 'VALUTAZIONE',
   },
   'PictureMayDiffer': {
     languageEn:
@@ -571,6 +579,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wygląd aktualnej wersji może różnić się od tego ze screenshota',
     languageDe:
         "Die Modifikation auf dem Screenshot kann von der tatsächlichen Version abweichen",
+    languageIt: 
+        'La modifica dallo screenshot potrebbe differire dalla versione attuale',
   },
   'Good': {
     languageEn: "Okay",
@@ -578,6 +588,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Добре",
     languagePl: "Okej",
     languageDe: "Okay",
+    languageIt: 'Okay',
   },
   'OkayButDoNotShowItAgain': {
     languageEn: "Okay, don't show it again!",
@@ -585,6 +596,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Добре, не показувати це знову!",
     languagePl: "Okej, nie pokazuj ponownie!",
     languageDe: "OK, nicht mehr anzeigen!",
+    languageIt: 'Okay, non mostrarlo più!',
   },
   'ThankYouButDoNotShowItAgain': {
     languageEn: "Thank you, don't show it again!",
@@ -592,6 +604,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Дякую, не показувати це знову!",
     languagePl: "Dziękuje, nie pokazuj ponownie!",
     languageDe: "Danke, nicht mehr anzeigen!",
+    languageIt: 'Grazie, non mostrarlo più!',
   },
   'ZoomImageTip': {
     languageEn:
