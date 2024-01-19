@@ -285,6 +285,8 @@ const Map<String, Map<String, String>> localeItems = {
         "Modyfikacje ruchu mają na celu pomóc Ci\nrejestrować ruchy lub działania w grze i powtarzać\nje w odpowiednim momencie za pomocą powiązanych\nklawiszy. Na przykład, aby wykonywać bieg lub rzucać granatami.",
     languageDe:
         "Muvment-Mods wurden entwickelt, um Ihnen zu helfen,\nSpielbewegungen oder Aktionen aufzuzeichnen, und sie\nzur richtigen Zeit mit binding-Tasten zu wiederholen. Zum\nBeispiel das Ausführen des Sprühens oder Werfens von\nGranaten.",
+    languageIt: 
+        'Le modifiche ai movimenti sono progettate per aiutarti a\nregistrare i movimenti o le azioni del gioco e ripeterli\nel momento giusto con i pulsanti associati. Ad esempio, per eseguire sprint o lanciare granate.',
   },
   'OpticalPlural': {
     languageEn: 'Optical | Skins | Other',
@@ -292,6 +294,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Візуальні | Скіни | Інше',
     languagePl: 'Wizualne | Skins | Inne',
     languageDe: "Visuelle | Skins | Andere",
+    languageIt: 'Visuale | Skins | Altro',
   },
   'NeuronetPlural': {
     languageEn: 'Neuronets',
@@ -299,6 +302,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Нейромережі',
     languagePl: 'Sieć neuronowe',
     languageDe: "Neuronale Netze",
+    languageIt: 'Reti neuronali',
   },
   'FarmbotPlural': {
     languageEn: 'Farm-bots | bots',
@@ -306,6 +310,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Фарм-боти | Боти',
     languagePl: 'Farm-boty | boty',
     languageDe: "Farm-Bots | Bots",
+    languageIt: 'Farm-bots | bots',
   },
   'MacrosPlural': {
     languageEn: 'Macros',
@@ -313,6 +318,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Макроси',
     languagePl: 'Makra',
     languageDe: "Makros",
+    languageIt: 'Macros',
   },
   'Launch': {
     languageEn: 'Launch',
@@ -320,6 +326,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Запустити',
     languagePl: 'Uruchom',
     languageDe: "Laufen",
+    languageIt: 'Avvia',
   },
   'AdvancedVersion': {
     languageEn:
@@ -332,6 +339,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Ta modyfikacja ma zaawansowaną wersję, którą\nmożesz otworzyć bezpośrednio w ExLoaderze!',
     languageDe:
         "Dieser Mod hat eine erweiterte Version,\ndie Sie direkt in ExLoader öffnen können!",
+    languageIt: 
+        'Questa modifica ha una versione avanzata\nche puoi aprire direttamente in ExLoader!',
   },
   'DisableVacModule': {
     languageEn:
@@ -344,6 +353,8 @@ const Map<String, Map<String, String>> localeItems = {
         "Wyłącz moduł VAC. Zmniejsza szanse na otrzymanie blokady\nanty-cheat. Pamiętaj, że ta funkcja nie pomaga w 100%\nprzypadków i nie chroni przed overwatchem! Steam\nzostanie uruchomiony ponownie w celu aktywacji tej\nfunkcji. Może wpłynąć współczynnik zaufania Twojego konta!",
     languageDe:
         "Deaktivieren Sie das VAC-Schutzmodul. Verringert die Wahrscheinlichkeit,\neine Sperre durch Anti-Cheat zu erhalten. Bitte beachte, dass diese\nFunktion nicht in 100% der Fälle hilft und dich nicht vor Overwatch bewahrt!\nUm diese Funktion zu aktivieren, wird der Steam-Client neu gestartet. Kann\nden Vertrauensfaktor Ihres Kontos beeinträchtigen!",
+    languageIt: 
+        'Disabilitare il modulo VAC. Riduce\nle possibilità di ottenere un\nban anti-cheat. Tieni presente che questa funzione aiuta\nnon nel 100% dei casi e\nnon ti protegge dall`overwatch!\nSteam verrà riavviato per l`attivazione di questa\nfunzione. Potrebbe influenzare\nil fattore di fiducia del tuo account!',
   },
   'TrustableModification': {
     languageEn:
@@ -356,6 +367,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Ta modyfikacja pomyślnie przeszła\nkontrolę na obecność wirusów\nprzez niezależnego przedstawiciela.',
     languageDe:
         "Diese Modifikation wurde von einem unabhängigen\nVertreter erfolgreich auf Virenfreiheit geprüft.",
+    languageIt: 
+        'Questa modifica ha superato con successo\nil controllo dell`assenza di virus\nda parte di un rappresentante indipendente.',
   },
   'NotTrustableModification': {
     languageEn:
