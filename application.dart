@@ -9,6 +9,7 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl: 'Wszystkie modyfikacje gier w jednej bibliotece ExLoadera',
     languageDe:
         "Jetzt befinden sich alle Spielmodifikationen in einer einzigen ExLoader Bibliothek",
+    languageIt: 'Tutte le modifiche al gioco in un`unica libreria ExLoader',
   },
   'Exit': {
     languageEn: 'Exit',
@@ -16,6 +17,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Вихід',
     languagePl: 'Wyjdź',
     languageDe: "Exit",
+    languageIt: 'Esci',
   },
   'Library': {
     languageEn: 'Library',
@@ -23,6 +25,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Бібліотека',
     languagePl: 'Biblioteka',
     languageDe: "Bibliothek",
+    languageIt: 'Libreria',
   },
   'Games': {
     languageEn: "Games",
@@ -30,6 +33,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Ігри",
     languagePl: "Gry",
     languageDe: "Spiele",
+    languageIt: 'Giochi',
   },
   'Settings': {
     languageEn: 'Settings',
@@ -37,6 +41,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Налаштування',
     languagePl: 'Ustawienia',
     languageDe: "Einstellungen",
+    languageIt: 'Impostazioni',
   },
   'MyLibrary': {
     languageEn: 'Your mods',
@@ -44,6 +49,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Свої моди',
     languagePl: 'Twoje mody',
     languageDe: "Ihre Modes",
+    languageIt: 'Le tue mod',
   },
   'Bookmarked': {
     languageEn: 'Bookmarked',
@@ -51,6 +57,8 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Обране',
     languagePl: 'Zakładki',
     languageDe: "Favoriten",
+    languageIt: 'Preferiti',
+    
   },
   'AddToBookmarks': {
     languageEn: 'Add modifications to bookmarks for a quick launch',
@@ -58,6 +66,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Додавай модифікації в обрані для швидкого запуску',
     languagePl: 'Dodaj modyfikacje do zakładek, aby uruchomić je szybciej',
     languageDe: "Fügen Sie Mods zu den Favoriten hinzu",
+    languageIt: 'Aggiungi modifiche ai preferiti per un avvio rapido',
   },
   'Search': {
     languageEn: 'Search',
@@ -65,6 +74,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Пошук',
     languagePl: 'Szukaj',
     languageDe: "Suche",
+    languageIt: 'Cerca',
   },
   'Newbie': {
     languageEn: 'Newbie',
@@ -72,6 +82,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Новинка',
     languagePl: 'Nowość',
     languageDe: "Neu",
+    languageIt: 'Novità',
   },
   'Navigate': {
     languageEn: 'Take a look',
@@ -79,6 +90,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Перейти',
     languagePl: 'Rzuć okiem',
     languageDe: "Gehe zu",
+    languageIt: 'Vai a',
   },
   'Author': {
     languageEn: 'Author',
@@ -86,6 +98,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Автор',
     languagePl: 'Autor',
     languageDe: "Autor",
+    languageIt: 'Autore',
   },
   'LatestUpdate': {
     languageEn: 'Latest update date',
@@ -93,6 +106,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Останнє оновлення',
     languagePl: 'Najnowsza data aktualizacji',
     languageDe: "Neuestes Update",
+    languageIt: 'Data dell`ultimo aggiornamento',
   },
   'AddToBookmarksHint': {
     languageEn: 'Add to bookmarked',
@@ -100,6 +114,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Додати в обране',
     languagePl: 'Dodaj do zakładek',
     languageDe: "Zu den Favoriten hinzufügen",
+    languageIt: 'Aggiungi hai preferiti',
   },
   'RemoveFromBookmarkedHint': {
     languageEn: 'Remove from bookmarked',
@@ -107,6 +122,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Прибрати з обраного',
     languagePl: 'Usuń z zakładek',
     languageDe: "Von Favoriten entfernen",
+    languageIt: 'Rimuovi dai preferiti',
   },
   'ModificationType': {
     languageEn: "Modification's type",
@@ -114,6 +130,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Тип модифікації',
     languagePl: 'Typ modyfikacji',
     languageDe: "Modifikationstyp",
+    languageIt: 'Tipo di modifica',
   },
   'NoneSort': {
     languageEn: "Without sorting",
@@ -121,6 +138,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Без сортування',
     languagePl: 'Bez sortowania',
     languageDe: "Keine Sortierung",
+    languageIt: 'Senza ordinamento',
   },
   'ByRate': {
     languageEn: "By rate",
@@ -128,6 +146,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'За рейтингом',
     languagePl: 'Według oceny',
     languageDe: "Bewertung",
+    languageIt: 'Per valutazione',
   },
   'ByUpdate': {
     languageEn: "By update date",
@@ -135,6 +154,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'За датою оновлення',
     languagePl: 'Według daty aktualizacji',
     languageDe: "Nach Aktualisierungsdatum",
+    languageIt: 'Per data di aggiornamento',
   },
   'ByAlphabet': {
     languageEn: "By alphabet",
@@ -142,6 +162,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'За алфавітом',
     languagePl: 'Alfabetycznie',
     languageDe: "Alphabetisch",
+    languageIt: 'Per alfabeto',
   },
   'SimplePlural': {
     languageEn: 'Humble | Legit',
@@ -149,6 +170,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Спрощені | Легітні',
     languagePl: 'Proste | Legit',
     languageDe: "Einfache | Legit",
+    languageIt: 'Semplice | Legit',
   },
   'MediumPlural': {
     languageEn: 'Advanced | Semi-rage | Half-hvh',
@@ -156,6 +178,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Просунуті | Напів-рейдж | Напів-хвх',
     languagePl: 'Zaawansowane | Semi-rage | Half-hvh',
     languageDe: "Erweiterte | Semi-rage | Half-hvh",
+    languageIt: 'Avanzato | Semi-rage | Half-hvh',
   },
   'AdvancedPlural': {
     languageEn: 'Universal Rage | Hvh',
@@ -163,6 +186,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Універсальні | Рейдж | Хвх',
     languagePl: 'Uniwersalne | Rage | Hvh',
     languageDe: "Universelle Rage| Hvh",
+    languageIt: 'Universale Rage | Hvh',
   },
   'Optical': {
     languageEn: 'Optical',
@@ -170,6 +194,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Візуальна',
     languagePl: 'Wizualny',
     languageDe: "Visuelle",
+    languageIt: 'Visuale',
   },
   'Macros': {
     languageEn: 'Macros',
@@ -177,6 +202,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Макрос',
     languagePl: 'Makra',
     languageDe: "Makros",
+    languageIt: 'Macros',
   },
   'Simple': {
     languageEn: 'Humble',
@@ -184,6 +210,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Спрощена',
     languagePl: 'Prosty',
     languageDe: "Einfach",
+    languageIt: 'Semplice',
   },
   'Medium': {
     languageEn: 'Advanced',
@@ -191,6 +218,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Просунута',
     languagePl: 'Zaawansowany',
     languageDe: "Erweiterte",
+    languageIt: 'Avanzato',
   },
   'Advanced': {
     languageEn: 'Universal',
@@ -198,6 +226,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Універсальна',
     languagePl: 'Uniwersalny',
     languageDe: "Universelle",
+    languageIt: 'Universale',
   },
   'Neuronet': {
     languageEn: 'Neuronet',
@@ -205,6 +234,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Нейромережа',
     languagePl: 'Sieć neuronowa',
     languageDe: "Neurales Netzwerk",
+    languageIt: 'Rete neuronale',
   },
   'Farmbot': {
     languageEn: 'Farm-bot',
@@ -212,6 +242,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Фарм-бот',
     languagePl: 'Farm-bot',
     languageDe: "Farm-bot",
+    languageIt: 'Farm-bot',
   },
   'FarmbotDescription': {
     languageEn:
@@ -224,6 +255,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Modyfikacje Farmbota zostały zaprojektowane, aby pomóc ci w\nzdobywaniu doświadczenia / przedmiotów / czegokolwiek innego\nw grze, pozostawiając komputer włączony na chwilę.\nWłącz go, idź coś zjeść, a bot zagra za ciebie!',
     languageDe:
         "Farmbot-Modifikationen sollen dir helfen, Erfahrung/Gegenstände/was\nauch immer im Spiel zu farmen, indem du deinen Computer für eine\nWeile eingeschaltet lässt. Schalten Sie ihn ein,\ngehen Sie zum Essen, und der Bot spielt für Sie!",
+    languageIt: 
+        'Le modifiche del Farmbot sono progettate per aiutarti a coltivare esperienza/oggetti/qualsiasi altra cosa nel gioco\nlasciando il computer acceso per un po`. Accendilo, esci a pranzo e il bot suona per te!',
   },
   'Movement': {
     languageEn: 'Movement',
@@ -231,6 +264,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Мувмент',
     languagePl: 'Ruch',
     languageDe: "Muvment",
+    languageIt: 'Movimento',
   },
   'MovementPlural': {
     languageEn: 'Movement | Bhop',
@@ -238,6 +272,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Мувмент | Бхоп',
     languagePl: 'Ruchowe | Bhop',
     languageDe: "Muvment | Bhop",
+    languageIt: 'Movimento | Bhop',
   },
   'MovementDescription': {
     languageEn:
