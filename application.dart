@@ -617,6 +617,8 @@ const Map<String, Map<String, String>> localeItems = {
         "Możesz powiększyć dowolną część obrazu w tym menu za pomocą kółka myszy!",
     languageDe:
         "Sie können jeden Teil des Bildes in diesem Menü mit dem Mausrad vergrößern!",
+    languageIt: 
+        'Puoi ingrandire qualsiasi parte dell`immagine in questo menu con la rotella del mouse!',
   },
   'EraseActivity': {
     languageEn: "Erase all modification's activity",
@@ -624,6 +626,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Очищення слідів активності мода",
     languagePl: "Wyczyść całą aktywność modyfikacji",
     languageDe: "Spuren von Mod-Aktivität entfernen",
+    languageIt: 'Cancella tutte le attività di modifica',
   },
   'SwipeTip': {
     languageEn:
@@ -636,6 +639,8 @@ const Map<String, Map<String, String>> localeItems = {
         "🖱🖱🖱 Podpowiedź: użyj bardziej zaawansowanego przewijania za pomocą przeciągnięcia kursorem zamiast scrolla. Po prostu wyobraź sobie, że trzymasz smartfon w dłoniach, a mysz to twój palec! Taki tryb przewijania działa na wszystkich ekranach aplikacji.",
     languageDe:
         "🖱🖱🖱 Tipp: Verwenden Sie das bequemere Scrollen mit Mausbewegungen anstelle des Rads. Stellen Sie sich vor, Sie halten das Telefon in Ihren Händen und Ihre Maus ist Ihr Finger! Dieser Bildlaufmodus funktioniert auf allen Programmbildschirmen.",
+    languageIt: 
+        '🖱🖱🖱 Suggerimento: usa lo scorrimento avanzato con i passaggi del mouse invece della rotellina. Immagina solo di tenere uno smartphone tra le mani e il tuo mouse è il tuo dito! Tale modalità di scorrimento funziona su tutte le schermate dell`applicazione.',
   },
   'WhatsNew': {
     languageEn: "What's new",
@@ -643,6 +648,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Що нового",
     languagePl: "Co nowego",
     languageDe: "Was gibt's Neues",
+    languageIt: 'Cosa c`è di nuovo',
   },
   'ShowUpdatesHistory': {
     languageEn: "Show updates history",
@@ -650,6 +656,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Показати історію змін",
     languagePl: "Pokaż historię aktualizacji",
     languageDe: "Updateverlauf anzeigen",
+    languageIt: 'Mostra la cronologia degli aggiornamenti',
   },
   'ReadMore': {
     languageEn: "Read more",
@@ -657,6 +664,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Прочитати детальніше",
     languagePl: "Czytaj więcej",
     languageDe: "Weiterlesen",
+    languageIt: 'Per saperne di più',
   },
   'LastUpdate': {
     languageEn: "Last update",
@@ -664,6 +672,8 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Останнє оновлення",
     languagePl: "Ostatnia aktualizacja",
     languageDe: "Neuestes Update",
+    languageIt: 'Ultimo aggiornamento',
+    
   },
   'Marks': {
     languageEn: "User marks",
@@ -671,6 +681,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Оцінки користувачів",
     languagePl: "Oceny użytkowników",
     languageDe: "Benutzerbewertungen",
+    languageIt: 'recensione dagli utenti',
   },
   'PressToSaveMark': {
     languageEn: "Press the icon and your mark will be saved",
@@ -678,6 +689,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Натисни, і твоя оцінка збережеться",
     languagePl: "Naciśnij ikonę, a twoja ocena zostanie zapisana",
     languageDe: "Klicken Sie auf, und Ihre Bewertung wird gespeichert",
+    languageIt: 'Premi l`icona e la tua recensione verrà salvato',
   },
   'YourMark': {
     languageEn: "Your mark",
@@ -685,6 +697,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Твоя оцінка",
     languagePl: "Twoja ocena",
     languageDe: "Ihre Bewertung",
+    languageIt: 'La tua recensione',
   },
   'Send': {
     languageEn: "Send",
@@ -692,6 +705,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Надіслати",
     languagePl: "Wyślij",
     languageDe: "Senden",
+    languageIt: 'Invia',
   },
   'YourReview': {
     languageEn: "Your review",
@@ -699,6 +713,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Твій коментар",
     languagePl: "Twoja opinia",
     languageDe: "Dein Kommentar",
+    languageIt: 'Il tuo commento',
   },
   'Chosen': {
     languageEn: "Chosen",
@@ -706,6 +721,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Обрано",
     languagePl: "Wybrane",
     languageDe: "Ausgewählt",
+    languageIt: 'Scelto',
   },
   'Common': {
     languageEn: 'Consumer',
@@ -713,6 +729,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Роздрібний ґатунок',
     languagePl: "Konsument",
     languageDe: "Konsumgüter",
+    languageIt: 'Consumatore',
   },
   'Uncommon': {
     languageEn: 'Industrial',
@@ -720,6 +737,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Промисловий ґатунок',
     languagePl: "Przemysłowy",
     languageDe: "Industriequalität",
+    languageIt: 'Industriale',
   },
   'Rare': {
     languageEn: 'Mil-spec',
@@ -727,6 +745,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Армійський ґатунок',
     languagePl: "Stopień wojskowy",
     languageDe: "Armee",
+    languageIt: 'Mil-spec',
   },
   'Mythical': {
     languageEn: 'Restricted',
@@ -734,6 +753,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Зброя спецслужб',
     languagePl: "Zabroniony",
     languageDe: "Verbotene",
+    languageIt: 'Limitato',
   },
   'Legendary': {
     languageEn: 'Classified',
@@ -741,6 +761,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Секретна зброя',
     languagePl: "Sklasyfikowany",
     languageDe: "Klassifiziert",
+    languageIt: 'Classificato',
   },
   'Ancient': {
     languageEn: 'Covert',
@@ -748,6 +769,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Заборонена зброя',
     languagePl: "Ukryty",
     languageDe: "Verbotene Waffen",
+    languageIt: 'Segreto',
   },
   'Immortal': {
     languageEn: 'Contraband',
@@ -755,6 +777,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Контрабандна зброя',
     languagePl: "Kontrabanda",
     languageDe: "Schmuggelwaffen",
+    languageIt: 'Contrabbando',
   },
   'Back': {
     languageEn: 'Back',
@@ -762,6 +785,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Назад',
     languagePl: "Wróć",
     languageDe: "Zurück",
+    languageIt: 'Indietro',
   },
   'BackToThePrevious': {
     languageEn: 'Back to the previous screen',
@@ -769,6 +793,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Повернутися назад',
     languagePl: "Tyłem do siebie",
     languageDe: "Rücken an Rücken",
+    languageIt: 'Torna alla schermata precedente',
   },
   'SearchByGames': {
     languageEn: 'Search by games',
@@ -776,6 +801,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Пошук по іграм',
     languagePl: 'Szukaj według gier',
     languageDe: "Suche nach Spielen",
+    languageIt: 'Cerca per giochi',
   },
   'SearchByFrames': {
     languageEn: 'Search by frames',
@@ -783,6 +809,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Пошук по рамкам',
     languagePl: 'Szukaj według ramki',
     languageDe: "Suche nach Rahmen",
+    languageIt: 'Cerca per fotogrammi',
   },
   'SearchByModifications': {
     languageEn: 'Search by modifications',
@@ -790,6 +817,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Пошук по модифікаціям',
     languagePl: 'Szukaj według modyfikacji',
     languageDe: "Suche nach Modifikationen",
+    languageIt: 'Cerca per modifiche',
   },
   'SearchBySkinsOrItems': {
     languageEn: 'Search by skins or items',
@@ -797,6 +825,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Пошук у скінах і предметах',
     languagePl: 'Szukaj według skinów lub przedmiotów',
     languageDe: "Suchen Sie in Skins und Gegenständen",
+    languageIt: 'Cerca per skin o oggetti',
   },
   'NothingFoundByYourQuery': {
     languageEn: 'Nothing found with your query 🙁',
@@ -804,6 +833,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'За твоїм запитом нічого не знайдено 🙁',
     languagePl: 'Na twoje zapytanie nic nie znaleziono 🙁',
     languageDe: "Zu deiner Anfrage wurde nichts gefunden 🙁",
+    languageIt: 'Non è stato trovato nulla con la tua richiesta 🙁',
   },
   'NoItemsNoSkins': {
     languageEn: 'No such items or skins were found 🙁',
@@ -811,6 +841,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Таких предметів або ж скінів не знайдено 🙁',
     languagePl: 'Nie znaleziono takich przedmiotów ani skinów 🙁',
     languageDe: "Es wurden keine derartigen Gegenstände oder Skins gefunden 🙁",
+    languageIt: 'Non sono stati trovati oggetti o skin di questo tipo 🙁',
   },
   'NoSkinsWereFound': {
     languageEn: 'Skins with such name were not found 🙁',
@@ -818,6 +849,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Скінів з такою назвою не знайдено 🙁',
     languagePl: 'Nie znaleziono skinów o takiej nazwie 🙁',
     languageDe: "Es wurden keine Skins mit diesem Namen gefunden 🙁",
+    languageIt: 'Non sono state trovate skin con questo nome 🙁',
   },
   'ServerRoom': {
     languageEn: 'Server room',
@@ -825,6 +857,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Серверна',
     languagePl: 'Serwerownia',
     languageDe: "Serverraum",
+    languageIt: 'Stanza del server',
   },
   'WelcomeBackUser': {
     languageEn: 'Welcome back, {user}',
@@ -832,6 +865,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'З поверненням, {user}',
     languagePl: 'Witaj spowrotem, {user}',
     languageDe: "Willkommen zurück, {user}",
+    languageIt: 'Bentornato, {user}',
   },
   'RefreshData': {
     languageEn: 'Refresh data',
@@ -839,6 +873,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Оновити дані',
     languagePl: 'Odśwież dane',
     languageDe: "Daten aktualisieren",
+    languageIt: 'Aggiorna i dati',
   },
   'Complaint': {
     languageEn: 'Complaint',
@@ -846,6 +881,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Скарга',
     languagePl: 'Skarga',
     languageDe: "Beschwerde",
+    languageIt: 'Reclamo',
   },
   'ComplaintSecond': {
     languageEn: 'Complaints',
@@ -853,6 +889,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Скарги',
     languagePl: 'Skargi',
     languageDe: "Beschwerden",
+    languageIt: 'Reclami',
   },
   'ComplaintThird': {
     languageEn: 'Complaints',
@@ -860,6 +897,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Скарг',
     languagePl: 'Skarg',
     languageDe: "Beschwerden",
+    languageIt: 'Reclami',
   },
   'ReviewsComplaints': {
     languageEn: 'about comments to mods/cfgs',
@@ -867,6 +905,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'на коментарі до модів/кфг',
     languagePl: 'na komentarze do mods/cfg',
     languageDe: "über Kommentare",
+    languageIt: 'sui commenti a mod/cfg',
   },
   'ReviewsComplaintsGames': {
     languageEn: 'about comments to games',
@@ -874,6 +913,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'на коментарі до ігор',
     languagePl: 'na komentarze do gier',
     languageDe: "über Kommentare zu den Spielen",
+    languageIt: 'sui commenti ai giochi',
   },
   'ConfigsComplaints': {
     languageEn: 'about configs for modifications',
@@ -881,6 +921,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'на конфіги до модифікацій',
     languagePl: 'na konfiguracje do modyfikacji',
     languageDe: "über Konfigurationen",
+    languageIt: 'sulle configurazioni per le modifiche',
   },
   'UpdateNotifications': {
     languageEn: 'about updates for modifications',
@@ -888,6 +929,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'на оновлення до модифікацій',
     languagePl: 'na aktualizacji do modyfikacji',
     languageDe: "über Aktualisierungen von Modifikationen",
+    languageIt: 'sugli aggiornamenti per le modifiche',
   },
   'Modifications': {
     languageEn: 'Modifications',
@@ -895,6 +937,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Модифікації',
     languagePl: 'Modyfikacje',
     languageDe: "Modifikationen",
+    languageIt: 'Modifiche',
   },
   'ModificationsDescription': {
     languageEn: 'Adding, editing and deleting modifications',
@@ -902,6 +945,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Додавання, редагування та видалення модифікацій',
     languagePl: 'Dodawanie, edycja i usuwanie modyfikacji',
     languageDe: "Hinzufügen, Bearbeiten und Entfernen von Modifikationen",
+    languageIt: 'Aggiunta, modifica ed eliminazione delle modifiche',
   },
   'Open': {
     languageEn: 'Open',
@@ -909,6 +953,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Перейти',
     languagePl: 'Otwórz',
     languageDe: "Übergehen",
+    languageIt: 'Aperto',
   },
   'Configs': {
     languageEn: 'Configurations',
@@ -916,6 +961,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Конфігурації',
     languagePl: 'Konfiguracje',
     languageDe: "Konfigurationen",
+    languageIt: 'Configurazioni',
   },
   'ConfigsDescription': {
     languageEn: "Handle сonfiguration's and LUA complaints",
@@ -923,6 +969,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Обробка скарг на конфігурації модифікацій та ЛУА',
     languagePl: 'Obsługa reklamacji konfiguracje i LUA',
     languageDe: "Umgang mit Konfigurationsproblemen und LUA",
+    languageIt: 'Gestione dei reclami di configurazione e LUA',
   },
   'Comments': {
     languageEn: 'Comments',
@@ -930,6 +977,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Коментарі',
     languagePl: 'Komentarze',
     languageDe: "Kommentare",
+    languageIt: 'Commenti',
   },
   'CommentsDescription': {
     languageEn: 'Managing comments and their complaints',
@@ -937,6 +985,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Управління скаргами на коментарі',
     languagePl: 'Zarządzanie skargami na komentarze',
     languageDe: "Verwaltung von Beschwerden über Kommentare",
+    languageIt: 'Gestione dei commenti e dei relativi reclami',
   },
   'Profiles': {
     languageEn: 'Users',
@@ -944,6 +993,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Користувачі',
     languagePl: 'Użytkownicy',
     languageDe: "Benutzer",
+    languageIt: 'Utenti',
   },
   'ProfilesDescription': {
     languageEn: 'Editing profiles and blocking them',
@@ -951,6 +1001,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Редагування профілів і їх блокування',
     languagePl: 'Edycja profili i ich blokada',
     languageDe: "Bearbeiten und Sperren von Profilen",
+    languageIt: 'Modificare i profili e bloccarli',
   },
   'ModeratorsLog': {
     languageEn: "Action's log",
@@ -958,6 +1009,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Лог дій',
     languagePl: 'Dziennik akcji',
     languageDe: "Aktionsprotokoll",
+    languageIt: 'Registro delle azioni',
   },
   'ModeratorsLogDescription': {
     languageEn: "History of other moderators' actions",
@@ -965,6 +1017,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Історія дій усіх модераторів та адміністраторів',
     languagePl: 'Historia działań innych moderatorów',
     languageDe: "Die Geschichte aller Moderatoren",
+    languageIt: 'Cronologia delle azioni di altri moderatori',
   },
   'Notifications': {
     languageEn: "Notifications",
@@ -972,6 +1025,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Повідомлення',
     languagePl: 'Powiadomienia',
     languageDe: "Benachrichtigungen",
+    languageIt: 'Notifiche',
   },
   'NotificationsDescription': {
     languageEn: 'Creating and managing notifications',
@@ -979,6 +1033,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Створення та управління повідомленнями',
     languagePl: 'Tworzenie i zarządzanie powiadomieniami',
     languageDe: "Erstellen und Verwalten von Benachrichtigungen",
+    languageIt: 'Creazione e gestione delle notifiche',
   },
   'Updates': {
     languageEn: "Updates",
@@ -986,6 +1041,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Оновлення',
     languagePl: 'Aktualizacje',
     languageDe: "Updates",
+    languageIt: 'Aggiornamenti',
   },
   'UpdatesDescription': {
     languageEn: "Application's versioning and updates control",
@@ -993,6 +1049,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Управління версіями програми',
     languagePl: 'Kontrola wersji i aktualizacji aplikacji',
     languageDe: "Versionsverwaltung der Anwendung",
+    languageIt: 'Controllo delle versioni e degli aggiornamenti dell`applicazione',
   },
   'Status': {
     languageEn: "Current status",
@@ -1000,6 +1057,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Поточний статус',
     languagePl: 'Obecny status',
     languageDe: "Aktueller Status",
+    languageIt: 'Stato attuale',
   },
   'ActionBlocks': {
     languageEn: "Action blocks",
@@ -1007,6 +1065,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Блоки дій',
     languagePl: 'Bloki akcji',
     languageDe: "Aktionsblöcke",
+    languageIt: 'Blocchi di azioni',
   },
   'Recent': {
     languageEn: "Recent",
@@ -1014,6 +1073,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Останні',
     languagePl: 'Ostatni',
     languageDe: "Jüngste",
+    languageIt: 'Recente',
   },
   'Popular': {
     languageEn: "Popular",
@@ -1021,6 +1081,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Популярні',
     languagePl: 'Popularne',
     languageDe: "Beliebte",
+    languageIt: 'Popolare',
   },
   'PopularSingle': {
     languageEn: "Popular",
@@ -1028,6 +1089,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Популярна',
     languagePl: 'Popularna',
     languageDe: "Beliebte",
+    languageIt: 'Popolare',
   },
   'Old': {
     languageEn: "Old",
@@ -1035,6 +1097,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Старі',
     languagePl: 'Stare',
     languageDe: "Alte",
+    languageIt: 'Vecchio',
   },
   'ShowAll': {
     languageEn: "Show all",
@@ -1042,6 +1105,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Показати всі',
     languagePl: 'Pokaż wszystkie',
     languageDe: "Zeige alles",
+    languageIt: 'Mostra tutto',
   },
   'Answer': {
     languageEn: 'Reply',
@@ -1049,6 +1113,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Відповісти',
     languagePl: 'Odpowiedz',
     languageDe: "Antworten",
+    languageIt: 'Risposta',
   },
   'ShowAnswers': {
     languageEn: 'Show {number} {answers}',
@@ -1056,6 +1121,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Показати {number} {answers}',
     languagePl: 'Pokaż {number} {answers}',
     languageDe: "{number} {answers} anzeigen",
+    languageIt: 'Mostra {number} {answers}',
   },
   'AnswerSingle': {
     languageEn: 'answer',
@@ -1063,6 +1129,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'відповідь',
     languagePl: 'odpowiedź',
     languageDe: "Antwort",
+    languageIt: 'risposta',
   },
   'AnswerFirst': {
     languageEn: 'answers',
@@ -1070,6 +1137,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'відповіді',
     languagePl: 'odpowiedzi',
     languageDe: "Antworten",
+    languageIt: 'risposte',
   },
   'AnswerSecond': {
     languageEn: 'answers',
@@ -1077,6 +1145,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'відповідей',
     languagePl: 'odpowiedzi',
     languageDe: "Antworten",
+    languageIt: 'risposte',
   },
   'Edit': {
     languageEn: 'Edit',
@@ -1084,6 +1153,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Відредагувати',
     languagePl: 'Edytuj',
     languageDe: "Bearbeiten",
+    languageIt: 'Modifica',
   },
   'Complain': {
     languageEn: "Complain",
@@ -1091,6 +1161,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Поскаржитися',
     languagePl: 'Zgłoś',
     languageDe: "Sich beklagen",
+    languageIt: 'Reclamo',
   },
   'UserComments': {
     languageEn: "User's reviews",
@@ -1098,6 +1169,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Коментарі користувачів',
     languagePl: 'Oceny użytkowników',
     languageDe: "Benutzerkommentare",
+    languageIt: 'Recensioni degli utenti',
   },
   'General': {
     languageEn: 'General',
@@ -1105,6 +1177,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Основне',
     languagePl: 'Ogólne',
     languageDe: "General",
+    languageIt: 'Generale',
   },
   'Appearance': {
     languageEn: 'Appearance',
@@ -1112,6 +1185,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Зовнішній вигляд',
     languagePl: 'Wygląd',
     languageDe: "Aussehen",
+    languageIt: 'Aspetto',
   },
   'AppLanguage': {
     languageEn: "Application's language",
@@ -1119,6 +1193,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Мова програми',
     languagePl: 'Język aplikacji',
     languageDe: "Programmsprache",
+    languageIt: 'Lingua dell`applicazione',
   },
   'ModificationsOpenHideKey': {
     languageEn: "Modification's menu interacting key",
@@ -1126,6 +1201,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Клавіша взаємодії з меню модифікацій',
     languagePl: 'Klawisz interakcji menu modyfikacji',
     languageDe: "Taste für die Interaktion mit dem Modifikationsmenü",
+    languageIt: 'Tasto interagente con il menu di modifica',
   },
   'LocalModificationsOpenHideKey': {
     languageEn: "Local modification's menu interacting key",
@@ -1133,6 +1209,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Клавіша взаємодії з меню своїх модів',
     languagePl: 'Klawisz do interakcji z menu modów',
     languageDe: "Interop-Taste für das Ihrer Mods Menü",
+    languageIt: 'Tasto interagente con il menu di modifica locale',
   },
   'NotForAllModifications': {
     languageEn:
@@ -1145,6 +1222,8 @@ const Map<String, Map<String, String>> localeItems = {
         "Niestety ta funkcja nie jest kompatybilna ze\nwszystkimi modyfikacjami. Jeśli modyfikacja nie\nzareaguje na wybrany klawisz, będziesz musiał\nużyć standardowego klawisza.",
     languageDe:
         "Leider ist diese Funktion nicht mit allen Modifikationen\nkompatibel. Wenn die Modifikation nicht auf die von\nIhnen gewählte Taste reagiert, müssen Sie die\nstandardmäßige Bindung verwenden.",
+    languageIt: 
+        'Sfortunatamente, questa funzionalità non è compatibile con\ntutte le modifiche. Se la modifica non reagisce\nal tasto selezionata, dovrai utilizzare\nil collegamento standard.',
   },
   'LocalKeyBindDescription': {
     languageEn:
@@ -1157,6 +1236,8 @@ const Map<String, Map<String, String>> localeItems = {
         "Zauważ, że to powiązanie będzie działać\njeżeli oryginalnym klawiszem otwierającym\nlokalne menu modyfikacji jest Insert.",
     languageDe:
         "Bitte beachten Sie, dass diese Bindung nur funktioniert,\nwenn der ursprüngliche Eröffnungstaste\ndes lokalen Modifikationen Einfügen ist Insert",
+    languageIt: 
+        'Tieni presente che questo collegamento funzionerà solo\nse il tasto originale per aprire il\nmenu di modifica locale è Insert.',
   },
   'InjectionMethod': {
     languageEn: 'Injection method',
@@ -1164,6 +1245,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Спосіб ін'єкції",
     languagePl: 'Metoda wstrzykiwania',
     languageDe: "Methode der Injektion",
+    languageIt: 'Metodo di iniezione',
   },
   'Hidden': {
     languageEn: 'Hidden',
@@ -1171,6 +1253,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Прихований',
     languagePl: 'Ukryta',
     languageDe: "Versteckt",
+    languageIt: 'Nascosto',
   },
   'Spoofing': {
     languageEn: 'Spoofing',
@@ -1178,6 +1261,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Підміняючий',
     languagePl: 'Zastępowania',
     languageDe: "Ersatzmethode",
+    languageIt: 'Spoofing',
   },
   'Universal': {
     languageEn: "Universal",
@@ -1185,6 +1269,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Універсальний',
     languagePl: 'Uniwersalna',
     languageDe: "Universal",
+    languageIt: 'Universale',
   },
   'GameWillBeRestarted': {
     languageEn:
