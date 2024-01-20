@@ -1282,6 +1282,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Pamiętaj, że przy tej metodzie wstrzykiwania\ngra zostanie zrestartowana przed\nuruchomieniem modyfikacji.',
     languageDe:
         "Bitte beachten Sie, dass bei dieser Injektionsmethode das Spiel\nneu gestartet wird, bevor die Modifikation gestartet wird.",
+    languageIt: 
+        'Tieni presente che con questo metodo di iniezione\nil gioco verrà riavviato\nprima di lanciare la modifica.',
   },
   'HiddenDescription': {
     languageEn:
@@ -1294,6 +1296,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Zaawansowana metoda wstrzykiwania, która\npozwala uruchamiać modyfikacje w trakcie gry.',
     languageDe:
         "Eine fortschrittlichere Injektionsmethode,\ndie ermöglicht, dass Mods direkt\nwährend des Spiels ausgeführt werden.",
+    languageIt: 
+        'Un metodo di iniezione avanzato, che\nti consente di avviare modifiche\ndurante il processo di gioco.',
   },
   'NotSafeButUniversal': {
     languageEn:
@@ -1306,6 +1310,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Kompatybilna z prawie wszystkimi modyfikacjami\nma jednak poważną wadę, która objawia się\nzwiększonym ryzykiem blokadą anty-cheata gry.',
     languageDe:
         "Es ist für fast alle Modifikationen geeignet, hat jedoch einen\nwesentlichen Nachteil in Form einer erhöhten Wahrscheinlichkeit,\ndurch den Anti-Cheat des Spiels blockiert zu werden.",
+    languageIt: 
+        'Compatibile con quasi tutte le modifiche, tuttavia, presenta un\ninconveniente significativo che si manifesta in una\nmaggior possibilità di essere bannati dall`anti-cheat del gioco.',
   },
   'KeyIsOccupied': {
     languageEn: 'The key you selected is already being used by some function!',
@@ -1314,6 +1320,7 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl: 'Wybrany klawisz jest już używany przez inną funkcję!',
     languageDe:
         "Die von Ihnen gewählte Taste wird bereits in einer der Funktionen verwendet!",
+    languageIt: 'Il tasto selezionato è già utilizzato da qualche funzione!',
   },
   'GameAutoLaunch': {
     languageEn: 'Automatically launch the game',
@@ -1321,6 +1328,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Автоматично запускати гру',
     languagePl: 'Automatycznie uruchom grę',
     languageDe: "Spiel automatisch starten",
+    languageIt: 'Avvia automaticamente il gioco',
   },
   'GameAutoLaunchDescription': {
     languageEn:
@@ -1333,6 +1341,8 @@ const Map<String, Map<String, String>> localeItems = {
         "ExLoader sam uruchomi grę (dotyczy tylko gier Steam) przed wstrzyknięciem modyfikacji",
     languageDe:
         "ExLoader startet das Spiel vor der Injektion automatisch (gilt nur für Steam-Spiele).",
+    languageIt: 
+        'ExLoader avvierà il gioco (applicabile solo per i giochi Steam) prima di iniettare la modifica',
   },
   'NotifyAboutChanges': {
     languageEn: 'Receive notifications about modifications',
@@ -1340,6 +1350,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Отримання повідомлень про модифікації',
     languagePl: 'Otrzymuj powiadomienia o modyfikacjach',
     languageDe: "Benachrichtigungen über Modifikationen erhalten",
+    languageIt: 'Ricevi notifiche sulle modifiche',
   },
   'AddToExclusions': {
     languageEn: 'Windows Defender exclusions',
@@ -1347,6 +1358,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Виключення Захисника Windows',
     languagePl: 'Wykluczeń Windows Defender',
     languageDe: "Windows Defender-Ausnahmen",
+    languageIt: 'Eccezioni di Windows Defender',
   },
   'Other': {
     languageEn: 'Other',
@@ -1354,6 +1366,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Інше',
     languagePl: 'Inne',
     languageDe: "Andere",
+    languageIt: 'Altro',
   },
   'Light': {
     languageEn: 'Light (BETA)',
@@ -1361,6 +1374,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Світла (БЕТА)',
     languagePl: 'Jasny (BETA)',
     languageDe: "Heller (BETA)",
+    languageIt: 'Chiaro (BETA)',
   },
   'Dark': {
     languageEn: 'Dark',
@@ -1368,6 +1382,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Темна',
     languagePl: 'Ciemny',
     languageDe: "Dunkel",
+    languageIt: 'Scuro',
   },
   'AppTheme': {
     languageEn: "Application's theme",
@@ -1375,6 +1390,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Тема програми',
     languagePl: 'Motyw programu',
     languageDe: "Programmthema",
+    languageIt: 'Tema dell`applicazione',
   },
   'ChangeBackgroundAutomatically': {
     languageEn: "Automatic background and color change",
@@ -1382,6 +1398,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Автоматична зміна кольору і фону',
     languagePl: 'Automatyczna zmiana koloru i tła',
     languageDe: "Farbe und Hintergrund automatisch ändern",
+    languageIt: 'Sfondo automatico e cambio colore',
   },
   'FetchWeather': {
     languageEn: 'Synchronize the weather',
@@ -1389,6 +1406,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Синхронізувати погоду',
     languagePl: 'Synchronizuj pogodę',
     languageDe: "Wetter synchronisieren",
+    languageIt: 'Sincronizza il meteo',
   },
   'FetchWeatherDescription': {
     languageEn:
@@ -1401,6 +1419,8 @@ const Map<String, Map<String, String>> localeItems = {
         "Za oknem pada śnieg lub deszcz? Przenieś go do aplikacji jednym kliknięciem!",
     languageDe:
         "Schneit oder regnet es vor dem Fenster? Verschieben Sie es mit nur einem Klick in der App!",
+    languageIt: 
+        'Nevica o piove fuori dalla finestra? Crea lo stesso meteo nell`app con un solo clic!',
   },
   'GrainEffect': {
     languageEn: 'Grain effect',
@@ -1408,6 +1428,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Ефект шорсткості',
     languagePl: 'Efekt szorstkości',
     languageDe: "Rauheitseffekt",
+    languageIt: 'Effetto grana',
   },
   'Disabled': {
     languageEn: 'Disabled',
@@ -1415,6 +1436,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Відключен',
     languagePl: 'Wyłączony',
     languageDe: "Deaktiviert",
+    languageIt: 'Disabilitato',
   },
   'GreatVisible': {
     languageEn: 'Notable',
@@ -1422,6 +1444,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Помітний',
     languagePl: 'Zauważalny',
     languageDe: "Merklich",
+    languageIt: 'Notevole',
   },
   'MediumVisible': {
     languageEn: 'Neutral',
@@ -1429,6 +1452,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Нейтральний',
     languagePl: 'Neutralny',
     languageDe: "Neutral",
+    languageIt: 'Neutrale',
   },
   'LowVisible': {
     languageEn: 'Inconspicuous',
@@ -1436,6 +1460,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Малопомітний',
     languagePl: 'Niepozorny',
     languageDe: "Unauffällig",
+    languageIt: 'Discreto',
   },
   'MainColor': {
     languageEn: 'Accent color',
@@ -1443,6 +1468,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Основний колір',
     languagePl: 'Kolor podstawowy',
     languageDe: "Hauptfarbe",
+    languageIt: 'Colore in risalto',
   },
   'CouldNotSelectThisImage': {
     languageEn:
@@ -1455,6 +1481,8 @@ const Map<String, Map<String, String>> localeItems = {
         "Niestety, ExLoader nie może przetworzyć Twojego avatara, spróbuj wybrać inny!",
     languageDe:
         "Leider konnte ExLoader Ihr Bild nicht verarbeiten, versuchen Sie es mit einem anderen!",
+    languageIt: 
+        'Sfortunatamente, ExLoader non è riuscito ad analizzare la tua immagine. Puoi provare a selezionarne un altro!',
   },
   'ChooseAnImage': {
     languageEn: 'Choose a file of the desired image',
@@ -1462,6 +1490,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Вибери файл бажаної картинки',
     languagePl: 'Wybierz żądany obrac',
     languageDe: "Wähle die gewünschte Bilddatei aus",
+    languageIt: 'Scegli un file dell`immagine desiderata',
   },
   'BackgroundIsAlreadyInstalled': {
     languageEn: 'The background you selected is already added to the app!',
@@ -1470,6 +1499,7 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl: 'Wybrane przez Ciebie tło zostało już dodane do aplikacji!',
     languageDe:
         "Der von Ihnen gewählte Hintergrund wurde der Anwendung bereits hinzugefügt!",
+    languageIt: 'Lo sfondo che hai selezionato è già aggiunto all`app!',
   },
   'ImageIsSaved': {
     languageEn: 'Your picture is saved and applied!',
@@ -1477,6 +1507,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Твоя картинка збережена і застосована!',
     languagePl: 'Twoje zdjęcie zostało zapisane i zastosowane!',
     languageDe: "Dein Bild wurde gespeichert und angewendet!",
+    languageIt: 'La tua immagine è stata salvata e applicata!',
   },
   'Background': {
     languageEn: 'Background image',
@@ -1484,6 +1515,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Задній фон',
     languagePl: 'Tło',
     languageDe: "Hintergrund",
+    languageIt: 'Immagine di sfondo',
   },
   'NoBackground': {
     languageEn: 'Without background',
@@ -1491,6 +1523,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Без фону',
     languagePl: 'Bez tła',
     languageDe: "Kein Hintergrund",
+    languageIt: 'Senza sfondo',
   },
   'DeleteThisImage': {
     languageEn: 'Delete this background',
@@ -1498,6 +1531,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Видалити цей фон',
     languagePl: 'Usuń to tło',
     languageDe: "Entfernen Sie diesen Hintergrund",
+    languageIt: 'Elimina questo sfondo',
   },
   'AddCustomBackground': {
     languageEn: 'Add your own background',
@@ -1505,6 +1539,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Додати свій фон',
     languagePl: 'Dodaj swoje tło',
     languageDe: "Fügen Sie Ihren Hintergrund hinzu",
+    languageIt: 'Aggiungi il tuo sfondo',
   },
   'CustomImage': {
     languageEn:
@@ -1517,6 +1552,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Dodaj swoje tło. Zwróć uwagę, że Twoje zdjęcie może wyglądać\nidealnie z ciemnym motywem, a jednocześnie bardzo\nźle z jasnym lub odwrotnie! Spróbuj wybrać ciemne\nobrazy dla ciemnego motywu i bardzo jasne dla jasnego.',
     languageDe:
         "Fügen Sie Ihren Hintergrund hinzu. Achten Sie darauf, dass Ihr Bild\nperfekt mit einem dunklen Thema kombiniert werden kann und\ngleichzeitig unglaublich ekelhaft mit Licht ist oder umgekehrt!\nVersuchen Sie, dunkle Bilder für ein dunkles Thema und sehr helle\nBilder für ein helles zu wählen.",
+    languageIt: 
+        'Aggiungi il tuo sfondo. Tieni presente che la tua immagine personalizzata\npuò avere un aspetto fantastico con un tema scuro e incredibilmente disgustoso\ncon un tema chiaro, o viceversa! Prova a scegliere immagini scure per il tema\nscuro e immagini molto chiare per il tema chiaro.',
   },
   'OpenImageDirectory': {
     languageEn: "Open image's backup directory",
@@ -1524,6 +1561,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Відкрити папку з резервною копією',
     languagePl: 'Otwórz folder kopii zapasowej',
     languageDe: "Sicherungsordner öffnen",
+    languageIt: 'Apri la directory di backup dell`immagine',
   },
   'Never': {
     languageEn: "Never change",
@@ -1531,6 +1569,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Ніколи не змінювати',
     languagePl: 'Nigdy nie zmieniaj',
     languageDe: "Nie ändern",
+    languageIt: 'Non cambia mai',
   },
   'EachWeek': {
     languageEn: "Once a week",
@@ -1538,6 +1577,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Раз на тиждень',
     languagePl: 'Raz w tygodniu',
     languageDe: "Wöchentlich",
+    languageIt: 'Una volta a settimana',
   },
   'EveryDay': {
     languageEn: "Every day",
@@ -1545,6 +1585,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Кожну добу',
     languagePl: 'Codziennie',
     languageDe: "Täglich",
+    languageIt: 'Ogni giorno',
   },
   'OnEachRestart': {
     languageEn: "On application's restart",
@@ -1552,6 +1593,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'При перезапуску програми',
     languagePl: 'Podczas ponownego uruchamiania programu',
     languageDe: "Beim Neustart des Programms",
+    languageIt: 'Al riavvio dell`applicazione',
   },
   'ApplyingYourImage': {
     languageEn: "Processing your image before saving it",
@@ -1559,6 +1601,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Обробляємо твою картинку перед її збереженням',
     languagePl: 'Przetwarzamy Twoje zdjęcie przed jego zapisaniem',
     languageDe: "Wir bearbeiten dein Bild, bevor wir es speichern",
+    languageIt: 'Elaborazione dell`immagine prima di salvarla',
   },
   'ApplyingYourAvatar': {
     languageEn: "Processing your avatar image",
@@ -1566,6 +1609,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Обробляємо твою аватарку',
     languagePl: 'Przetwarzamy Twój awatar',
     languageDe: "Wir bearbeiten deinen Avatar",
+    languageIt: 'Elaborazione dell`immagine del tuo avatar',
   },
   'AdaptForNewThemes': {
     languageEn: "Adaptation for special events",
@@ -1573,6 +1617,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Адаптація під спеціальні івенти',
     languagePl: 'Adaptacja na eventy',
     languageDe: "Anpassung für besondere Anlässe",
+    languageIt: 'Adattamento per eventi speciali',
   },
   'AdaptForNewThemesDescription': {
     languageEn:
@@ -1585,6 +1630,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Tło aplikacji i jej niektóre elementy zmienią się w zależności od trwającego teraz święta',
     languageDe:
         "Der Hintergrund der Anwendung und einige Elemente werden sich je nach dem derzeit stattfindenden Feiertag ändern",
+    languageIt: 
+        'Lo sfondo dell`applicazione e alcuni dei suoi elementi si trasformeranno a seconda delle festività in corso',
   },
   'NewYear': {
     languageEn: "Christmas",
@@ -1592,6 +1639,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Новий рік',
     languagePl: 'Nowy rok',
     languageDe: "Neujahr",
+    languageIt: 'Natale',
   },
   'Halloween': {
     languageEn: "Halloween",
@@ -1599,6 +1647,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Хеллоуїн',
     languagePl: 'Halloween',
     languageDe: "Halloween",
+    languageIt: 'Halloween',
   },
   'LoveDay': {
     languageEn: "Romantic",
@@ -1606,6 +1655,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Романтика',
     languagePl: 'Romantyk',
     languageDe: "Romantik",
+    languageIt: 'Romantico',
   },
   'SchoolDay': {
     languageEn: "Study day",
@@ -1613,6 +1663,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'День навчання',
     languagePl: 'Dzień nauki',
     languageDe: "Lerntag",
+    languageIt: 'Giornata di studio',
   },
   'JokeDay': {
     languageEn: "Fool's day",
@@ -1620,6 +1671,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'День дурня',
     languagePl: 'Prima aprilis',
     languageDe: "Narrentag",
+    languageIt: 'Pesce d`aprile',
   },
   'SummerStart': {
     languageEn: "Summerrr",
@@ -1627,6 +1679,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Літоооо',
     languagePl: 'Latoooo',
     languageDe: "Sommer",
+    languageIt: 'Estateee',
   },
   'VictoryDay': {
     languageEn: "War",
@@ -1634,6 +1687,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Воєнний',
     languagePl: 'Wojskowy',
     languageDe: "Militär",
+    languageIt: 'Guerra',
   },
   'SpaceDay': {
     languageEn: "Space",
@@ -1641,6 +1695,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Космос',
     languagePl: 'Kosmos',
     languageDe: "Kosmos",
+    languageIt: 'Spazio',
   },
   'IceCreamDay': {
     languageEn: "Ice cream",
@@ -1648,6 +1703,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Морозивко',
     languagePl: 'Lódy',
     languageDe: "Eis",
+    languageIt: 'Gelato',
   },
   'FishingDay': {
     languageEn: "Fishes",
@@ -1655,6 +1711,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Рибки',
     languagePl: 'Rybki',
     languageDe: "Fisch",
+    languageIt: 'Pesci',
   },
   'TastyFoodDay': {
     languageEn: "Goodies",
@@ -1662,6 +1719,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Вкусняшки',
     languagePl: 'Pyszności',
     languageDe: "lecker",
+    languageIt: 'Chicche',
   },
   'CatsDay': {
     languageEn: "Kitties",
@@ -1669,6 +1727,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Кошенята',
     languagePl: 'Kotki',
     languageDe: "Kätzchen",
+    languageIt: 'Gattini',
   },
   'Anime': {
     languageEn: 'Anime',
@@ -1676,6 +1735,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Аніме',
     languagePl: 'Anime',
     languageDe: "Anime",
+    languageIt: 'Anime',
   },
   'All': {
     languageEn: 'Receive notifications about all modifications',
@@ -1683,6 +1743,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Отримувати повідомлення про всі модифікації',
     languagePl: 'Otrzymuj powiadomienia o wszystkich modyfikacjach',
     languageDe: "Benachrichtigungen über alle Modifikationen erhalten",
+    languageIt: 'Ricevi notifiche su tutte le modifiche',
   },
   'None': {
     languageEn: 'Do not receive such notifications',
