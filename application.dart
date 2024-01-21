@@ -2479,6 +2479,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Встановлюємо необхідні шрифти',
     languagePl: 'Instalujemy niezbędne czcionki',
     languageDe: "Installieren Sie die erforderlichen Schriftarten",
+    languageIt: 'Installazione di caratteri importanti',
   },
   'InstallingExtraFiles': {
     languageEn: "Preparing modification's extra files",
@@ -2486,6 +2487,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Готуємо додаткові файли',
     languagePl: 'Przygotowujemy dodatkowe pliki',
     languageDe: "Wir bereiten zusätzliche Dateien vor",
+    languageIt: 'Preparazione dei file extra della modifica',
   },
   'UpdatingExtraFiles': {
     languageEn: "Updating modification's extra files",
@@ -2493,6 +2495,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Оновлюємо додаткові файли',
     languagePl: 'Aktualizujemy dodatkowe pliki',
     languageDe: "Wir aktualisieren zusätzliche Dateien",
+    languageIt: 'Aggiornamento dei file extra della modifica',
   },
   'UnpackingExtraFiles': {
     languageEn: "Unpacking modification's extra files",
@@ -2500,6 +2503,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Розпаковуємо додаткові файли',
     languagePl: 'Rozpakowywanie dodatkowe pliki',
     languageDe: "Entpacken aktualisieren zusätzliche Dateien",
+    languageIt: 'Decompressione dei file extra della modifica',
   },
   'PreparingProcesses': {
     languageEn: 'Configuring the processes',
@@ -2507,6 +2511,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Налаштовуємо процеси',
     languagePl: 'Konfigurujemy procesy',
     languageDe: "Prozesse konfigurieren",
+    languageIt: 'Configurazione dei processi',
   },
   'LaunchingCSGO': {
     languageEn: "Launching the {game}",
@@ -2514,6 +2519,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Запускаємо {game}",
     languagePl: "Uruchom {game}",
     languageDe: "Starten Sie {game}",
+    languageIt: 'Avvio del {game}',
   },
   'Game': {
     languageEn: 'game',
@@ -2521,6 +2527,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'гру',
     languagePl: 'grę',
     languageDe: "Spiel",
+    languageIt: 'gioco',
   },
   'WaitingForCSGOLaunch': {
     languageEn: "Waiting for you to launch the {game}",
@@ -2528,6 +2535,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Очікуємо, поки ти запустиш {game}",
     languagePl: "Czekamy na uruchomienie {game}",
     languageDe: "Warten Sie, bis Sie {game} starten",
+    languageIt: 'In attesa che tu avvii il {game}',
   },
   'LoginOrPasswordError': {
     languageEn:
@@ -2540,6 +2548,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety nie udało nam się zalogować do systemu partnerskiego przy użyciu wprowadzonych danych. Upewnij się, że wszystko jest wpisane poprawnie, Twoja subskrypcja jest aktywna i spróbuj ponownie! Zwróć uwagę, że wielkość liter nicku musi być zgodna z tę, którą podałeś przy zakupie. Przykład: wprowadzenie nicku „tEst” zamiast „Test” jest błędem i spowoduje problem podczas próby autoryzacji!',
     languageDe:
         "Leider konnten wir uns mit den von Ihnen eingegebenen Daten nicht im Partnersystem anmelden. Stellen Sie sicher, dass alles korrekt eingegeben wurde, Ihr Abonnement aktiv ist und versuchen Sie die Autorisierung erneut! Achten Sie darauf, dass die Groß-Kleinschreibung der Zeichen des Spitznamens mit der übereinstimmen muss, die Sie beim Kauf angegeben haben. Beispiel: Die Eingabe des Spitznamens „tEst“ anstelle von „Test“ ist ein Fehler und führt zu einem Problem beim Autorisierungsversuch!",
+    languageIt: 
+        'Purtroppo non siamo riusciti ad autorizzare il sistema del partner con i dati che hai inserito. Assicurati che tutto sia corretto, che il tuo abbonamento sia attivo e riprova! Fai attenzione, il maiuscolo dei caratteri del nickname deve corrispondere a quello specificato durante il processo di acquisto. Esempio: digitare il nickname «tEst» invece di «Test» è un errore e causerà un problema durante il tentativo di accesso!',
   },
   'FailedToLaunchDueToSteam': {
     languageEn:
@@ -2552,6 +2562,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Uruchamianie modyfikacji zostało przerwane z powodu braku zainstalowanego Steama na twoim urządzeniu. Aby kontynuować, zainstaluj Steama i spróbuj ponownie!',
     languageDe:
         "Der Mod-Start wurde unterbrochen, weil Steam nicht auf Ihrem Gerät installiert ist. Um fortzufahren, installieren Sie Steam und versuchen Sie es erneut!",
+    languageIt: 
+        'Il processo di avvio della modifica è stato interrotto a causa dell`assenza di Steam installato sul tuo dispositivo. Installa Steam e riprova ad avviare la modifica per continuare!',
   },
   'LaunchingSteam': {
     languageEn: 'Launching steam',
@@ -2559,6 +2571,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Запускаємо steam',
     languagePl: 'Uruchamiamy steam',
     languageDe: "Steam Startet...",
+    languageIt: 'Avvio di Steam',
   },
   'WaitingForSteamLaunch': {
     languageEn: 'Waiting for you to launch steam',
@@ -2566,6 +2579,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Очікуємо, поки ти запустиш steam',
     languagePl: 'Czekamy na uruchomienie Steam',
     languageDe: "Warten Sie, bis Sie Steam starten",
+    languageIt: 'Aspetta finché non ti si avvii Steam',
   },
   'CheckingModules': {
     languageEn: 'Analyzing game modules',
@@ -2573,6 +2587,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Перевіряємо ігрові модулі',
     languagePl: 'Sprawdzamy moduły gry',
     languageDe: "Überprüfen Sie die Spielmodule",
+    languageIt: 'Analisi dei moduli di gioco',
   },
   'CheckingCSGOSettings': {
     languageEn: 'Checking the game settings',
@@ -2580,6 +2595,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Перевіряємо параметри гри',
     languagePl: 'Sprawdzamy parametry gry',
     languageDe: "Überprüfen Sie die Parameter des Spiels",
+    languageIt: 'Controllo delle impostazioni del gioco',
   },
   'RetrievingAddresses': {
     languageEn: "Retrieving game's addresses",
@@ -2587,6 +2603,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Отримуємо ігрові адреси',
     languagePl: 'Pobieranie adresów gry',
     languageDe: "Wir erhalten Spieladressen",
+    languageIt: 'Recupero indirizzi di gioco',
   },
   'FailedToRetrieveAddresses': {
     languageEn:
@@ -2599,6 +2616,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety, ExLoader nie mógł uzyskać niezbędnych informacji o adresach w grze. Najprawdopodobniej oznacza to, że modyfikacja, którą próbowałeś uruchomić, jest nieaktualna i wymaga aktualizacji. Spróbuj uruchomić modyfikacje za parę godzin!',
     languageDe:
         "Leider konnte ExLoader nicht die notwendigen Informationen über Adressen und Strukturen im Spiel abrufen. Höchstwahrscheinlich bedeutet dies, dass der Mod, den Sie ausführen wollten, veraltet ist und aktualisiert werden muss. Bitte versuchen Sie nach einer Weile erneut, diese Modifikation zu starten!",
+    languageIt: 
+        'Sfortunatamente, ExLoader non è riuscito a recuperare alcune informazioni necessarie sugli indirizzi e sulle strutture interne del gioco. Molto probabilmente, ciò significa che la modifica che hai tentato di avviare è obsoleta e deve essere aggiornata. Prova a lanciare di nuovo questa modifica tra qualche ora!',
   },
   'CreatingModificationFile': {
     languageEn: "Creating the modification's module",
@@ -2606,6 +2625,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Створюємо модуль модифікації',
     languagePl: 'Tworzymy bootowalny moduł modyfikacji',
     languageDe: "Erstellen Sie ein bootfähiges Modifikationsmodul",
+    languageIt: 'Creazione del modulo di modifica',
   },
   'ModificationInjecting': {
     languageEn: "Implementing modification's module",
@@ -2613,6 +2633,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Впроваджуемо модуль модифікації',
     languagePl: 'Wdrażamy moduł modyfikacji',
     languageDe: "Wir implementieren das Modifikationsmodul",
+    languageIt: 'Implementazione del modulo di modifica',
   },
   'ChangeInjectionOrOutdated': {
     languageEn:
@@ -2625,6 +2646,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wygląda na to, że ta modyfikacja jest przestarzała lub wybrana metoda wstrzykiwania nie nadaje się do jej uruchomienia! Ten problem nie dotyczy ExLoadera, ale jest związany z samą modyfikacją!',
     languageDe:
         "Es scheint, dass diese Modifikation veraltet ist oder die gewählte Injektionsmethode nicht für ihre Einführung geeignet ist! Dieses Problem betrifft nicht ExLoader, sondern hängt mit der Modifikation selbst zusammen!",
+    languageIt: 
+        'Sembra che questa modifica sia obsoleta o che il metodo di iniezione scelto non sia adatto al suo avvio! Questo non è un problema di ExLoader, ma della modifica stessa!',
   },
   'BadUserName': {
     languageEn:
@@ -2637,6 +2660,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Twoja nazwa użytkownika Windows „{user}” zawiera nieprawidłowe znaki. Aby rozwiązać ten problem, zalecamy zmianę nazwy urządzenia przy użyciu prawidłowych znaków, takich jak angielskie litery, cyfry, myślniki i kropki (wszystkie inne znaki i symbole są zabronione).',
     languageDe:
         "Ihr Windows-Benutzername „{user}“ scheint ungültige Zeichen zu enthalten. Um dieses Problem zu lösen, empfehlen wir Ihnen, das Gerät nur mit gültigen Zeichen umzubenennen, wie z. B. englische Buchstaben, Zahlen, Bindestriche und Punkte (alle anderen Zeichen und Symbole sind verboten).",
+    languageIt: 
+        'Sembra che il tuo nome utente Windows «{user}» contenga caratteri non validi. Per risolvere questo problema, ti consigliamo di rinominare il dispositivo utilizzando caratteri validi come (solo) lettere inglesi, numeri, trattini e punti (qualsiasi altra cosa è severamente vietata).',
   },
   'FailedToLaunchTheModificationRestartIsNeeded': {
     languageEn:
@@ -2649,6 +2674,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wystąpił błąd podczas uruchamiania modyfikacji. Najprawdopodobniej restart gry pomoże rozwiązać ten problem!',
     languageDe:
         "Beim Start der Modifikation ist ein Fehler aufgetreten. Höchstwahrscheinlich hilft ein normaler Neustart des Spiels bei der Lösung dieses Problems!",
+    languageIt: 
+        'Si è verificato un errore durante il processo di avvio della modifica. Molto probabilmente, un normale riavvio del gioco potrebbe aiutare a risolvere questo problema!',
   },
   'FailedToLaunchTheModification': {
     languageEn:
@@ -2661,6 +2688,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Podczas uruchamiania modyfikacji wystąpił nieoczekiwany błąd 🙁. Spróbuj zmienić sposób wstrzykiwania modyfikacji w ustawieniach Exloadera lub przetestuj uruchomienie innej modyfikacji. Listę dostępnych modyfikacji dla każdej metody wstrzykiwania można zobaczyć w ustawieniach aplikacji!',
     languageDe:
         "Beim Starten der Modifikation ist ein unerwarteter Fehler aufgetreten 🙁. Versuchen Sie, die Art und Weise zu ändern, wie Modifikationen in den ExLoader-Einstellungen injiziert werden, oder testen Sie, ob eine andere Modifikation ausgeführt wird. Die Liste der verfügbaren Modifikationen für jede Injektionsmethode kann in den Anwendungseinstellungen eingesehen werden!",
+    languageIt: 
+        'Si è verificato un errore imprevisto durante il processo di avvio della modifica 🙁. Prova a cambiare il metodo di iniezione della modifica nelle impostazioni di ExLoader o prova l`avvio di qualche altra modifica. L`elenco delle modifiche disponibili per ciascun metodo di iniezione può essere visualizzato nelle impostazioni dell`applicazione!',
   },
   'VerifyingFiles': {
     languageEn: "Verifying installation files",
@@ -2668,6 +2697,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Верифікуємо установчі файли',
     languagePl: 'Weryfikujemy pliki instalacyjne',
     languageDe: "Überprüfen Sie die Installationsdateien",
+    languageIt: 'Verifica dei file di installazione',
   },
   'InstallingModification': {
     languageEn: "Installing the modification",
@@ -2675,6 +2705,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Установка модифікації',
     languagePl: 'Instalacja modyfikacji',
     languageDe: "Installation der Modifikation",
+    languageIt: 'Installazione della modifica',
   },
   'UpdatingModification': {
     languageEn: "Updating the modification",
@@ -2682,6 +2713,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Оновлення модифікації',
     languagePl: 'Aktualizacja modyfikacji',
     languageDe: "Aktualisierung der Modifikation",
+    languageIt: 'Aggiornamento della modifica',
   },
   'AnalyzingGameBehaviour': {
     languageEn: "Watching the game's behaviour",
@@ -2689,6 +2721,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Аналізуємо поведінку гри',
     languagePl: 'Analizujemy zachowania gry',
     languageDe: "Wir analysieren das Spielverhalten",
+    languageIt: 'Osservando il comportamento del gioco',
   },
   'NoUserRights': {
     languageEn:
@@ -2701,6 +2734,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Twoje konto użytkownika nie ma uprawnień administratora! Aby kontynuować, przejdź do panelu sterowania, kont użytkowników, zmień typ konta i wybierz „Administrator” dla użytkownika {user}. Nie zapomnij zrestartować urządzenia po zastosowaniu zmian!',
     languageDe:
         'Ihr Benutzerkonto hat keine Administratorrechte! Um fortzufahren, gehen Sie zur Systemsteuerung, Benutzerkonten, ändern Sie den Kontotyp und wählen Sie "Administrator" für Benutzer {user}. Vergessen Sie nicht, Ihr Gerät neu zu starten, nachdem Sie die Modifikationen übernommen haben!',
+    languageIt: 
+        'Il tuo account utente non dispone dei privilegi di amministratore. Vai al pannello di controllo, account utente, modifica il tipo di account e seleziona «Amministratore» per l`utente {user}. Non dimenticare di riavviare il dispositivo dopo tali modifiche!',
   },
   'ConfigsHub': {
     languageEn: "ConfigsHub",
@@ -2708,6 +2743,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Центр конфігурацій",
     languagePl: 'Centrum konfiguracji',
     languageDe: "Konfigurationszentrum",
+    languageIt: 'Centro di configurazione',
   },
   'OneSecond': {
     languageEn: 'second',
@@ -2715,6 +2751,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'секунда',
     languagePl: 'sekunda',
     languageDe: "Sekunde",
+    languageIt: 'secondo',
   },
   'TwoSeconds': {
     languageEn: 'seconds',
@@ -2722,6 +2759,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'секунди',
     languagePl: 'sekundy',
     languageDe: "Sekunden",
+    languageIt: 'secondi',
   },
   'Seconds': {
     languageEn: 'seconds',
@@ -2729,6 +2767,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'секунд',
     languagePl: 'sekund',
     languageDe: "Sekunden",
+    languageIt: 'secondi',
   },
   'OneMinute': {
     languageEn: 'minute',
@@ -2736,6 +2775,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'хвилина',
     languagePl: 'minuta',
     languageDe: "Minute",
+    languageIt: 'minuto',
   },
   'OneMinuteNoun': {
     languageEn: 'minute',
@@ -2743,6 +2783,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'хвилину',
     languagePl: 'minutę',
     languageDe: "Minute",
+    languageIt: 'minuto',
   },
   'TwoMinutes': {
     languageEn: 'minutes',
@@ -2750,6 +2791,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'хвилини',
     languagePl: 'minuty',
     languageDe: "Minuten",
+    languageIt: 'minuti',
   },
   'Minutes': {
     languageEn: 'minutes',
@@ -2757,6 +2799,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'хвилин',
     languagePl: 'minut',
     languageDe: "Minuten",
+    languageIt: 'minuti',
   },
   'OneHour': {
     languageEn: 'hour',
@@ -2764,6 +2807,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'година',
     languagePl: 'godzina',
     languageDe: "Stunde",
+    languageIt: 'ora',
   },
   'TwoHours': {
     languageEn: 'hours',
@@ -2771,6 +2815,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'години',
     languagePl: 'godziny',
     languageDe: "Stunden",
+    languageIt: 'ore',
   },
   'Hours': {
     languageEn: 'hours',
@@ -2778,6 +2823,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'годин',
     languagePl: 'godzin',
     languageDe: "Stunden",
+    languageIt: 'ore',
   },
   'OneDay': {
     languageEn: 'day',
@@ -2785,6 +2831,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'день',
     languagePl: 'dzień',
     languageDe: "Tag",
+    languageIt: 'giorno',
   },
   'TwoDays': {
     languageEn: 'days',
@@ -2792,6 +2839,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'дні',
     languagePl: 'dni',
     languageDe: "Tage",
+    languageIt: 'giorni',
   },
   'Days': {
     languageEn: 'days',
@@ -2799,6 +2847,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'днів',
     languagePl: 'dni',
     languageDe: "Tage",
+    languageIt: 'giorni',
   },
   'OneWeek': {
     languageEn: 'week',
@@ -2806,6 +2855,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'тиждень',
     languagePl: 'tydzień',
     languageDe: "Woche",
+    languageIt: 'settimana',
   },
   'TwoWeeks': {
     languageEn: 'weeks',
@@ -2813,6 +2863,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'тижні',
     languagePl: 'tygodnie',
     languageDe: "Wochen",
+    languageIt: 'settimane',
   },
   'Weeks': {
     languageEn: 'weeks',
@@ -2820,6 +2871,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'тижнів',
     languagePl: 'tygodni',
     languageDe: "Wochen",
+    languageIt: 'settimane',
   },
   'OneMonth': {
     languageEn: 'month',
@@ -2827,6 +2879,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'місяць',
     languagePl: 'miesiąc',
     languageDe: "Monat",
+    languageIt: 'mese',
   },
   'TwoMonths': {
     languageEn: 'months',
@@ -2834,6 +2887,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'місяці',
     languagePl: 'miesiące',
     languageDe: "Monate",
+    languageIt: 'mesi',
   },
   'Months': {
     languageEn: 'months',
@@ -2841,6 +2895,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'місяців',
     languagePl: 'miesiący',
     languageDe: "Monate",
+    languageIt: 'mesi',
   },
   'OneYear': {
     languageEn: 'year',
@@ -2848,6 +2903,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'рік',
     languagePl: 'rok',
     languageDe: "Jahr",
+    languageIt: 'anno',
   },
   'TwoMYears': {
     languageEn: 'years',
@@ -2855,6 +2911,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'роки',
     languagePl: 'lata',
     languageDe: "Jahre",
+    languageIt: 'anni',
   },
   'YearsNoun': {
     languageEn: 'year',
@@ -2862,6 +2919,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'року',
     languagePl: 'roku',
     languageDe: "Jahr",
+    languageIt: 'anno',
   },
   'Years': {
     languageEn: 'years',
@@ -2869,6 +2927,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'років',
     languagePl: 'lat',
     languageDe: "Jahre",
+    languageIt: 'anni',
   },
   'January': {
     languageEn: 'January',
@@ -2876,6 +2935,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Січень',
     languagePl: 'Styczeń',
     languageDe: "Januar",
+    languageIt: 'Gennaio',
   },
   'JanuaryNoun': {
     languageEn: 'January',
@@ -2883,6 +2943,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Січня',
     languagePl: 'Stycznia',
     languageDe: "Januar",
+    languageIt: 'Gennaio',
   },
   'February': {
     languageEn: 'February',
@@ -2890,6 +2951,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Лютий',
     languagePl: 'Luty',
     languageDe: "Februar",
+    languageIt: 'Febbraio',
   },
   'FebruaryNoun': {
     languageEn: 'February',
@@ -2897,6 +2959,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Лютого',
     languagePl: 'Lutego',
     languageDe: "Februar",
+    languageIt: 'Febbraio',
   },
   'March': {
     languageEn: 'March',
@@ -2904,6 +2967,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Березень',
     languagePl: 'Marzec',
     languageDe: "März",
+    languageIt: 'Marzo',
   },
   'MarchNoun': {
     languageEn: 'March',
@@ -2911,6 +2975,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Березня',
     languagePl: 'Marzca',
     languageDe: "März",
+    languageIt: 'Marzo',
   },
   'April': {
     languageEn: 'April',
@@ -2918,6 +2983,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Квітень',
     languagePl: 'Kwiecień',
     languageDe: "April",
+    languageIt: 'Aprile',
   },
   'AprilNoun': {
     languageEn: 'April',
@@ -2925,6 +2991,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Квітня',
     languagePl: 'Kwietnia',
     languageDe: "April",
+    languageIt: 'Aprile',
   },
   'May': {
     languageEn: 'May',
@@ -2932,6 +2999,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Травня',
     languagePl: 'Maj',
     languageDe: "Mai",
+    languageIt: 'Maggio',
   },
   'MayNoun': {
     languageEn: 'May',
@@ -2939,6 +3007,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Травень',
     languagePl: 'Maja',
     languageDe: "Mai",
+    languageIt: 'Maggio',
   },
   'June': {
     languageEn: 'June',
@@ -2946,6 +3015,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Червень',
     languagePl: 'Czerwiec',
     languageDe: "Juni",
+    languageIt: 'Giugno',
   },
   'JuneNoun': {
     languageEn: 'June',
@@ -2953,6 +3023,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Червня',
     languagePl: 'Czerwca',
     languageDe: "Juni",
+    languageIt: 'Giugno',
   },
   'July': {
     languageEn: 'July',
@@ -2960,6 +3031,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Липень',
     languagePl: 'Lipiec',
     languageDe: "Juli",
+    languageIt: 'Luglio',
   },
   'JulyNoun': {
     languageEn: 'July',
@@ -2967,6 +3039,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Липня',
     languagePl: 'Lipca',
     languageDe: "Juli",
+    languageIt: 'Luglio',
   },
   'August': {
     languageEn: 'August',
@@ -2974,6 +3047,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Серпень',
     languagePl: 'Sierpień',
     languageDe: "August",
+    languageIt: 'Agosto',
   },
   'AugustNoun': {
     languageEn: 'August',
@@ -2981,6 +3055,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Серпня',
     languagePl: 'Sierpnia',
     languageDe: "August",
+    languageIt: 'Agosto',
   },
   'September': {
     languageEn: 'September',
@@ -2988,6 +3063,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Вересень',
     languagePl: 'Wrzesień',
     languageDe: "September",
+    languageIt: 'Settembre',
   },
   'SeptemberNoun': {
     languageEn: 'September',
@@ -2995,6 +3071,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Вересня',
     languagePl: 'Września',
     languageDe: "September",
+    languageIt: 'settembre',
   },
   'October': {
     languageEn: 'October',
@@ -3002,6 +3079,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Жовтень',
     languagePl: 'Październik',
     languageDe: "Oktober",
+    languageIt: 'Ottobre',
   },
   'OctoberNoun': {
     languageEn: 'October',
@@ -3009,6 +3087,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Жовтня',
     languagePl: 'Października',
     languageDe: "Oktober",
+    languageIt: 'Ottobre',
   },
   'November': {
     languageEn: 'November',
@@ -3016,6 +3095,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Листопад',
     languagePl: 'Listopad',
     languageDe: "November",
+    languageIt: 'Novembre',
   },
   'NovemberNoun': {
     languageEn: 'November',
@@ -3023,6 +3103,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Листопада',
     languagePl: 'Listopada',
     languageDe: "November",
+    languageIt: 'Novembre',
   },
   'December': {
     languageEn: 'December',
@@ -3030,6 +3111,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Грудень',
     languagePl: 'Grudzień',
     languageDe: "Dezember",
+    languageIt: 'Dicembre',
   },
   'DecemberNoun': {
     languageEn: 'December',
@@ -3037,6 +3119,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Грудня',
     languagePl: 'Grudnia',
     languageDe: "Dezember",
+    languageIt: 'Dicembre',
   },
   'At': {
     languageEn: "at",
@@ -3044,6 +3127,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "в",
     languagePl: 'o',
     languageDe: "um",
+    languageIt: 'a',
   },
   'UpdateFailed': {
     languageEn:
@@ -3056,6 +3140,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety podczas aktualizacji programu wystąpił błąd, jednak nową wersję można pobrać samodzielnie za pomocą przycisku poniżej',
     languageDe:
         "Leider ist beim Aktualisieren des Programms ein Fehler aufgetreten, Sie können die neue Version jedoch selbst herunterladen, indem Sie die Schaltfläche unten verwenden",
+    languageIt: 
+        'Sfortunatamente si sono verificati degli errori durante l`aggiornamento dell`applicazione, tuttavia puoi scaricare tu stesso la nuova versione utilizzando il pulsante in basso',
   },
   'UpdateFailedTryManual': {
     languageEn:
@@ -3068,6 +3154,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wygląda na to, że wystąpił błąd podczas aktualizacji programu, możesz jednak zaktualizować go ręcznie: po prostu kliknij poniższy przycisk i przeciągnij wszystkie pliki z otwartego folderu do folderu, w którym zainstalowałeś ExLoadera!',
     languageDe:
         "Es scheint, dass beim Aktualisieren des Programms ein Fehler aufgetreten ist, Sie können es jedoch manuell aktualisieren: Klicken Sie einfach auf die Schaltfläche unten und ziehen Sie alle Dateien aus dem geöffneten Ordner in den Ordner, in dem Sie ExLoader installiert haben!",
+    languageIt: 
+        'Sembra che si sia verificato un errore imprevisto durante l`aggiornamento di ExLoader, tuttavia, puoi installarlo manualmente: basta fare clic sul pulsante in basso e trascinare tutti i file dalla cartella aperta alla directory in cui è installato ExLoader!',
   },
   'OpenDirectory': {
     languageEn: "Open directory",
@@ -3075,6 +3163,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Відкрити папку',
     languagePl: 'Otwórz folder',
     languageDe: "Ordner öffnen",
+    languageIt: 'Apri directory',
   },
   'MissingAssets': {
     languageEn:
@@ -3087,6 +3176,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wygląda na to, że część plików aplikacji została utracona podczas instalacji. Niestety, będziesz musiał ponownie zainstalować ExLoadera z naszej oficjalnej strony!',
     languageDe:
         "Es scheint, dass einige Dateien des Programms während der Installation verloren gegangen sind. Leider müssen Sie ExLoader von unserer offiziellen Website neu installieren!",
+    languageIt: 
+        'Sembra che alcuni file dell`applicazione non siano stati installati durante il processo di installazione dell`applicazione. Sfortunatamente, dovrai reinstallare ExLoader dal nostro sito ufficiale!',
   },
   'NotForMobile': {
     languageEn: "This section is not available for mobile modifications!",
@@ -3094,6 +3185,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Даний розділ недоступний для мобільних модифікацій!",
     languagePl: 'Ta sekcja nie jest dostępna dla modyfikacji mobilnych!',
     languageDe: "Dieser Abschnitt ist für mobile Mods nicht verfügbar!",
+    languageIt: 'Questa sezione non è disponibile per modifiche mobili!',
   },
   'Analyze': {
     languageEn: "Modification's problems solving",
@@ -3101,6 +3193,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Вирішення проблем модифікації',
     languagePl: 'Rozwiązywanie problemów z modyfikacjami',
     languageDe: "Lösung von Modifikationsproblemen",
+    languageIt: 'Risoluzione dei problemi di modifica',
   },
   'NoLaunchGuide': {
     languageEn:
@@ -3113,6 +3206,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Twórca tej modyfikacji nie pozostawił niezwykłych instrukcji do jej uruchomienia',
     languageDe:
         "Der Entwickler dieser Modifikation hat vor dem Start keine außergewöhnlichen Anweisungen hinterlassen",
+    languageIt: 
+        'Lo sviluppatore di questa modifica non ha lasciato istruzioni specifiche per l`avvio',
   },
   'AddStatTrak': {
     languageEn: 'Add StatTrak counter',
@@ -3120,6 +3215,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Додавати лічильник StatTrak',
     languagePl: 'Dodaj licznik StatTrak',
     languageDe: "StatTrak-Zähler hinzufügen",
+    languageIt: 'Aggiungi il contatore StatTrak',
   },
   'AddStatTrakDescription': {
     languageEn:
@@ -3132,6 +3228,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Do wszystkich wybranych skórek zostanie automatycznie dodany wynik StatTrak z pisanką',
     languageDe:
         "ExChanger fügt allen ausgewählten Skins automatisch einen StatTrak-Indikator mit einem Osterei hinzu",
+    languageIt: 
+        'A tutte le skin selezionate, ExChanger aggiungerà automaticamente l`indicatore StatTrak con un uovo di Pasqua',
   },
   'ChangeBotsSkins': {
     languageEn: 'Replace bots skins',
@@ -3139,6 +3237,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Змінювати скіни ботів',
     languagePl: 'Zmień skórki botów',
     languageDe: "Bots-Skins ändern",
+    languageIt: 'Sostituisci le skin dei bot',
   },
   'ChangeBotsSkinsDescription': {
     languageEn:
@@ -3150,6 +3249,8 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl: 'ExChanger zastosuje wybrane skórki do broni botów',
     languageDe:
         "ExChanger wendet Ihre ausgewählten Skins auf die Waffen der Bots an",
+    languageIt: 
+        'ExChanger conterà le skin dei bot come tue e le sostituirà con le stesse selezionate da te',
   },
   'SelectActiveItem': {
     languageEn: 'Select an active item',
@@ -3157,6 +3258,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Вибирати активний предмет',
     languagePl: 'Wybierz aktywny przedmiot',
     languageDe: "Aktives Objekt auswählen",
+    languageIt: 'Seleziona un elemento attivo',
   },
   'SelectActiveItemDescription': {
     languageEn:
@@ -3169,6 +3271,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Program automatycznie otworzy kartę z bronią wybraną w twoich rękach',
     languageDe:
         "Das Programm öffnet automatisch eine Registerkarte mit der ausgewählten Waffe in Ihrer Hand",
+    languageIt: 
+        'Il programma aprirà automaticamente la scheda il cui elemento è selezionato nelle tue mani',
   },
   'ExChangerDontUseAwait': {
     languageEn: "Do not optimize delay",
@@ -3176,6 +3280,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Не оптимізувати затримку',
     languagePl: 'Nie optymalizuj opóźnienia',
     languageDe: "Verzögerung nicht optimieren",
+    languageIt: 'Non ottimizzare il ritardo',
   },
   'ExChangerDontUseAwaitDescription': {
     languageEn:
@@ -3188,6 +3293,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Znacznie zwiększa obciążenie procesora, jednak usuwa wszystkie małe fryzy podczas zmiany skórki, dzięki czemu proces ten jest płynny',
     languageDe:
         "Erhöht die CPU-Belastung erheblich, entfernt jedoch alle kleinen Friesen, wenn Sie die Haut ändern, wodurch dieser Prozess reibungslos verläuft",
+    languageIt: 
+        'Aumenta significativamente l`utilizzo della CPU, tuttavia, rimuove tutti i blocchi del gioco durante il cambio delle skin e rende questo processo fluido',
   },
   'OpenHideButton': {
     languageEn: "A key for interacting with the ExChanger's menu",
@@ -3195,6 +3302,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Клавіша взаємодії з меню ExChanger',
     languagePl: 'Klawisz interakcji z menu ExChangera',
     languageDe: "Interaktionstaste aus dem ExChanger-Menü",
+    languageIt: 'Un tasto per interagire con il menu di ExChanger',
   },
   'ManualUpdateButton': {
     languageEn: 'A button of manual skins updating',
@@ -3202,6 +3310,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Клавіша ручного оновлення скінів',
     languagePl: 'Klawisz do ręcznej aktualizacji skinów',
     languageDe: "Eine Schaltfläche zum manuellen Aktualisieren von Skins",
+    languageIt: 'Un pulsante di aggiornamento manuale delle skin',
   },
   'HintsAndTips': {
     languageEn: 'Hints and tips',
@@ -3209,6 +3318,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Підказки та навчання',
     languagePl: 'Wskazówki i porady',
     languageDe: "Tipps und Tricks",
+    languageIt: 'Suggerimenti e trucchi',
   },
   'ResetTipsAndHints': {
     languageEn: 'Reset hints and extended tips status',
@@ -3216,6 +3326,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Скинути статус підказок та навчання',
     languagePl: 'Zresetuj stan wskazówek i porad',
     languageDe: "Tipp und Lernstatus zurücksetzen",
+    languageIt: 'Reimposta i suggerimenti e lo stato dei trucchi estesi',
   },
   'HintsCleared': {
     languageEn:
@@ -3228,6 +3339,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Gotowe, wszystkie wskazówki i porady zostaną ponownie wyświetlone!',
     languageDe:
         "Fertig, alle Hints und Tutorial-Banner werden wieder angezeigt!",
+    languageIt: 
+        'Questo è tutto, tutti i suggerimenti e i banner di formazione verranno mostrati nuovamente!',
   },
   'ResetTipsAndHintsDescription': {
     languageEn:
@@ -3240,6 +3353,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wszystkie podpowiedzi, w których kliknąłeś „nie pokazuj tego\nponownie”, jak również porady wyjaśniające przeznaczenie\nelementów programu, zostaną ponownie wyświetlone.',
     languageDe:
         'Alle Tooltips, in denen Sie auf "nicht mehr anzeigen"\ngeklickt haben, sowie Banner, die den Zweck von\nProgrammelementen erklären, werden erneut angezeigt.',
+    languageIt: 
+        'Verranno\nmostrati nuovamente tutti i suggerimenti su cui hai cliccato «non mostrarli\npiù», così come i banner che spiegano\nlo scopo degli elementi dell`applicazione.',
   },
   'AppVersion': {
     languageEn: "Application's version",
@@ -3247,6 +3362,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Версія програми',
     languagePl: 'Wersja programu',
     languageDe: "Programmversion",
+    languageIt: 'Versione dell`applicazione',
   },
   'YouUseTheLatestVersion': {
     languageEn:
@@ -3255,8 +3371,12 @@ const Map<String, Map<String, String>> localeItems = {
         'У тебя установлено самое последнее обновление приложения версии {version}!',
     languageUa:
         'У тебе встановлено останнє оновлення ExLoader версії {version}!',
-    languagePl: 'Masz zainstalowaną najnowszą wersję ExLoadera {version}!',
-    languageDe: "Sie haben die neueste ExLoader-Version {version} installiert!",
+    languagePl: 
+        'Masz zainstalowaną najnowszą wersję ExLoadera {version}!',
+    languageDe: 
+        "Sie haben die neueste ExLoader-Version {version} installiert!",
+    languageIt: 
+        'Hai installato l`ultimo aggiornamento della versione dell`applicazione {version}!',
   },
   'YouUseNotTheLatestVersion': {
     languageEn:
@@ -3269,6 +3389,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Być może nie używasz najnowszej wersji programu, ponieważ aplikację nie mógł sprawdzić dostępności najnowszych aktualizacji z powodu braku połączenia z serwerem! Twoja wersja klienta to {version}.',
     languageDe:
         "Möglicherweise verwenden Sie nicht die neueste Version des Programms, der App aufgrund fehlender Verbindung zu seinem Server nicht nach den neuesten Updates suchen konnte! Ihre Client-Version ist {version}.",
+    languageIt: 
+        'È possibile che tu non stia utilizzando la versione più recente dell`applicazione, poiché non è possibile recuperare i dati degli aggiornamenti a causa di problemi di connettività con il suo server! La versione del tuo cliente è: {version}.',
   },
   'BuildName': {
     languageEn: "build",
@@ -3276,6 +3398,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'білд',
     languagePl: 'build',
     languageDe: "Build",
+    languageIt: 'build',
   },
   'AppActivity': {
     languageEn: "Modifications and application's activity traces",
@@ -3283,6 +3406,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Сліди активності модифікацій і додатка',
     languagePl: 'Ślady modyfikacji i działania aplikacji',
     languageDe: "Spuren von Modifizierungs und Anwendungsaktivität",
+    languageIt: 'Modifiche e tracce dell`attività dell`applicazione',
   },
   'DeleteExLoader': {
     languageEn: "Delete ExLoader and erase activity traces",
@@ -3290,6 +3414,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Видалити ExLoader і очистити всі сліди',
     languagePl: 'Usuń ExLoader i wyczyść wszystkie ślady',
     languageDe: "ExLoader entfernen und alle Spuren löschen",
+    languageIt: 'Elimina ExLoader e cancella le tracce di attività',
   },
   'ExLoaderWilLBeErasedSoon': {
     languageEn:
