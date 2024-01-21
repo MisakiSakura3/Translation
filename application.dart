@@ -2134,6 +2134,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Poczekaj, aż ExLoader przetworzy twoją modyfikacje i zaktualizuje ją w bibliotece',
     languageDe:
         "Warten Sie, bis ExLoader Ihren Mod verarbeitet und in der Bibliothek aktualisiert",
+    languageIt: 
+        'Attendi che ExLoader analizzi la tua modifica e la aggiorni nella tua libreria!',
   },
   'FailedToUpdateCustomModification': {
     languageEn: 'Failed to update modification with selected file!',
@@ -2141,14 +2143,15 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Не вдалося оновити модифікацію за допомогою обраного файлу!',
     languagePl: 'Nie udało się zaktualizować modyfikacji z wybranym plikiem!',
     languageDe: "Mod mit ausgewählter Datei konnte nicht aktualisiert werden!",
+    languageIt: 'Impossibile aggiornare la modifica con il file selezionato!',
   },
   'FailedToAddCustomModification': {
     languageEn: 'Failed to add selected modification!',
     languageRu: 'Не удалось добавить выбранную модификацию!',
     languageUa: 'Не вдалося додати вибрану модифікацію!',
-    languagePl:
-        'Nie można zaktualizować modyfikacji za pomocą wybranego pliku!',
+    languagePl: 'Nie można zaktualizować modyfikacji za pomocą wybranego pliku!',
     languageDe: "Der ausgewählte Mod konnte nicht hinzugefügt werden!",
+    languageIt: 'Impossibile aggiungere la modifica selezionata!',
   },
   'ChooseADllOrExe': {
     languageEn: 'Choose a file of the desired modification',
@@ -2156,6 +2159,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Вибери файл бажаної модифікації',
     languagePl: 'Wybierz żądany plik modyfikacji',
     languageDe: "Wählen Sie die gewünschte Modifikation aus",
+    languageIt: 'Scegli un file con la modifica desiderata',
   },
   'DeletedSuccessfully': {
     languageEn: 'Modification has been removed from your library',
@@ -2163,6 +2167,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Модифікація видалена з твоєї бібліотеки',
     languagePl: 'Modyfikacja została usunięta z twojej biblioteki',
     languageDe: "Der Mod wurde aus Ihrer Bibliothek entfernt",
+    languageIt: 'La modifica è stata rimossa dalla tua libreria',
   },
   'Restore': {
     languageEn: 'Restore',
@@ -2170,6 +2175,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Відновити',
     languagePl: 'Przywróć',
     languageDe: "Wiederherstellen",
+    languageIt: 'Ristabilire',
   },
   'ModificationWillBeRemoved': {
     languageEn:
@@ -2182,6 +2188,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Proces usuwania wszystkich plików modyfikacji rozpocznie się za pięć sekund!',
     languageDe:
         "Das Löschen aller Modifikationsdateien beginnt nach fünf Sekunden!",
+    languageIt: 
+        'Il processo di rimozione di tutti i file di modifica verrà avviato in cinque secondi!',
   },
   'ModificationDeleted': {
     languageEn: 'Modifications files have been successfully deleted!',
@@ -2189,6 +2197,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Modification files were successfully deleted!',
     languagePl: 'Pliki modyfikacji zostały pomyślnie usunięte!',
     languageDe: "Modifikationsdateien wurden erfolgreich gelöscht!",
+    languageIt: 'I file delle modifiche sono stati eliminati con successo!',
   },
   'ModificationNotDeleted': {
     languageEn: "ExLoader did not find any modification's files on your device",
@@ -2200,6 +2209,7 @@ const Map<String, Map<String, String>> localeItems = {
         'ExLoader nie wykrył żadnych plików tej modyfikacji na Twoim urządzeniu!',
     languageDe:
         "ExLoader hat keine Dateien für diese Modifikation auf Ihrem Gerät gefunden!",
+    languageIt: 'ExLoader non ha trovato file di modifica sul tuo dispositivo',
   },
   'NoSupportLinkIsProvided': {
     languageEn:
@@ -2212,6 +2222,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Twórca tej modyfikacji nie podał linku do swojego wsparcia technicznego!',
     languageDe:
         "Der Entwickler dieser Modifikation hat keinen Link zu seinem technischen Support bereitgestellt!",
+    languageIt: 
+        'Lo sviluppatore di questa modifica non ha fornito alcun collegamento di contatto per il supporto!',
   },
   'CannotOpenThisLink': {
     languageEn: "Unfortunately, ExLoader cannot open this link 🙁",
@@ -2219,6 +2231,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "На жаль, ExLoader не може відкрити цю сторінку 🙁",
     languagePl: 'Niestety, ExLoader nie może otworzyć tej strony 🙁',
     languageDe: "Leider kann ExLoader diese Seite nicht öffnen🙁",
+    languageIt: 'Sfortunatamente, ExLoader non può aprire questo collegamento 🙁',
   },
   'AddingToExclusions': {
     languageEn: "Setting up the Windows Defender",
@@ -2226,6 +2239,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Налаштовуємо Захисник Windows',
     languagePl: 'Skonfiguruj Windows Defendera',
     languageDe: "Konfigurieren Sie Windows Defender",
+    languageIt: 'Configurazione di Windows Defender',
   },
   'ReplacingModule': {
     languageEn: "Changing game's loading module",
@@ -2233,6 +2247,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Змінюємо завантажувальний модуль гри',
     languagePl: 'Zmieniamy moduł ładowania gry',
     languageDe: "Ändern Sie das Boot-Modul des Spiels",
+    languageIt: 'Modifica del modulo di caricamento del gioco',
   },
   'SelectedKey': {
     languageEn: "Selected key:",
@@ -2240,6 +2255,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Вибрана клавіша:",
     languagePl: 'Wybrany klawisz:',
     languageDe: "Ausgewählter Taste:",
+    languageIt: 'Tasto selezionato:',
   },
   'GoogleAuthPageTitle': {
     languageEn: "ExLoader - authorization is completed",
@@ -2247,6 +2263,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "ExLoader - авторизація пройдена",
     languagePl: "ExLoader - autoryzacja zakończona",
     languageDe: "ExLoader - autorisierung bestanden",
+    languageIt: 'ExLoader - autorizzazione completata',
   },
   'GameUpdateMessage': {
     languageEn:
@@ -2259,14 +2276,16 @@ const Map<String, Map<String, String>> localeItems = {
         'Pamiętaj, że w ciągu ostatnich kilku dni została wydana "<style=lighten>"aktualizacja "<style=lighten>"{game}. Oznacza to, że niektóre "<style=lighten>"modyfikacje "<style=lighten>"mogą "<style=lighten>"zacząć "<style=lighten>"działać "<style=lighten>"niestabilnie co prowadzi do zcrashowania gry! Jeśli napotkasz podobny problem, po prostu "<style=lighten>"poczekaj "<style=lighten>"podczas gdy "<style=lighten>"developer "<style=lighten>"zaaktualizuje "<style=lighten>"swój "<style=lighten>"projekt. Zwykle trwa to od kilku godzin do "<style=lighten>"kilku "<style=lighten>"dni. Pamiętaj, że zespół "<style=lighten>"ExLoader "<style=lighten>"nie tworzy i "<style=lighten>"nie "<style=lighten>"aktualizuje "<style=lighten>"modyfikacji, publikujemy tylko ich aktualne wersje w naszej bibliotece!',
     languageDe:
         'Bitte beachten Sie, dass in den letzten Tagen das "<style=lighten>"{game} "<style=lighten>"veröffentlicht wurde. Dies bedeutet, dass einige "<style=lighten>"Modifikationen, an die Sie gewöhnt sind, "<style=lighten>""<style=lighten>"angefangen werden können. "<style=lighten>"funktioniert "<style=lighten>"instabil und führt zu Spielabstürzen! Wenn Sie auf ein ähnliches Problem stoßen, "<style=lighten>"warten Sie "<style=lighten>"während der "<style=lighten>"Entwickler "<style=lighten>"aktualisiert "<style=lighten>"Ihr "<style=lighten>"Projekt. Normalerweise geschieht dies innerhalb weniger Stunden bis zu "<style=lighten>"mehreren "<style=lighten>"Tagen. Denken Sie daran, dass der Befehl "<style=lighten>"ExLoader "<style=lighten>"nicht "<style=lighten>"erstellt, sondern "<style=lighten>"und "<style=lighten>"aktualisieren die "<style=lighten>"Mods, wir veröffentlichen nur ihre aktuellen Versionen in unserer Bibliothek!',
+    languageIt: 
+        'Tieni presente che negli ultimi giorni c`è stato un aggiornamento "<style=lighten>"{game} "<style=lighten>" Ciò significa che alcune "<style=lighten>"modifiche "<style=lighten>"potrebbero "<style=lighten>"iniziare "<style=lighten>"a funzionare "<style=lighten>"in "<style=lighten> "un modo "<style=lighten>"instabile "<style=lighten>" e portare al crash del gioco! Se riscontri un problema del genere, semplicemente "<style=lighten>"attendi "<style=lighten>" affinché "<style=lighten>" gli "<style=lighten>" sviluppatori "<style=lighten>" aggiornano "<style=lighten>"il loro progetto "<style=lighten>". Di solito, ciò accade nell`arco di poche ore o "<style=lighten>"diversi "<style=lighten>"giorni. Ricorda che il team "<style=lighten>"ExLoader "<style=lighten>"non "<style=lighten>"crea "<style=lighten> "o "<style=lighten>"aggiorna "<style=lighten>"modifiche, pubblichiamo solo le loro versioni attuali nella nostra libreria!',
   },
   'GoogleAuthPageDescription': {
     languageEn: "Validation is completed, you can go back to the application",
     languageRu: 'Валидация успешно пройдена, возвращайся в приложение',
     languageUa: 'Валідація успішно пройдена, повертайся в ExLoader',
     languagePl: 'Weryfikacja zakończona pomyślnie, wróć do ExLoadera',
-    languageDe:
-        "Validierung erfolgreich abgeschlossen, du kannst zurück zu ExLoader gehen",
+    languageDe: "Validierung erfolgreich abgeschlossen, du kannst zurück zu ExLoader gehen",
+    languageIt: 'La convalida è completata, puoi tornare all`applicazione',
   },
   'ForgotToAddChangelog': {
     languageEn:
@@ -2279,6 +2298,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wygląda na to, że zapomnieliśmy dodać dziennik zmian do tej modyfikacji 🙁. Albo po prostu jeszcze go nie ma. Lecz wkrótce może się to zmienić.',
     languageDe:
         "Es scheint, dass wir vergessen haben, Changelogs zu dieser Modifikation hinzuzufügen 🙁. Oder sie sind einfach noch nicht da. Aber nichts, das wird sich bald ändern.",
+    languageIt: 
+        'Sembra che ci siamo dimenticati di aggiungere i log delle modifiche per questa modifica 🙁. Oppure non ce ne sono ancora. Tuttavia, la situazione potrebbe cambiare presto.',
   },
   'Discount': {
     languageEn: "Discount",
@@ -2286,6 +2307,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Знижка",
     languagePl: 'Zniżka',
     languageDe: "Rabatt",
+    languageIt: 'Sconto',
   },
   'BonusDays': {
     languageEn: "bonus {days}",
@@ -2293,6 +2315,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "{days} в подарунок",
     languagePl: '{days} w prezencie',
     languageDe: "bonus {days}",
+    languageIt: 'bonus {days}',
   },
   'PreLaunchCheck': {
     languageEn: 'Pre-launch check',
@@ -2300,6 +2323,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Передстартова перевірка',
     languagePl: 'Kontrola przed uruchomieniem',
     languageDe: "Vorstartprüfung",
+    languageIt: 'Controllo pre-avvio',
   },
   'DisableAC': {
     languageEn:
@@ -2312,6 +2336,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Uruchomienie modyfikacji zostało przerwane z powodu obecności aktywnego i działającego anty-cheata użytkownika. Wyłącz wszystkie programy, takie jak FaceIt, ESEA, EAC, BattleEye, Byfron, Vanguard, MRAC itp. by kontynuować!',
     languageDe:
         "Der Start der Modifikation wurde aufgrund des Vorhandenseins eines aktiven und funktionierenden Benutzer-Anti-Cheats unterbrochen. Deaktivieren Sie alle Programme wie FaceIt, ESEA, EAC, BattleEye, Byfron, Vanguard, MRAC usw. zum fortfahren!",
+    languageIt: 
+        'Il processo di avvio della modifica è stato interrotto a causa della presenza di un anti-cheat utente attivo e funzionante. Disattiva tutti i programmi come FaceIt, ESEA, EAC, BattleEye, Byfron, Vanguard, MRAC, ecc. per continuare!',
   },
   'CmdWasNotFound': {
     languageEn:
@@ -2324,6 +2350,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wygląda na to, że na twoim komputerze brakuje wiersza polecenia. Aby rozwiązać ten problem, zwróć plik cmd.exe do folderu Windows\\System32 na dysku systemowym. Niestety, bez tej akcji, ExLoader nie będzie w stanie działać poprawnie.',
     languageDe:
         "Es scheint, dass auf Ihrem Computer keine Eingabeaufforderung vorhanden ist. Geben Sie die cmd-Datei zurück, um dieses Problem zu beheben.exe im Ordner Windows\\System32 auf dem Systemlaufwerk. Leider kann der ExLoader ohne diese Aktion nicht ordnungsgemäß funktionieren.",
+    languageIt: 
+        'Sembra che sul tuo dispositivo manchi la riga di comando. Per risolvere questo problema, restituisci il file cmd.exe alla cartella Windows\\System32 sull`unità di sistema. Sfortunatamente, ExLoader non funzionerà correttamente senza un`azione del genere da parte tua.',
   },
   'WindowsIsIncompatible': {
     languageEn:
@@ -2336,6 +2364,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety Twoja wersja systemu Windows nie jest kompatybilna z zalecaną wersją dla modyfikacji. Jeśli chcesz grać z tą modyfikacją, musisz zainstalować system Windows',
     languageDe:
         "Leider ist Ihre Windows-Version nicht mit der empfohlenen Version der Windows-Modifikation kompatibel. Wenn Sie mit diesem Mod spielen möchten, müssen Sie Windows installieren",
+    languageIt: 
+        'Sfortunatamente, la tua versione di Windows non è compatibile con quella consigliata dalla modifica. Se vuoi giocare con questa modifica, dovrai installare Windows',
   },
   'GPUIsIncompatible': {
     languageEn:
@@ -2348,6 +2378,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wygląda na to, że twoja karta graficzna jest niekompatybilna z jedną z kart wymaganych do uruchomienia moda. Do poprawnego uruchomienia modyfikacji potrzebna będzie karta graficzna jednego z poniższych producentów:',
     languageDe:
         "Es sieht so aus, als ob Ihre Grafikkarte nicht mit einer der Karten kompatibel ist, die zum Ausführen der Mod benötigt werden. Sie benötigen eine Grafikkarte eines der folgenden Hersteller, um die Mod korrekt auszuführen:",
+    languageIt: 
+        'Sembra che la tua scheda video sia incompatibile con una di quelle necessarie per avviare questa modifica. Avrai bisogno di una delle GPU dei seguenti produttori per utilizzare questa mod:',
   },
   'MicrosoftCheck': {
     languageEn: 'Checking for installation of Microsoft components',
@@ -2355,6 +2387,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Перевіряємо наявність компонентів Microsoft',
     languagePl: 'Sprawdzamy obecność komponentów Microsoft',
     languageDe: "Wir prüfen das Vorhandensein von Microsoft-Komponenten",
+    languageIt: 'Verifica dell`installazione dei componenti Microsoft',
   },
   'SortByTagDescription': {
     languageEn:
@@ -2367,6 +2400,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Sortowanie według skin changerów, modów legit, rage i movement,\na także według sieci neuronowych i makr odbywa się tutaj!',
     languageDe:
         "Die Sortierung nach Skin-Changer, Legit-, Rage- und Muvment\nMods, sowie nach neuronalen Netzen und Makros erfolgt hier!",
+    languageIt: 
+        'L`ordinamento per le mod skin changers, legit, rage e di movimento, nonché per reti neurali e macro può essere trovato qui!',
   },
   'NetFrameworkCheck': {
     languageEn: 'Comparing the .NET Framework versions',
@@ -2374,6 +2409,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Звіряємо версію .NET Framework',
     languagePl: 'Sprawdzamy wersję .NET Framework',
     languageDe: "Überprüfen Sie die .NET Framework-Version",
+    languageIt: 'Confronto tra le versioni di .NET Framework',
   },
   'NetRuntimeCheck': {
     languageEn: 'Comparing the .NET Runtime versions',
@@ -2381,6 +2417,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Звіряємо версію .NET Runtime',
     languagePl: 'Sprawdzamy wersję .NET Runtime',
     languageDe: "Überprüfen Sie die .NET Runtime-Version",
+    languageIt: 'Confronto delle versioni di .NET Runtime',
   },
   'JavaCheck': {
     languageEn: 'Looking for an installed Java',
@@ -2388,6 +2425,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Шукаємо встановлену Java',
     languagePl: 'Szukanie zainstalowanej Javy',
     languageDe: "Wir suchen nach installiertem Java",
+    languageIt: 'Alla ricerca di un Java installato',
   },
   'CheatEngineCheck': {
     languageEn: 'Looking for an installed CheatEngine',
@@ -2395,6 +2433,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Шукаємо встановлений CheatEngine',
     languagePl: 'Szukam zainstalowanego CheatEngine',
     languageDe: "Wir suchen nach installiertem CheatEngine",
+    languageIt: 'Alla ricerca di un CheatEngine installato',
   },
   'PythonCheck': {
     languageEn: 'Looking for an installed Python',
@@ -2402,6 +2441,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Шукаємо встановлений Python',
     languagePl: 'Szukam zainstalowanego Pythona',
     languageDe: "Suche nach installiertem Python",
+    languageIt: 'Alla ricerca di un Python installato',
   },
   'InstallingInjectionModule': {
     languageEn: "Installing the modification's launch module",
@@ -2409,14 +2449,15 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Установка завантажувального модуля',
     languagePl: 'Instalacja modułu rozruchowego',
     languageDe: "Installation des Bootmoduls",
+    languageIt: 'Installazione del modulo di avvio della modifica',
   },
   'CheckingCredentials': {
     languageEn: "Checking the authorization and the subscription",
     languageRu: 'Проверяем авторизацию и наличие подписки',
     languageUa: 'Перевіряємо авторизацію і наявність підписки',
     languagePl: 'Sprawdzamy autoryzację i dostępność subskrypcji',
-    languageDe:
-        "Überprüfen Sie die Autorisierung und Verfügbarkeit des Abonnements",
+    languageDe: "Überprüfen Sie die Autorisierung und Verfügbarkeit des Abonnements",
+    languageIt: 'Verifica dell`autorizzazione e dell`abbonamento',
   },
   'AdvertRenewCredentials': {
     languageEn:
@@ -2429,6 +2470,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wygląda na to, że Twoje dane z prywatnej modyfikacji, którą próbowałeś uruchomić, są nieaktualne! Być może Twoja subskrypcja wygasła lub potrzebujesz ponownej autoryzacji w systemie partnerskim!',
     languageDe:
         "Es sieht so aus, als ob Ihre Daten aus dem privaten Mod, den Sie ausführen wollten, veraltet sind! Vielleicht ist Ihr Abonnement abgelaufen oder Sie benötigen lediglich eine erneute Autorisierung im Partnersystem!",
+    languageIt: 
+        'Sembra che i tuoi dati della modifica privata che hai provato ad avviare siano obsoleti! Potresti aver esaurito l`abbonamento o devi semplicemente accedere nuovamente al sistema del partner!',
   },
   'InstallingFonts': {
     languageEn: 'Installing important fonts',
