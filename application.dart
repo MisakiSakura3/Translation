@@ -1751,6 +1751,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Не отримувати подібних повідомлень',
     languagePl: 'Nie otrzymuj takich powiadomień',
     languageDe: "Solche Benachrichtigungen nicht erhalten",
+    languageIt: 'Non ricevere tali notifiche',
   },
   'ByGameId': {
     languageEn:
@@ -1763,6 +1764,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Ukryj powiadomienia o modyfikacjach\ngier, których nie uruchomiłeś',
     languageDe:
         "Blende Nachrichten für Mods von\nSpielen aus, die du nicht gestartet hast",
+    languageIt: 
+        'Nascondi le notifiche per le modifiche\ndai giochi che non hai avviato',
   },
   'ClearList': {
     languageEn: 'Clear the list of launched games',
@@ -1770,6 +1773,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Очистити список запущених ігор',
     languagePl: 'Wyczyść listę uruchomionych gier',
     languageDe: "Liste der laufenden Spiele löschen",
+    languageIt: 'Cancella l`elenco dei giochi lanciati',
   },
   'ClearListExecuted': {
     languageEn:
@@ -1782,6 +1786,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Lista gier, których uruchomiłeś lub zainstalowałeś modyfikacje, została wyczyszczona!',
     languageDe:
         "Die Liste der Spiele, für die du die Modifikationen ausgeführt oder installiert hast, ist gelöscht!",
+    languageIt: 
+        'L`elenco dei giochi a cui hai avviato o installato modifiche è stato cancellato!',
   },
   'NotificationsAboutComplaints': {
     languageEn: "Notifications about the complaints status",
@@ -1789,6 +1795,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Повідомлення про статус скарг',
     languagePl: 'Powiadomienia o statusie reklamacji',
     languageDe: "Benachrichtigungen über den Status von Beschwerden",
+    languageIt: 'Notifiche sullo stato dei reclami',
   },
   'NotificationsAboutComplaintsDescriptionEasyGames': {
     languageEn:
@@ -1801,6 +1808,8 @@ const Map<String, Map<String, String>> localeItems = {
         'O wyniku sprawdzenia Twoich reklamacji dotyczących komentarzy, profili i innych miejsc zostaniesz poinformowany',
     languageDe:
         "Das Ergebnis der Überprüfung Ihrer Beschwerden über Kommentare, Profile und andere Stellen wird Ihnen mitgeteilt",
+    languageIt: 
+        'Il risultato dell`esame dei tuoi reclami su commenti, profili e altre cose verrà inviato alle tue notifiche',
   },
   'NotificationsAboutComplaintsDescription': {
     languageEn:
@@ -1813,6 +1822,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wynik weryfikacji twoich skarg dotyczących konfiguracji, LUA lub komentarzy zostanie wysłany do Ciebie w powiadomieniach',
     languageDe:
         "Das Ergebnis der Überprüfung Ihrer Konfigurationsbeschwerden, LUA oder kommentare wird Ihnen in einer Nachricht zugesandt",
+    languageIt: 
+        'Il risultato dell`esame dei tuoi reclami su configurazioni, LUA o commenti verrà inviato alle tue notifiche',
   },
   'NotificationsAboutAnswers': {
     languageEn: "Receive notifications about responses",
@@ -1820,6 +1831,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Отримувати повідомлення про відповіді',
     languagePl: 'Otrzymuj powiadomienia o odpowiedziach',
     languageDe: "Benachrichtigungen über Antworten erhalten",
+    languageIt: 'Ricevi notifiche sulle risposte',
   },
   'NotificationsAboutAnswersDescription': {
     languageEn:
@@ -1832,6 +1844,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Po dodaniu odpowiedzi do Twojego komentarza otrzymasz odpowiednie powiadomienie',
     languageDe:
         "Wenn du deinem Kommentar eine Antwort hinzufügst, erhältst du eine entsprechende Nachricht",
+    languageIt: 
+        'Quando qualcuno aggiunge una risposta alla tua recensione, riceverai la notifica appropriata',
   },
   'CanNotChangeThisInOfflineMode': {
     languageEn:
@@ -1844,6 +1858,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety nie możesz zmienić ustawień związanych z profilem w trybie offline 🙁!',
     languageDe:
         "Leider kannst du profilbezogene Einstellungen nicht offline ändern 🙁!",
+    languageIt: 
+        'Sfortunatamente non puoi modificare le impostazioni del profilo in modalità offline 🙁!',
   },
   'MultipleFoldersDetected': {
     languageEn:
@@ -1856,6 +1872,8 @@ const Map<String, Map<String, String>> localeItems = {
         'ExLoader znalazł kilka możliwych folderów do zainstalowania konfiguracji tej modyfikacji i otworzył je wszystkie!',
     languageDe:
         "ExLoader hat sofort mehrere mögliche Ordner zum Installieren von Konfigurationen für diese Modifikation erkannt und alle geöffnet!",
+    languageIt: 
+        'ExLoader ha trovato diverse cartelle possibili per l`installazione di questa configurazione di modifica e le ha aperte tutte!',
   },
   'NotAvailable': {
     languageEn:
@@ -1864,9 +1882,12 @@ const Map<String, Map<String, String>> localeItems = {
         'К сожалению, эта модификация не предусматривает использование данного меню!',
     languageUa:
         'На жаль, ця модифікація не передбачає використання даного меню!',
-    languagePl: 'Niestety ta modyfikacja nie przewiduje użycia tego menu!',
+    languagePl: 
+        'Niestety ta modyfikacja nie przewiduje użycia tego menu!',
     languageDe:
         "Leider ist diese Modifikation nicht für die Verwendung dieses Menüs vorgesehen!",
+    languageIt: 
+        'Sfortunatamente, questa modifica non è compatibile con questa funzionalità!',
   },
   'MaybeWithoutConfigs': {
     languageEn:
@@ -1879,6 +1900,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Być może w ogóle nie ma systemu konfiguracji, a może wszystkie jego konfiguracje są oparte na chmurze!',
     languageDe:
         "Vielleicht hat es überhaupt kein Konfigurationssystem, oder alle Konfigurationen sind cloudbasiert!",
+    languageIt: 
+        'Forse non ha affatto un sistema di configurazione, o forse le sue configurazioni sono basate su cloud!',
   },
   'CloudConfigSystemFolder': {
     languageEn:
@@ -1891,6 +1914,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Ta modyfikacja wykorzystuje system konfiguracji w chmurze zamiast lokalnego przechowywania!',
     languageDe:
         "Diese Modifikation verwendet ein System von Cloud-Konfigurationen anstelle von lokalem Speicher!",
+    languageIt: 
+        'Questa modifica utilizza un sistema di configurazione cloud e non dispone di un archivio locale!',
   },
   'UnknownFolder': {
     languageEn:
@@ -1903,6 +1928,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety, ExLoader nie wie, gdzie znajduje się folder z plikami tej modyfikacji',
     languageDe:
         "Leider weiß ExLoader nicht, wo sich der Dateiordner dieses Mods befindet",
+    languageIt: 
+        'Sfortunatamente, ExLoader non sa dove si trova la cartella dei file per questa modifica',
   },
   'CloudConfigSystemConfigs': {
     languageEn:
@@ -1915,15 +1942,16 @@ const Map<String, Map<String, String>> localeItems = {
         'Ta modyfikacja wykorzystuje system konfiguracji w chmurze, ich instalacja odbywa się w menu modyfikacji lub na jego stronie internetowej!',
     languageDe:
         "Diese Modifikation verwendet ein System von Cloud-Konfigurationen, deren Installation im Menü der Modifikation oder auf ihrer Website erfolgt!",
+    languageIt: 
+        'Questa modifica utilizza un sistema di configurazione cloud, puoi installarli nella modifica stessa o sul suo sito Web!',
   },
   'ConfigsCanNotBeInstalledInOffline': {
     languageEn: 'Configs installation is not available in an offline mode 🙁!',
     languageRu: 'Установка конфигов недоступна в автономном режиме 🙁!',
     languageUa: 'Установка конфігів недоступна в автономному режимі 🙁!',
-    languagePl:
-        'Instalowanie konfiguracji nie jest dostępne w trybie offline 🙁!',
-    languageDe:
-        "Das Installieren von Konfigurationen ist im Offline-Modus nicht verfügbar 🙁!",
+    languagePl: 'Instalowanie konfiguracji nie jest dostępne w trybie offline 🙁!',
+    languageDe: "Das Installieren von Konfigurationen ist im Offline-Modus nicht verfügbar 🙁!",
+    languageIt: 'L`installazione delle configurazioni non è disponibile in modalità offline 🙁!',
   },
   'InstallTheGameToOpenFolder': {
     languageEn:
@@ -1936,6 +1964,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Aby otworzyć folder plików tej modyfikacji, musisz zainstalować grę',
     languageDe:
         "Um den Dateiordner dieser Modifikation zu öffnen, müssen Sie das Spiel installieren",
+    languageIt: 
+        'Devi installare il gioco per aprire la cartella dei file di questa modifica',
   },
   'InstallTheGameToInstallConfigs': {
     languageEn:
@@ -1948,26 +1978,30 @@ const Map<String, Map<String, String>> localeItems = {
         'Aby zainstalować konfiguracje dla tej modyfikacji, musisz zainstalować grę. Jeśli gra jest już zainstalowana, a błąd nie znika - spróbuj zainstalować konfigurację, gdy proces gry jest otwarty.',
     languageDe:
         "Um Konfigurationen für diese Modifikation zu installieren, müssen Sie das Spiel installieren. Wenn das Spiel bereits installiert ist und der Fehler nicht verschwindet, versuchen Sie, die Konfiguration zu installieren, während der Spielprozess geöffnet ist.",
+    languageIt: 
+        'Devi installare il gioco per scaricare le configurazioni per questa modifica. Se il gioco è già installato e l`errore persiste, prova a installare le configurazioni mentre il processo di gioco è aperto.',
   },
   'FailedToInstallConfigs': {
     languageEn:
         'Unfortunately, we were unable to install this configuration or LUA',
     languageRu:
         'К сожалению, нам не удалось установить выбранный конфиг или же ЛУА',
-    languageUa: 'На жаль, нам не вдалося встановити вибраний конфіг або ж ЛУА',
+    languageUa: 
+        'На жаль, нам не вдалося встановити вибраний конфіг або ж ЛУА',
     languagePl:
         'Przepraszamy, nie mogliśmy zainstalować wybranej konfiguracji lub LUA',
     languageDe:
         "Entschuldigung, wir konnten die ausgewählte Konfiguration oder LUA nicht installieren",
+    languageIt: 
+        'Sfortunatamente, non siamo riusciti a installare questa configurazione o LUA',
   },
   'ConfigsAlreadyInstalled': {
     languageEn: "It seems that configs you've chose is already installed!",
     languageRu: 'Похоже, что выбранный тобой конфиг уже установлен!',
     languageUa: 'Схоже, вибраний тобою конфіг вже встановлен!',
-    languagePl:
-        'Wygląda na to, że wybrana konfiguracja jest już zainstalowana!',
-    languageDe:
-        "Sieht so aus, als wäre die von Ihnen ausgewählte Konfiguration bereits installiert!",
+    languagePl: 'Wygląda na to, że wybrana konfiguracja jest już zainstalowana!',
+    languageDe: "Sieht so aus, als wäre die von Ihnen ausgewählte Konfiguration bereits installiert!",
+    languageIt: 'Sembra che la configurazione che hai scelto sia già installata!',
   },
   'SubscriptionExpired': {
     languageEn: "Your ExLoader subscription has expired 🙁",
@@ -1975,15 +2009,21 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Термін дії твоєї підписки на ExLoader закінчився 🙁",
     languagePl: 'Twoja subskrypcja ExLoader wygasła 🙁',
     languageDe: "Ihr ExLoader-Abonnement ist abgelaufen 🙁",
+    languageIt: 'Il tuo abbonamento a ExLoader è scaduto 🙁',
   },
   'VACReplacementProcessIsStarted': {
     languageEn:
         "The process of disabling the game's protection module has started!",
-    languageRu: 'Процесс отключения защитного модуля VAC запущен!',
-    languageUa: 'Процес відключення захисного модуля VAC запущений!',
-    languagePl: 'Rozpoczął się proces odłączania modułu zabezpieczającego VAC!',
+    languageRu: 
+        'Процесс отключения защитного модуля VAC запущен!',
+    languageUa: 
+        'Процес відключення захисного модуля VAC запущений!',
+    languagePl: 
+        'Rozpoczął się proces odłączania modułu zabezpieczającego VAC!',
     languageDe:
         "Der Prozess zum Deaktivieren des VAC-Schutzmoduls hat begonnen!",
+    languageIt: 
+        'Il processo di disattivazione del modulo di protezione del gioco è iniziato!',
   },
   'SteamIsNotInstalled': {
     languageEn:
@@ -1996,6 +2036,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Nie udało się wyłączyć modułu bezpieczeństwa: musisz zainstalować Steam, aby kontynuować!',
     languageDe:
         "Fehler beim Deaktivieren des Sicherheitsmoduls: Sie müssen Steam installieren, um fortzufahren!",
+    languageIt: 
+        'Impossibile disattivare il modulo di protezione: devi prima installare Steam!',
   },
   'VacIsAlreadyDisabled': {
     languageEn:
@@ -2008,6 +2050,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Funkcja wyłączenia modułu VAC jest już aktywna! Aby dezaktywować, uruchom ponownie proces Steam',
     languageDe:
         "Das VAC-Modul ist bereits deaktiviert! Starten Sie den Steam-Prozess neu, um ihn zu deaktivieren",
+    languageIt: 
+        'Questa funzione è già operativa! Per riabilitare il VAC-Module riavvia il processo di Steam',
   },
   'FailedToReplaceVACModule': {
     languageEn:
@@ -2020,6 +2064,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Nie można wyłączyć modułu zabezpieczającego: podczas wymiany modułu VAC wystąpił nieoczekiwany błąd!',
     languageDe:
         "Das Schutzmodul kann nicht deaktiviert werden: Beim Austausch des VAC-Moduls ist ein unerwarteter Fehler aufgetreten!",
+    languageIt: 
+        'Impossibile disattivare il modulo di protezione: si è verificato un errore imprevisto!',
   },
   'SteamWasNotLaunched': {
     languageEn:
@@ -2032,6 +2078,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Nie udało się wyłączyć modułu bezpieczeństwa: Proces Steam nie został ponownie uruchomiony!',
     languageDe:
         "Fehler beim Deaktivieren des Sicherheitsmoduls: Steam-Prozess wurde nicht neu gestartet!",
+    languageIt: 
+        'Impossibile disattivare il modulo di protezione: il processo di Steam non è stato riavviato!',
   },
   'VacModuleIsReplaced': {
     languageEn:
@@ -2044,6 +2092,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Moduł VAC pomyślnie wyłączony! Aby go włączyć, uruchom ponownie proces Steam',
     languageDe:
         "VAC-Modul erfolgreich deaktiviert! Um es wieder einzuschalten, starten Sie den Steam-Prozess neu",
+    languageIt: 
+        'Il modulo VAC è stato sostituito con successo! Per riportare tutto indietro basta riavviare il processo Steam',
   },
   'AlreadyInList': {
     languageEn:
@@ -2056,6 +2106,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Modyfikacja nie została dodana do twojej Biblioteki, ponieważ jest już w niej obecna!',
     languageDe:
         "Die Modifikation wurde deiner Bibliothek nicht hinzugefügt, da sie bereits in der Bibliothek vorhanden ist!",
+    languageIt: 
+        'La modifica non è stata aggiunta alla tua libreria perché è già presente!',
   },
   'WaitForLibraryToAdd': {
     languageEn:
@@ -2068,6 +2120,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Poczekaj, aż ExLoader przetworzy Twoją modyfikację i doda ją do biblioteki',
     languageDe:
         "Warten Sie, bis ExLoader Diese Modifikation verarbeitet und zur Bibliothek hinzufügt",
+    languageIt: 
+        'Attendi che ExLoader analizzi la tua modifica e la aggiunga alla tua libreria!',
   },
   'WaitForLibraryToUpdate': {
     languageEn:
