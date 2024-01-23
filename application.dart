@@ -3919,6 +3919,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety nie będziemy mogli wysłać wiadomości na tego maila, spróbuj użyć innej skrzynki pocztowej!',
     languageDe:
         "Leider können wir keinen Brief an diese E-mail senden, versuchen Sie es mit einem anderen Postfach!",
+    languageIt: 
+        'Purtroppo non saremo in grado di inviare una lettera a questa email, prova a usarne un`altra!',
   },
   'GoogleAuthIsNotAvailable': {
     languageEn:
@@ -3931,6 +3933,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety, autoryzacja za pomocą Google nie jest w tej chwili dostępna, wypróbuj inną metodę logowania!',
     languageDe:
         "Leider ist die Autorisierung über Google derzeit nicht verfügbar, versuchen Sie es mit einer anderen Anmeldemethode!",
+    languageIt: 
+        'Sfortunatamente, l`autenticazione di Google non è disponibile al momento, prova un altro metodo di autenticazione!',
   },
   'InvalidEmail': {
     languageEn: 'Enter a valid email address!',
@@ -3938,6 +3942,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Використовуй коректну Email адресу!',
     languagePl: 'Użyj poprawnego adresu e-mail!',
     languageDe: "Verwenden Sie die richtige E-Mail-Adresse!",
+    languageIt: 'Inserire un indirizzo email valido!',
   },
   'FailedToConnect': {
     languageEn: "Failed to connect to the app's server 🙁",
@@ -3945,6 +3950,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Не вдалося підключитися до сервера програми 🙁',
     languagePl: 'Nie udało się połączyć z serwerami aplikacji 🙁',
     languageDe: "Verbindung zum App-Server fehlgeschlagen 🙁",
+    languageIt: 'Impossibile connettersi al server dell`app 🙁',
   },
   'GoogleAuthHasFailed': {
     languageEn:
@@ -3957,6 +3963,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety, ExLoader nie mógł ukończyć procesu autoryzacji przy użyciu Twojego konta Google. Spróbuj użyć innych metod uwierzytelniania w aplikacji!',
     languageDe:
         "Leider konnte ExLoader den Autorisierungsprozess mit Ihrem Google-Konto nicht abschließen. Versuchen Sie es mit anderen Authentifizierungsmethoden in der Anwendung!",
+    languageIt: 
+        'Sfortunatamente, ExLoader non ha potuto completare il processo di autorizzazione utilizzando il tuo account Google. Prova a utilizzare altri metodi di autenticazione nell`app!',
   },
   'ModificationsFileIsNotChosenYet': {
     languageEn: "Modification's file is not chosen yet",
@@ -3964,6 +3972,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Файл модифікації поки не вибран',
     languagePl: 'Plik modyfikacji nie jest jeszcze wybrany',
     languageDe: "Die Modifikationsdatei ist noch nicht ausgewählt",
+    languageIt: 'Il file di modifica non è ancora stato scelto',
   },
   'FailedToFindModification': {
     languageEn: "Failed to find a modification with such title 🙁",
@@ -3971,6 +3980,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Не вдалося знайти модифікацію з такою назвою 🙁',
     languagePl: 'Nie znaleziono modyfikacji o tej nazwie 🙁',
     languageDe: "Konnte keinen Mod mit diesem Namen finden 🙁",
+    languageIt: 'Impossibile trovare una modifica con questo titolo 🙁',
   },
   'Purchase': {
     languageEn: "Purchase",
@@ -3978,6 +3988,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Купити',
     languagePl: 'Kup',
     languageDe: "Kaufen",
+    languageIt: 'Acquistare',
   },
   'IBoughtItAlready': {
     languageEn:
@@ -3990,6 +4001,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Kupiłem już tę modyfikację i chcę\nuruchomić ją przez ExLoadera!',
     languageDe:
         "Ich habe diesen Mod bereits gekauft und\nmöchte ihn über ExLoader ausführen!",
+    languageIt: 
+        'Ho già acquistato questa modifica\ne voglio avviarla con ExLoader!',
   },
   'WhichGame': {
     languageEn: "What game has your modification been created for?",
@@ -3997,6 +4010,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'До якої гри створена твоя модифікація?',
     languagePl: 'Do jakiej gry jest twoja modyfikacja?',
     languageDe: "Für welches Spiel ist dein Mod?",
+    languageIt: 'Per quale gioco è stata creata la tua modifica?',
   },
   'UseGameIcons': {
     languageEn: "Use icons below to select the game",
@@ -4004,6 +4018,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Використовуй іконки знизу для вибору гри',
     languagePl: 'Użyj poniższych ikon, aby wybrać grę',
     languageDe: "Verwenden Sie die Symbole unten, um das Spiel auszuwählen",
+    languageIt: 'Utilizza le icone qui sotto per selezionare il gioco',
   },
   'InjectionIsInSettings': {
     languageEn:
@@ -4016,6 +4031,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Sposób wstrzykiwania modyfikacji zmienia się w ustawieniach programu!',
     languageDe:
         "Die Art der Injektion von Modifikationen ändert sich in den Programmeinstellungen!",
+    languageIt: 
+        'Il metodo di iniezione per le modifiche viene modificato nelle impostazioni dell`applicazione!',
   },
   'AddToGlobalLibrary': {
     languageEn:
@@ -4028,6 +4045,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wniosek o dodanie modyfikacji do ogólnej biblioteki aplikacji (tylko dla programistów)',
     languageDe:
         "Anwendung zum Hinzufügen einer Modifikation zur gemeinsamen Anwendungsbibliothek (nur für Entwickler)",
+    languageIt: 
+        'Applicazione per aggiungere la tua modifica alla libreria di ExLoader (solo per sviluppatori)',
   },
   'OkayIUnderstand': {
     languageEn: "Okay, thanks, i understood!",
@@ -4035,6 +4054,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Добре, дякую, я зрозумів!',
     languagePl: 'Ok, dzięki, rozumiem!',
     languageDe: "Okay, danke, ich habe es verstanden!",
+    languageIt: 'Ok, grazie, ho capito!',
   },
   'FailedToFindGame': {
     languageEn: "Failed to find game with such title pattern 🙁",
@@ -4042,6 +4062,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Не вдалося знайти гру з такою назвою 🙁',
     languagePl: 'Nie znaleziono gry o tej nazwie 🙁',
     languageDe: "Konnte kein Spiel mit diesem Namen finden 🙁",
+    languageIt: 'Impossibile trovare un gioco con questo nome 🙁',
   },
   'FailedToFindFrame': {
     languageEn: "Failed to find avatar frame with such title pattern 🙁",
@@ -4049,6 +4070,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Не вдалося знайти рамку з такою назвою 🙁',
     languagePl: 'Nie znaleziono ramky o tej nazwie 🙁',
     languageDe: "Konnte kein Rahmen mit diesem Namen finden 🙁",
+    languageIt: 'Non sono riuscito a trovare una cornice con quel nome 🙁',
   },
   'FailedToChangeStatus': {
     languageEn:
@@ -4061,6 +4083,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Przepraszamy, nie mogliśmy zaktualizować Twojego statusu, może coś jest z nim nie tak 🙁!',
     languageDe:
         "Entschuldigung, wir konnten Ihren Status nicht aktualisieren, vielleicht stimmt etwas damit nicht 🙁!",
+    languageIt: 
+        'Sfortunatamente non siamo riusciti ad aggiornare il tuo stato, forse c`è qualcosa che non va 🙁!',
   },
   'FailedToChangeAvatar': {
     languageEn:
@@ -4073,6 +4097,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety nie mogliśmy zaktualizować Twojego avatara, może powinieneś wybrać inne zdjęcie 🙁!',
     languageDe:
         "Leider konnten wir deinen Avatar nicht aktualisieren, vielleicht solltest du ein anderes Bild wählen 🙁!",
+    languageIt: 
+        'Sfortunatamente non siamo riusciti ad aggiornare il tuo avatar, forse dovresti scegliere un`immagine diversa 🙁!',
   },
   'FailedToChangeNickname': {
     languageEn:
@@ -4085,6 +4111,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Przepraszamy, nie mogliśmy zaktualizować Twojego nicku, może coś jest z nim nie tak 🙁!',
     languageDe:
         "Tut uns leid, wir konnten deinen Spitznamen nicht aktualisieren, vielleicht stimmt etwas damit nicht 🙁!",
+    languageIt: 
+        'Sfortunatamente non siamo riusciti ad aggiornare il tuo nickname, forse c`è qualcosa che non va 🙁!',
   },
   'StatusIsSaved': {
     languageEn: "Your status has been successfully saved!",
