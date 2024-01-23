@@ -4120,6 +4120,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Твій статус успішно збережен!',
     languagePl: 'Twój status został pomyślnie zapisany!',
     languageDe: "Ihr Status wurde erfolgreich gespeichert!",
+    languageIt: 'Il tuo stato è stato salvato con successo!',
   },
   'AvatarIsSaved': {
     languageEn: "Your avatar has been successfully saved!",
@@ -4127,6 +4128,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Твоя аватарка успішно збережена!',
     languagePl: 'Twój avatar został pomyślnie zapisany!',
     languageDe: "Ihr Avatar wurde erfolgreich gespeichert!",
+    languageIt: 'Il tuo avatar è stato salvato con successo!',
   },
   'AvatarFrameIsSaved': {
     languageEn: "Your avatar frame has been successfully saved!",
@@ -4134,6 +4136,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Твоя рамка для аватарки успішно збережена!',
     languagePl: 'Twój ramka awatara została pomyślnie zapisana!',
     languageDe: "Ihr Avatarrahmen wurde erfolgreich gespeichert!",
+    languageIt: 'La cornice del tuo avatar è stata salvata con successo!',
   },
   'NicknameIsSaved': {
     languageEn: "Your nickname has been successfully saved!",
@@ -4141,6 +4144,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Твій нікнейм успішно збережен!',
     languagePl: 'Twój pseudonim został pomyślnie zapisany!',
     languageDe: "Dein Nickname wurde erfolgreich gespeichert!",
+    languageIt: 'Il tuo nickname è stato salvato con successo!',
   },
   'SocialNetworkIsSaved': {
     languageEn:
@@ -4150,6 +4154,8 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl: 'Link do Twojego profilu {social} został pomyślnie zapisany!',
     languageDe:
         "Der Link zu Ihrem {social} Profil wurde erfolgreich gespeichert!",
+    languageIt: 
+        'Il collegamento al tuo profilo {social} è stato salvato con successo!',
   },
   'NotEnoughCharacters': {
     languageEn:
@@ -4159,6 +4165,8 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl: 'Wpisałeś za mało znaków, aby zmienić to ustawienie!',
     languageDe:
         "Sie haben zu wenige Zeichen eingegeben, um diese Einstellung zu ändern!",
+    languageIt: 
+        'Hai inserito troppo pochi caratteri per modificare questa preferenza!',
   },
   'NotEnoughCharactersForReview': {
     languageEn:
@@ -4171,6 +4179,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Masz trochę za krótką recenzję, wymyśl coś bardziej oryginalnego!',
     languageDe:
         "Etwas zu kurzes Feedback hast du bekommen, denke an etwas Originelleres!",
+    languageIt: 
+        'La tua recensione sembra troppo breve, per favore, inventa qualcosa di più originale!',
   },
   'NotEnoughCharactersForAnswer': {
     languageEn:
@@ -4183,6 +4193,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Twoja odpowiedź jest zbyt krótka, wymyśl coś bardziej oryginalnego!',
     languageDe:
         "Sie haben eine zu kurze Antwort erhalten, lassen Sie sich etwas Originelleres einfallen!",
+    languageIt: 
+        'La tua risposta sembra essere troppo breve, per favore, inventa qualcosa di più originale!',
   },
   'ChangeWillBeAvailableAt': {
     languageEn:
@@ -4193,6 +4205,8 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl: 'Następna zmiana tego parametru będzie dostępna tylko {date}!',
     languageDe:
         "Die nächste Änderung dieser Einstellung ist erst am {date} verfügbar!",
+    languageIt: 
+        'La prossima modifica di questa preferenza sarà disponibile il {date}!',
   },
   'FileSizeIsToGross': {
     languageEn:
@@ -4205,6 +4219,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Rozmiar pliku jest za duży, spróbuj użyć avatara ważącego mniej niż 1 megabajt!',
     languageDe:
         "Die Dateigröße ist zu groß, versuchen Sie es mit einem Avatar, der weniger als 1 Megabyte groß ist!",
+    languageIt: 
+        'La dimensione del file è troppo grande, prova a utilizzare un avatar con un peso inferiore a 1 megabyte!',
   },
   'Premium': {
     languageEn: "Premium",
@@ -4212,6 +4228,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Преміум',
     languagePl: 'Premium',
     languageDe: "Premium",
+    languageIt: 'Premium',
   },
   'PremiumDescription': {
     languageEn:
@@ -4221,6 +4238,8 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl: 'Dobra prywatna modyfikacja, tańsza niż filiżanka kawy!',
     languageDe:
         "Ein guter privater Mod, der weniger als eine Tasse Kaffee kostet!",
+    languageIt: 
+        'Una bella modifica privata, che costa meno di una tazza di caffè!',
   },
   'PopularDescription': {
     languageEn: "One of the most popular modifications to your chosen game!",
@@ -4228,6 +4247,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Одна з найпопулярніших модифікацій до обраної тобою грі!',
     languagePl: 'Jedna z najpopularniejszych modyfikacji do wybranej gry!',
     languageDe: "Einer der beliebtesten Mods für Ihr ausgewähltes Spiel!",
+    languageIt: 'Una delle modifiche più popolari al gioco che hai scelto!',
   },
   'OpticalDescription': {
     languageEn:
@@ -4240,6 +4260,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Modyfikacje wizualne mają pomóc ci cieszyć się\ncałym pięknem gry, zmieniając jej aspekty\nwizualne (modele obiektów, postaci, otaczającego\nświata itp.).',
     languageDe:
         "Visuelle Modifikationen sollen Ihnen helfen, die ganze\nSchönheit des Spiels zu genießen, indem seine visuellen\nKomponenten geändert werden (Modelle von Objekten,\nCharakteren, der umgebenden Welt usw.).",
+    languageIt: 
+        'Le modifiche visive sono progettate per aiutarti\na goderti la bellezza del gioco cambiando\nla sua componente visiva (modelli di oggetti, giocatori,\nil mondo circostante, ecc.)',
   },
   'MacrosDescription': {
     languageEn:
@@ -4252,6 +4274,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Makra bezpośrednio kontrolują ruch myszy i nie są w\nżaden sposób zaimplementowane w grze, często są bardzo\nbezpieczne w użyciu.',
     languageDe:
         "Makros steuern direkt die Bewegung der Maus und sind\nnicht in das Spiel implementiert, sie sind oft sehr sicher\nzu verwenden.",
+    languageIt: 
+        'Le macro controllano direttamente il movimento del mouse\ne non vengono inserite nel gioco in alcun modo, sono\spesso estremamente sicure da usare.',
   },
   'SimpleDescription': {
     languageEn:
@@ -4264,6 +4288,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Proste modyfikacje są przeznaczone do prostych\ngier i zwiększenia rangi w matchmakingu na\npoziomie podstawowym lub średnim. Mają minimalną\nniezbędną funkcjonalność do wygodnej gry i\nsą idealne dla początkujących.',
     languageDe:
         "Einfache Mods sind für einfache Spiele und Beförderungen beim\nMatchmaking auf Anfänger oder Mittelstufen vorgesehen. Sie\nhaben die minimal notwendige Funktionalität für ein komfortables\nSpiel und sind perfekt für Anfänger.",
+    languageIt: 
+        'Le modifiche semplici sono progettate per\ngiochi semplici e per aumentare il\nranking del gioco nel matchmaking ai livelli primarii e\nsecondari. Hanno le funzionalità minime\nnecessarie per un gioco\ncomodo e sono ottimi per i principianti.',
   },
   'MediumDescription': {
     languageEn:
@@ -4276,6 +4302,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Zaawansowane modyfikacje są przeznaczone\ndo trudnych gier i awansów na wysokie\npoziomy dobierania graczy. Mają doskonałą\nfunkcjonalność i są odpowiednie dla\nwprawnych użytkowników.',
     languageDe:
         "Fortgeschrittene Mods sind für harte Spiele und\nRangaufstiege auf hohem Matchmaking-Level\ngedacht. Sie haben eine großartige Funktionalität\nund sind für erfahrene Benutzer geeignet.",
+    languageIt: 
+        'Le modifiche avanzate sono progettate per\ngiochi difficili e per aumentare il\nranking del gioco nel matchmaking ad alto livello.\nHanno funzionalità estese\ne sono ottime per utenti esperti.',
   },
   'AdvancedDescription': {
     languageEn:
@@ -4288,6 +4316,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Modyfikacje uniwersalne są przeznaczone do bardzo\ntrudnych gier (najczęściej do walki z innymi graczami\nrównież korzystającymi z modyfikacji). Mają one\nniezwykle dużą funkcjonalność i są odpowiednie dla\nzaawansowanych użytkowników.',
     languageDe:
         "Universelle Mods sind für sehr schwierige\nSpiele gedacht (meistens für den Kampf\ngegen andere Spieler, die ebenfalls\nuniverselle Mods verwenden). Sie haben\neine extrem große Funktionalität und sind\nfür fortgeschrittene Benutzer geeignet.",
+    languageIt: 
+        'Le modifiche universali sono progettate per\npartite molto difficili (di solito contro altri giocatori che utilizzano\nmodifiche universali). Hanno funzionalità estremamente\ngrandi e sono adatti per\utenti avanzati.',
   },
   'NeuronetDescription': {
     languageEn:
@@ -4300,6 +4330,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Sieci neuronowe to modyfikacje oparte na sztucznej inteligencji,\nktóre działają bez odczytu lub zmiany pamięci gry! Aby bawić się\ntakimi modyfikacjami, musisz mieć dobry komputer!',
     languageDe:
         "Neuronale Netze sind Modifikationen, die auf künstlicher\nIntelligenz basieren und funktionieren, ohne den\nSpielspeicher auszulesen oder zu ändern! Um mit solchen\nModifikationen spielen zu können, müssen Sie einen\nguten Computer haben!",
+    languageIt: 
+        'Le reti neurali sono modifiche basate sull`intelligenza\artificiale e funzionano senza leggere o modificare la\nmemoria del gioco! Per giocare con tali modifiche,\ndevi avere un buon computer!',
   },
   'NoButton': {
     languageEn:
@@ -4312,6 +4344,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety, ExLoader nie wie, który klawisz\notwiera menu tego moda. Może po\nprostu nie ma menu.',
     languageDe:
         "Leider weiß ExLoader nicht, welche Taste\ndas Menü für diesen Mod öffnet. Vielleicht\nhat es einfach kein Menü.",
+    languageIt: 
+        'Sfortunatamente ExLoader non sa quale\ntasto apre il menu di questa modifica. Forse\nnon ha un menu.',
   },
   'BonusesForUsersOfExLoader': {
     languageEn:
@@ -4324,6 +4358,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Użytkownicy, którzy kupią tę\nmodyfikację przez ExLoadera\notrzymują przyjemne i przydatne\nbonusy za każdą płatność!',
     languageDe:
         "Benutzer, die diese Modifikation über ExLoader\nkaufen, erhalten angenehme und nützliche\nBoni für jede Zahlung!",
+    languageIt: 
+        'Gli utenti che acquistano questa modifica\ncon ExLoader ricevono piacevoli\ne utili bonus per ogni\npagamento!',
   },
   'MarksFirst': {
     languageEn: 'mark',
@@ -4331,6 +4367,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'оцінка',
     languagePl: 'ocena',
     languageDe: "Bewertung",
+    languageIt: 'recensione',
   },
   'MarksSecond': {
     languageEn: 'marks',
@@ -4338,6 +4375,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'оцінки',
     languagePl: 'oceny',
     languageDe: "Bewertungen",
+    languageIt: 'recensioni',
   },
   'MarksThird': {
     languageEn: 'marks',
@@ -4345,26 +4383,31 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'оцінок',
     languagePl: 'recenzji',
     languageDe: "Bewertungen",
+    languageIt: 'recensioni',
   },
   'BasedOn': {
     languageEn: 'Based on',
     languageRu: 'Основано на',
     languageUa: 'Згідно з',
+    languageIt: 'Basato su',
   },
   'ReviewsBasedOn': {
     languageEn: 'review',
     languageRu: 'отзыве',
     languageUa: 'відгуку',
+    languageIt: 'Recensione',
   },
   'ReviewsSecondBasedOn': {
     languageEn: 'reviews',
     languageRu: 'отзывах',
     languageUa: 'відгуках',
+    languageIt: 'Recensioni',
   },
   'ReviewsThirdBasedOn': {
     languageEn: 'reviews',
     languageRu: 'отзывах',
     languageUa: 'відгуках',
+    languageIt: 'Recensioni',
   },
   'Reviews': {
     languageEn: 'review',
@@ -4372,6 +4415,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'відгук',
     languagePl: 'recenzja',
     languageDe: "Rezension",
+    languageIt: 'Recensione',
   },
   'ReviewsSecond': {
     languageEn: 'reviews',
@@ -4379,6 +4423,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'відгука',
     languagePl: 'recenzje',
     languageDe: "Rezensionen",
+    languageIt: 'Recensioni',
   },
   'ReviewsThird': {
     languageEn: 'reviews',
@@ -4386,6 +4431,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'відгуків',
     languagePl: 'recenzji',
     languageDe: "Rezensionen",
+    languageIt: 'Recensioni',
   },
   'Launches': {
     languageEn: 'launch',
@@ -4393,6 +4439,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'запуск',
     languagePl: 'uruchomienie',
     languageDe: "Start",
+    languageIt: 'avvia',
   },
   'LaunchesSecond': {
     languageEn: 'launches',
@@ -4400,6 +4447,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'запуски',
     languagePl: 'uruchomienie',
     languageDe: "Starts",
+    languageIt: 'avvia',
   },
   'LaunchesThird': {
     languageEn: 'launches',
@@ -4407,6 +4455,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'запусків',
     languagePl: 'uruchomień',
     languageDe: "Starts",
+    languageIt: 'lancia',
   },
   'Installs': {
     languageEn: 'download',
@@ -4414,6 +4463,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'завантаження',
     languagePl: 'pobranie',
     languageDe: "Download",
+    languageIt: 'download',
   },
   'InstallsSecond': {
     languageEn: 'downloads',
@@ -4421,6 +4471,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'завантаження',
     languagePl: 'pobrania',
     languageDe: "Downloads",
+    languageIt: 'downloads',
   },
   'InstallsThird': {
     languageEn: 'downloads',
@@ -4428,6 +4479,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'завантажень',
     languagePl: 'pobrań',
     languageDe: "Downloads",
+    languageIt: 'downloads',
   },
   'MotEnoughData': {
     languageEn: "Not enough data to display modification's statistics 🙁",
@@ -4435,6 +4487,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Недостатньо даних для відображення статистики модифікації 🙁',
     languagePl: 'Za mało danych, aby wyświetlić statystyki modyfikacji 🙁',
     languageDe: "Nicht genügend Daten, um Mod-Statistiken anzuzeigen 🙁",
+    languageIt: 'Dati insufficienti per visualizzare le statistiche delle modifiche 🙁',
   },
   'NoChangelogForThisUpdate': {
     languageEn:
