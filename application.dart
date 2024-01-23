@@ -3427,6 +3427,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Proces całkowitego usunięcia ExLoadera, a także wszystkich modyfikacji i ich konfiguracji rozpocznie się za 5 sekund!',
     languageDe:
         "Der Prozess der vollständigen Entfernung von ExLoader sowie aller Modifikationen und ihrer Konfigurationen beginnt in 5 Sekunden!",
+    languageIt: 
+        'Il processo di cancellazione completa di ExLoader, così come tutte le modifiche e le relative configurazioni, inizieranno in 5 secondi!',
   },
   'ExLoaderErasingProcessIsStarted': {
     languageEn:
@@ -3439,6 +3441,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Rozpoczął się proces samozniszczenia ExLoadera i modyfikacji z biblioteki. Ponieważ aplikacja usuwa ślady z dziesiątek kluczy rejestru i folderów, proces ten może potrwać kilka minut, proszę czekać...',
     languageDe:
         "Der Prozess der Selbstzerstörung von ExLoader und Änderungen aus der Bibliothek wurde gestartet. Da die Anwendung Spuren aus Dutzenden von Registrierungsschlüsseln und Ordnern entfernt, kann dieser Vorgang einige Minuten dauern, bitte warten...",
+    languageIt: 
+        'Viene avviato il processo di autodistruzione di ExLoader e modifiche dalla libreria. Poiché l`app rimuove le tracce da decine di chiavi e cartelle di registro, questo processo potrebbe richiedere alcuni minuti, attendi...',
   },
   'EraseDescription': {
     languageEn:
@@ -3451,6 +3455,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Rejestr, ShellBugs, LastActivityView, pliki do pobrania, Recent, dokumenty,\nAppData, Historia archiwów, folder gry,... - ślady aplikacji, modyfikacji z biblioteki\ni ich konfiguracji zostaną całkowicie usunięte ze wszystkich miejsc, tak jakbyś\nnigdy nie pobierał Exloadera!',
     languageDe:
         "Registry, ShellBugs, LastActivityView, Downloads, Recent, Documents, AppData,\nHistorie der Archive, Ordner mit dem Spiel, ... - Spuren der Anwendung,\nModifikationen aus der Bibliothek und deren Konfigurationen werden von all\ndiesen Stellen komplett entfernt wie wenn Sie ExLoader niemals herunterladen!",
+    languageIt: 
+        'Registro, ShellBugs, LastActivityView, Download, Recenti, Documenti, AppData,\nCronologia archivio, Cartella di gioco, ... - tracce dell`applicazione, modifiche dalla\nlibreria e le relative configurazioni verranno completamente cancellate da tutti questi\nluoghi come se non avevo mai nemmeno scaricato ExLoader!',
   },
   'Profile': {
     languageEn: "Profile",
@@ -3458,6 +3464,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Профіль',
     languagePl: 'Profil',
     languageDe: "Profil",
+    languageIt: 'Profilo',
   },
   'Nickname': {
     languageEn: "Your nickname",
@@ -3465,6 +3472,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Твій нікнейм',
     languagePl: 'Twój nick',
     languageDe: "Dein Spitzname",
+    languageIt: 'Il tuo nickname',
   },
   'NotSet': {
     languageEn: "Not set",
@@ -3472,6 +3480,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Не задано',
     languagePl: 'Nie ustawiono',
     languageDe: "Nicht angegeben",
+    languageIt: 'Non impostato',
   },
   'NoMoreOftenThan30DaysNickname': {
     languageEn:
@@ -3484,6 +3493,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Możesz zmienić swój pseudonim\nnie częściej niż raz na 30 dni!',
     languageDe:
         "Du kannst deinen Spitznamen\nmaximal einmal alle 30 Tage ändern!",
+    languageIt: 
+        'Puoi cambiare il tuo nickname non\npiù di una volta ogni 30 giorni!',
   },
   'Save': {
     languageEn: "Save",
@@ -3491,6 +3502,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Зберегти',
     languagePl: 'Zapisz',
     languageDe: "Speichern",
+    languageIt: 'Salva',
   },
   'YourStatus': {
     languageEn: "Your status",
@@ -3498,6 +3510,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Твій статус',
     languagePl: 'Twój status',
     languageDe: "Dein Status",
+    languageIt: 'Il tuo stato',
   },
   'YourAvatar': {
     languageEn: "Your avatar",
@@ -3505,6 +3518,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Твоя аватарка',
     languagePl: 'Twój avatar',
     languageDe: "Dein Avatar",
+    languageIt: 'Il tuo avatar',
   },
   'NoMoreOftenThan1DayStatus': {
     languageEn: "You can change your status no\nmore than once a day!",
@@ -3513,6 +3527,7 @@ const Map<String, Map<String, String>> localeItems = {
         'Ти можеш змінювати свій статус\nне частіше, ніж один раз за день!',
     languagePl: 'Możesz zmienić swój status\nnie częściej niż raz dziennie!',
     languageDe: "Sie können Ihren Status\nmaximal einmal am Tag ändern!",
+    languageIt: 'Puoi modificare il tuo stato non\npiù di una volta al giorno!',
   },
   'NoMoreOftenThan30DaysAvatar': {
     languageEn: "You can change your avatar no\nmore than once every 30 days!",
@@ -3524,6 +3539,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Możesz zmienić swojego avatara\nnie częściej niż raz na 30 dni!',
     languageDe:
         "Sie können Ihren Avatar\nhöchstens einmal alle 30\nTage ändern!",
+    languageIt: 
+        'Puoi cambiare il tuo avatar non\npiù di una volta ogni 30 giorni!',
   },
   'HideStatistics': {
     languageEn: "Hide my data",
@@ -3531,6 +3548,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Приховувати дані',
     languagePl: 'Ukryj dane',
     languageDe: "Daten ausblenden",
+    languageIt: 'Nascondi i miei dati',
   },
   'HideStatisticsDescription': {
     languageEn:
@@ -3543,6 +3561,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Twoje statystyki i inne informacje, z wyjątkiem pseudonimu, statusu i zdjęcia profilowego, zostaną ukryte przed innymi!',
     languageDe:
         "Ihre Statistiken und andere persönliche Informationen, mit Ausnahme Ihres Spitznamens, Status und Avatars, werden vor anderen Benutzern verborgen!",
+    languageIt: 
+        'Le tue statistiche e altre informazioni personali, ad eccezione del nickname, dello stato e dell`avatar, saranno nascoste agli altri utenti!',
   },
   'Your': {
     languageEn: "Your",
@@ -3550,6 +3570,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Твій',
     languagePl: 'Twój',
     languageDe: "Deine",
+    languageIt: 'Tuo',
   },
   'OutSocialNetworks': {
     languageEn: "Our social networks",
@@ -3557,6 +3578,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Наші соціальні мережі',
     languagePl: 'Nasze media społecznościowe',
     languageDe: "Unsere sozialen Netzwerke",
+    languageIt: 'I nostri social network',
   },
   'OutSocialNetworksDescription': {
     languageEn:
@@ -3569,6 +3591,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wszystkie informacje o aktualizacjach, pracach technicznych lub problemach są publikowane właśnie tutaj!',
     languageDe:
         "Alle Infos zu Updates, tech. Arbeiten oder Probleme werden hier veröffentlicht!",
+    languageIt: 
+        'Tutte le informazioni su aggiornamenti, lavori tecnici o eventuali problemi sono pubblicati proprio qui!',
   },
   'ShowLogFile': {
     languageEn: "Show log file data",
@@ -3576,6 +3600,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Показати лог-файл',
     languagePl: 'Pokaż pliku dziennika',
     languageDe: "Protokolldatei anzeigen",
+    languageIt: 'Mostra i dati del file di registro',
   },
   'FailedToCopyClipboardData': {
     languageEn: "Failed to copy data from the application's log file!",
@@ -3584,6 +3609,7 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl: 'Nie udało się skopiować danych z pliku dziennika programu!',
     languageDe:
         "Fehler beim Kopieren von Daten aus der Protokolldatei des Programms!",
+    languageIt: 'Impossibile copiare i dati dal file di registro dell`applicazione!',
   },
   'ClipboardDataIsCopied': {
     languageEn:
@@ -3596,6 +3622,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Dane z pliku dziennika programu zostały pomyślnie skopiowane do schowka!',
     languageDe:
         "Daten aus der Protokolldatei des Programms wurden erfolgreich in Ihre Zwischenablage kopiert!",
+    languageIt: 
+        'Tutti i dati dal file di registro dell`applicazione sono stati copiati con successo negli appunti!',
   },
   'Version': {
     languageEn: "version",
@@ -3603,6 +3631,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'версія',
     languagePl: 'wersja',
     languageDe: "Ausführung",
+    languageIt: 'versione',
   },
   'UpdateLink': {
     languageEn: "Link to the update archive",
@@ -3610,6 +3639,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Посилання на архів з оновленням',
     languagePl: 'Link do archiwum z aktualizacją',
     languageDe: "Link zum Archiv mit Update",
+    languageIt: 'Collegamento all`archivio degli aggiornamenti',
   },
   'Rules': {
     languageEn: 'Rules',
@@ -3617,6 +3647,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Правила',
     languagePl: 'Zasady',
     languageDe: "Regeln",
+    languageIt: 'Regole',
   },
   'Add': {
     languageEn: "Add new",
@@ -3624,6 +3655,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Додати',
     languagePl: 'Dodaj',
     languageDe: "Hinzufügen",
+    languageIt: 'Aggiungi',
   },
   'GamesDescription': {
     languageEn: "Adding and editing of the games list",
@@ -3631,6 +3663,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Додавання ігор та їх редагування',
     languagePl: 'Dodawanie i edytowanie listy gier',
     languageDe: "Hinzufügen und Bearbeiten von Spielen",
+    languageIt: 'Aggiunta e modifica dell`elenco dei giochi',
   },
   'ResetVersion': {
     languageEn: "Reset version to the current one",
@@ -3638,6 +3671,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Скинути версію до поточної',
     languagePl: 'Zresetuj wersję do bieżącej',
     languageDe: "Setzen Sie die Version auf die aktuelle zurück",
+    languageIt: 'Ripristina la versione a quella corrente',
   },
   'ClipboardDataIsCopiedButEmpty': {
     languageEn: "Log data is completely empty!",
@@ -3645,6 +3679,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Дані лог-файлу абсолютно порожні!',
     languagePl: 'Dane dziennika są całkowicie puste!',
     languageDe: "Die Protokolldaten sind völlig leer!",
+    languageIt: 'I dati di registro sono completamente vuoti!',
   },
   'AntivirusCheckTip': {
     languageEn:
@@ -3657,6 +3692,8 @@ const Map<String, Map<String, String>> localeItems = {
         '🛡🛡🛡 Czy kiedykolwiek pobierałeś modyfikacje z jakiegoś źródła\nzewnętrznego zamiast korzystać z naszej aplikacji? Jeśli tak, zalecamy\nochronę siebie i swoich danych poprzez pobranie dobrego programu\nantywirusowego, takiego jak Kaspersky lub Eset Nod32, oraz sprawdzenie\nsystemu pod kątem obecności wirusów. Prosty krok, ale na pewno nie\nbędzie zbędny!)',
     languageDe:
         "🛡🛡🛡 Hast du jemals Mods über eine Drittanbieterquelle\nheruntergeladen, anstatt unsere App zu verwenden? In diesem\nFall empfehlen wir Ihnen, sich und Ihre Daten zu schützen,\nindem Sie ein gutes Antivirenprogramm wie Kaspersky oder\nEset Nod32 herunterladen und Ihr System auf Virenbedrohungen\nüberprüfen. Ein einfacher Schritt, aber er wird definitiv nicht\nüberflüssig sein!)",
+    languageIt: 
+        '🛡🛡🛡 Hai mai scaricato modifiche tramite\nfonti di terze parti, non tramite la nostra applicazione? Se è così, ti consigliamo di proteggere\nte stesso e i tuoi dati scaricando un buon antivirus, ad esempio\nKaspersky o Eset Nod32, e controllando l`assenza\ndi minacce di virus nel tuo sistema. Un semplice passaggio che ovviamente non sarà superfluo!)',
   },
   'FailedToLaunchBecauseSteamWasRestarted': {
     languageEn:
@@ -3669,6 +3706,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Uruchomienie modyfikacji nie powiodło się, ponieważ zrestartowałeś Steama podczas procesu uruchamiania modyfikacji!',
     languageDe:
         "Die Modifikation konnte nicht gestartet werden, da du Steam während des Startvorgangs die Modifikation neu gestartet hast!",
+    languageIt: 
+        'Impossibile avviare la modifica perché hai riavviato Steam durante il processo di avvio della modifica!',
   },
   'StartTime': {
     languageEn: "Start time in unix system",
@@ -3676,6 +3715,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Дата початку показів у системі unix',
     languagePl: 'Data rozpoczęcia pokazów w systemie unix',
     languageDe: "Startdatum der Impressionen auf dem Unix-System",
+    languageIt: 'Ora di inizio del sistema Unix',
   },
   'EndTime': {
     languageEn: "End time in unix system",
@@ -3683,6 +3723,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Дата закінчення показів у системі unix',
     languagePl: 'Data zakończenia pokazów w systemie unix',
     languageDe: "Das Datum des Endes der Shows auf dem Unix-System",
+    languageIt: 'Ora di fine nel sistema Unix',
   },
   'NotificationRu': {
     languageEn: "Notification's translation for russian language",
@@ -3690,6 +3731,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Переклад повідомлення на російську мову',
     languagePl: 'Tłumaczenie wiadomości na język rosyjski',
     languageDe: "Übersetzung der Nachricht ins Russische",
+    languageIt: 'Traduzione della notifica per la lingua russa',
   },
   'NotificationUa': {
     languageEn: "Notification's translation for ukrainian language",
@@ -3697,6 +3739,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Переклад повідомлення на українську мову',
     languagePl: 'Tłumaczenie wiadomości na język ukraiński',
     languageDe: "Übersetzung der Nachricht ins Ukrainische",
+    languageIt: 'Traduzione della notifica per la lingua ucraina',
   },
   'NotificationEn': {
     languageEn: "Notification's translation for english language",
@@ -3704,6 +3747,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Переклад повідомлення на англійську мову',
     languagePl: 'Tłumaczenie wiadomości na język angielski',
     languageDe: "Übersetzung der Nachricht ins Englische",
+    languageIt: 'Traduzione della notifica per la lingua inglese',
   },
   'NotificationPl': {
     languageEn: "Notification's translation for polish language",
@@ -3711,6 +3755,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Переклад повідомлення на польський мову',
     languagePl: 'Tłumaczenie wiadomości na język polski',
     languageDe: "Übersetzung der Benachrichtigung ins Polnische",
+    languageIt: 'Traduzione della notifica per la lingua polacca',
   },
   'NotificationDe': {
     languageEn: "Notification's translation for german language",
@@ -3718,6 +3763,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Переклад повідомлення на польський мову',
     languagePl: 'Tłumaczenie wiadomości na język niemiecki',
     languageDe: "Übersetzung der Benachrichtigung ins Deutsche",
+    languageIt: 'Traduzione della notifica per la lingua tedesca',
   },
   'Delete': {
     languageEn: "Delete",
@@ -3725,6 +3771,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Видалити',
     languagePl: 'Usuń',
     languageDe: "Entfernen",
+    languageIt: 'Eliminare',
   },
   'Close': {
     languageEn: "Close",
@@ -3732,6 +3779,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Закрити',
     languagePl: 'Zamknij',
     languageDe: "Schließen",
+    languageIt: 'Chiudere',
   },
   'Handle': {
     languageEn: "Handle",
@@ -3739,6 +3787,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Обробити',
     languagePl: 'W procesie',
     languageDe: "Bearbeiten",
+    languageIt: 'Modificare',
   },
   'GameId': {
     languageEn: "Game's ID",
@@ -3746,6 +3795,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'ID гри',
     languagePl: 'ID gry',
     languageDe: "Spiel-ID",
+    languageIt: 'ID del gioco',
   },
   'GameColorCode': {
     languageEn: "Game's color code",
@@ -3753,6 +3803,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Колірний код гри',
     languagePl: 'Kod koloru gry',
     languageDe: "Farbcode des Spiels",
+    languageIt: 'Codice colore del gioco',
   },
   'GameTitle': {
     languageEn: "Game's full title",
@@ -3760,6 +3811,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Повна назва гри',
     languagePl: 'Pełna nazwa gry',
     languageDe: "Vollständiger Name des Spiels",
+    languageIt: 'Titolo completo del gioco',
   },
   'GameShortTitle': {
     languageEn: "Game's short title",
@@ -3767,6 +3819,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Коротка назва гри',
     languagePl: 'Krótka nazwa gry',
     languageDe: "Kurzname des Spiels",
+    languageIt: 'Titolo breve del gioco',
   },
   'GameMainModule': {
     languageEn: "Game's loading module name",
@@ -3774,6 +3827,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Назва завантажувального модуля гри',
     languagePl: 'Nazwa modułu ładowania gry',
     languageDe: "Name des Spiel-Bootloaders",
+    languageIt: 'Nome del modulo di caricamento del gioco',
   },
   'GameProcessName': {
     languageEn: "Game's process name",
@@ -3781,6 +3835,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Назва процесу гри',
     languagePl: 'Nazwa procesu gry',
     languageDe: "Der Name des Spielprozesses",
+    languageIt: 'Nome del processo del gioco',
   },
   'GameFolder': {
     languageEn: "Game's Steam directory name",
@@ -3788,6 +3843,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Назва папки гри в Steam',
     languagePl: 'Nazwa folderu gry na Steam',
     languageDe: "Der Name des Spielordners in Steam",
+    languageIt: 'Nome della directory Steam del gioco',
   },
   'HeaderImage': {
     languageEn: "Game's header image",
@@ -3795,6 +3851,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Фонове зображення гри',
     languagePl: 'Obraz tła gry',
     languageDe: "Hintergrundbild des Spiels",
+    languageIt: 'Immagine dell`intestazione del gioco',
   },
   'Select': {
     languageEn: "Select",
@@ -3802,6 +3859,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Вибрати',
     languagePl: 'Wybierz',
     languageDe: "Wählen",
+    languageIt: 'Seleziona',
   },
   'IconImage': {
     languageEn: "Game's logo",
@@ -3809,6 +3867,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Логотип гри',
     languagePl: 'Logo gry',
     languageDe: "Spiel-Logo",
+    languageIt: 'Logo del gioco',
   },
   'MaybeYouWantedToEnter': {
     languageEn:
@@ -3821,6 +3880,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Może miałeś na myśli {mail}? Upewnij się, że wszystko jest wpisane poprawnie i spróbuj ponownie)',
     languageDe:
         "Vielleicht meintest du {mail}? Stellen Sie sicher, dass alles richtig eingegeben wurde und versuchen Sie es erneut)",
+    languageIt: 
+        'Forse intendevi {mail}? Assicurati che tutto sia digitato correttamente e riprova)',
   },
   'NoIMeantIt': {
     languageEn: "No, I entered my email correctly!",
@@ -3828,6 +3889,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Ні, я ввів свій email правильно!',
     languagePl: 'Nie, poprawnie wpisałem adres e-mail!',
     languageDe: "Nein, ich habe meine E-Mail richtig eingegeben!",
+    languageIt: 'No, ho inserito correttamente la mia email!',
   },
   'IsGameMobile': {
     languageEn: "Is the game mobile?",
@@ -3835,6 +3897,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Чи є гра мобільною?',
     languagePl: 'Czy gra jest mobilna?',
     languageDe: "Ist das Spiel mobil?",
+    languageIt: 'Il gioco è mobile?',
   },
   'WaitForAMinute': {
     languageEn: "Wait for a minute before the next auth attempt!",
@@ -3843,6 +3906,7 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl: 'Poczekaj minutę przed kolejną próbą autoryzacji!',
     languageDe:
         "Warten Sie eine Minute vor dem nächsten Autorisierungsversuch!",
+    languageIt: 'Attendi un minuto prima del prossimo tentativo di autenticazione!',
   },
   'EmailIsInvalid': {
     languageEn:
