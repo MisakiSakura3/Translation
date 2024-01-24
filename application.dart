@@ -4713,6 +4713,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Твій відгук збережено',
     languagePl: 'Twoja opinia została zapisana',
     languageDe: "Ihre Bewertung wurde gespeichert",
+    languageIt: 'La tua recensione è stata salvata',
   },
   'AnswerEdited': {
     languageEn: 'Your answer is updated',
@@ -4720,6 +4721,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Твоя відповідь збережена',
     languagePl: 'Twoja odpowiedź została zapisana',
     languageDe: "Ihre Antwort wurde gespeichert",
+    languageIt: 'La tua risposta è aggiornata',
   },
   'NextEditWillBeAvailableAt': {
     languageEn:
@@ -4732,6 +4734,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Możesz napisać nową recenzję lub edytować aktualną tylko {date}!',
     languageDe:
         "Sie können nur am {date} eine neue Rezension schreiben oder die aktuelle bearbeiten!",
+    languageIt: 
+        'Puoi scrivere una nuova recensione o modificare quella corrente solo il giorno {date}!',
   },
   'Description': {
     languageEn: "Modification's description",
@@ -4739,6 +4743,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Опис модифікації',
     languagePl: 'Opis modyfikacji',
     languageDe: "Beschreibung der Modifikation",
+    languageIt: 'Descrizione della modifica',
   },
   'FailedToFindTheModification': {
     languageEn:
@@ -4751,6 +4756,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wygląda na to, że ta modyfikacja została usunięta z biblioteki ExLoadera 🙁',
     languageDe:
         "Dieser Mod scheint aus der ExLoader-Bibliothek entfernt worden zu sein 🙁",
+    languageIt: 
+        'Questa mod sembra essere stata rimossa dalla libreria ExLoader 🙁',
   },
   'PleaseUseSteamUrl': {
     languageEn:
@@ -4763,6 +4770,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Użyj poprawnego linku do profilu w formacie «https://steamcommunity.com/profiles/76561197960265728» lub «https://steamcommunity.com/id/yournickname»!',
     languageDe:
         'Verwenden Sie den korrekten Profillink im Format «https://steamcommunity.com/profiles/76561197960265728» oder «https://steamcommunity.com/id/yournickname»!',
+    languageIt: 
+        'Utilizza il collegamento al profilo corretto nel formato «https://steamcommunity.com/profiles/76561197960265728» o «https://steamcommunity.com/id/yournickname»!',
   },
   'PleaseUseTMeUrl': {
     languageEn:
@@ -4775,6 +4784,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Użyj poprawnego linku do profilu w formacie «https://t.me/profile» lub «https://profile.t.me»!',
     languageDe:
         'Verwenden Sie den richtigen Profillink im Format «https://t.me/profile» oder «https://profile.t.me»!',
+    languageIt: 
+        'Utilizza il collegamento al profilo corretto nel formato «https://t.me/profile» o «https://profile.t.me»!',
   },
   'PleaseUseDiscordLogin': {
     languageEn:
@@ -4787,6 +4798,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Użyj prawidłowej nazwy użytkownika w formacie «profile#1101» lub «profile123»!',
     languageDe:
         'Verwenden Sie einen gültigen Benutzernamen im Format «profile#1101» oder «profile123»!',
+    languageIt: 
+      'Utilizza un nome utente valido nel formato «profilo#1101» o «profilo123»',
   },
   'YouAreTemporaryBannedInReviewsOrConfigs': {
     languageEn:
@@ -4799,6 +4812,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wygląda na to, że zbyt wiele razy próbowałeś napisać recenzję, przesłać lub edytować konfigurację, używając treści nieinformacyjnych, spamerskich, reklamowych lub scammerskich! Aby nie zostać zbanowanym przez moderatorów za takie działania, system automatycznej weryfikacji tymczasowo ograniczył Twój dostęp do możliwości pisania komentarzy oraz pobierania lub edytowania konfiguracji 🙁! Zakaz wygasa {date}.',
     languageDe:
         "Es scheint, dass Sie zu oft versucht haben, eine Bewertung zu schreiben oder eine Konfiguration hochzuladen oder zu bearbeiten, indem Sie uninformative, Spam-, Werbe- oder irreführende Inhalte verwendet haben! Um nicht von den Moderatoren für solche Aktionen gesperrt zu werden, hat das Autoverifizierungssystem Ihren Zugriff vorübergehend auf die Funktionalität zum Schreiben von Kommentaren und zum Herunterladen oder Bearbeiten von Konfigurationen beschränkt 🙁! Die Sperre läuft am {date} ab.",
+    languageIt: 
+        'Sembra che tu abbia provato a scrivere una recensione o a caricare o modificare una configurazione troppe volte utilizzando contenuti non informativi, spam, promozionali o fuorvianti! Per non essere bannato dai moderatori per tali azioni, il sistema di verifica automatica ha temporaneamente limitato il tuo accesso alla funzionalità di scrittura di commenti e di download o modifica delle configurazioni 🙁! Il blocco scade il {date}.',
   },
   'YourReviewIsTheSame': {
     languageEn:
@@ -4811,6 +4826,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Aby edytować komentarz, musisz coś w nim zmienić, aby różnił się od poprzedniej recenzji!',
     languageDe:
         "Um einen Kommentar zu bearbeiten, müssen Sie mindestens etwas daran ändern, damit er sich von der vorherigen Bewertung unterscheidet!",
+    languageIt: 
+        'Per modificare un commento, devi cambiare almeno qualcosa al riguardo per renderlo diverso dalla recensione precedente!',
   },
   'YourAnswerIsTheSame': {
     languageEn:
@@ -4823,6 +4840,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Aby edytować odpowiedź, musisz coś w niej zmienić, aby różniła się od poprzedniej wersji!',
     languageDe:
         'Um die Antwort zu bearbeiten, müssen Sie mindestens etwas daran ändern, damit sie sich von der vorherigen Version unterscheidet!',
+    languageIt: 
+        'Per modificare la risposta, devi cambiare almeno qualcosa in essa per renderla diversa dalla versione precedente!',
   },
   'NetworkIssue': {
     languageEn:
@@ -4835,6 +4854,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Nie można było połączyć się z serwerem aplikacji.\nByć może aktualnie trwają prace techniczne lub nasz\nserwer nie jest aktywnie używany. Może po prostu nie\nmasz połączenia z Internetem lub coś na Twoim\nurządzeniu blokuje połączenie z serwerem ExLoadera,\nkto wie... Wiemy, że źle brzmi to źle 🙁. Nawiasem mówiąc,\ngdy problem leży po naszej stronie, publikujemy\nwszystkie informacje na ten temat na naszym {Social}ie!\n\nAle jeśli problem nie leży po naszej stronie, możesz\nspróbować włączyć VPN. Jest szansa że to pomoże!',
     languageDe:
         "Es konnte keine Verbindung zum Anwendungsserver hergestellt\nwerden. Möglicherweise finden derzeit technische Arbeiten statt,\noch wird unser Server aktiv verwendet. Vielleicht sind Sie nur nicht\nmit dem Internet verbunden, oder etwas auf Ihrem Gerät blockiert\ndie Verbindung zum Server ExLoader, wer weiß... So sind die Dinge 🙁.\nÜbrigens, wenn das Problem auf unserer Seite liegt, veröffentlichen\nwir alle Informationen darüber in unserem {Social}mkanal!\n\nAber wenn das Problem nicht auf unserer Seite liegt, dann können\nSie versuchen, VPN einzuschalten. Es besteht die Möglichkeit, dass\nes hilft!",
+    languageIt: 
+        'Impossibile connettersi al server dell`applicazione. Forse\nstiamo lavorando all`ottimizzazione del server\no è sotto attacco DDOS. Forse semplicemente non sei\nconnesso a Internet, o qualcosa sul tuo\ndispositivo sta bloccando la connessione al\nserver ExLoader, chi lo sa... Sembra brutto, lo sappiamo 🙁. A proposito, quando il problema è dalla nostra parte pubblichiamo tutte le informazioni sul nostro canale {Social}!\n\nMa se il problema non è dalla nostra parte, puoi provare ad attivare la VPN. C`è la possibilità che possa aiutare!',
   },
   'BasicInformationDescription': {
     languageEn:
@@ -4846,7 +4867,9 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl:
         'Potrzebujesz danych na temat statystyk vac-banów,\nwpływu modyfikacji na współczynnik zaufania Twojego\nkonta, sprawdzania modów pod kątem wirusów,\nklawiszy menu modyfikacji i ich stabilności? Wszystko\njest tutaj!',
     languageDe:
-        "Benötigen Sie Daten zu Vac-Ban-Statistiken, Auswirkung\neiner Mod auf den Vertrauensfaktor Ihres Kontos, Mod-Prüfung\nauf Viren, Mod-Menütasten und Mod-Stabilität? Es ist alles hier!",
+        "Hai bisogno di dati sulle statistiche dei divieti VAC delle modifiche,\nsul suo impatto sul livello del fattore di fiducia del tuo account,\ncontrollo dei virus, sulla chiave di apertura del menu e sulla sua stabilità\ndati? È tutto qui",
+    languageIt: 
+        '',
   },
   'MoreActionsDescription': {
     languageEn:
@@ -4859,6 +4882,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Za pomocą tego przycisku będziesz mógł zainstalować gotowe konfiguracje\ndla modyfikacji, zobaczyć rozwiązania popularnych problemów,\nskontaktować się z obsługą modyfikacji, zapoznać się z instrukcjami jej\nuruchomienia lub usunąć jej wszystkie pliki!',
     languageDe:
         "Mit Hilfe dieser Schaltfläche können Sie vorgefertigte Konfigurationen\nfür die Modifikation installieren, Lösungen für häufig auftretende\nProbleme sehen, den Support der Modifikation kontaktieren,\ndie Anweisungen für ihren Start lesen oder alle ihre Dateien löschen!",
+    languageIt: 
+        'Con questo pulsante puoi installare le configurazioni di altri utenti per questa\nmodifica, visualizzare le soluzioni ai problemi più diffusi, contattare\nil supporto della modifica, visualizzare ulteriori istruzioni di avvio o\neliminare tutti i suoi file!',
   },
   'UnstableModification': {
     languageEn:
@@ -4871,6 +4896,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Z naszych danych wynika, że około {user} procent użytkowników tej modyfikacji doświadcza crashów gry! Jeśli ostatnio w grze nie pojawiły się żadne aktualizacje, oznacza to, że ta modyfikacja jest źle zoptymalizowana pod kątem pracy na różnych systemach i najprawdopodobniej możesz napotkać problemy podczas korzystania z niej 🙁',
     languageDe:
         "Nach unseren Daten zu urteilen, sind etwa {user} Prozent der Benutzer dieser Modifikation mit dem Problem des Spielabsturzes konfrontiert! Wenn es in letzter Zeit keine Updates für das Spiel gab, dann ist dieser Mod schrecklich für verschiedene Systeme optimiert, und höchstwahrscheinlich können Sie bei der Verwendung auf verschiedene Probleme stoßen 🙁",
+    languageIt: 
+        'A giudicare dai nostri dati, circa il {user} percento degli utenti di questa modifica deve affrontare il problema del crash del gioco! Se di recente non sono stati rilasciati aggiornamenti al gioco, significa che questa mod è terribilmente ottimizzata per diversi sistemi e molto probabilmente potresti riscontrare vari problemi durante l`utilizzo 🙁',
   },
   'CrashStatistics': {
     languageEn:
@@ -4883,6 +4910,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Dane stabilności modyfikacji: około {user} {percent}\nużytkowników tej modyfikacji napotkało dziś\nproblem z crashem gry!',
     languageDe:
         "Mod-Stabilitätsdaten: Ungefähr {user} {percent}\nder Benutzer dieser Mod sind heute auf\ndas Spielabsturzproblem gestoßen!",
+    languageIt: 
+        'Dati sulla stabilità della modifica: circa\n{user} il {percent} degli utenti di questa modifica ha\naffrontato il problema del crash del gioco oggi!',
   },
   'Percent': {
     languageEn: "percent",
@@ -4890,6 +4919,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'відсоток',
     languagePl: 'procent',
     languageDe: "Prozent",
+    languageIt: '',
   },
   'PercentFirst': {
     languageEn: "percent",
@@ -4897,6 +4927,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'відсотків',
     languagePl: 'procent',
     languageDe: "Prozent",
+    languageIt: 'percento',
   },
   'PercentSecond': {
     languageEn: "percent",
@@ -4904,6 +4935,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'відсотки',
     languagePl: 'procent',
     languageDe: "Prozent",
+    languageIt: 'percento',
   },
   'LibraryWithSuchTagIsEmpty': {
     languageEn:
@@ -4916,6 +4948,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wygląda na to, że w Bibliotece ExLoadera nie ma modyfikacji z takim tagiem 🙁',
     languageDe:
         "Die ExLoader-Bibliothek scheint keine Mods mit diesem Tag zu haben 🙁",
+    languageIt: 
+        'La libreria ExLoader non sembra avere mod con questo tag 🙁',
   },
   'PressToCheckTheSource': {
     languageEn: "Click to open modification's check-\nsource.",
@@ -4923,6 +4957,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Натисни, щоб перейти до джерела\nперевірки модифікації.',
     languagePl: 'Kliknij, aby przejść do źrodła sprawdzania\nmodyfikacji.',
     languageDe: "Klicken Sie hier, um zur Mod-Check-Quelle zu gelangen.",
+    languageIt: 'Fai clic qui per accedere alla fonte dei controllo mod.',
   },
   'Install': {
     languageEn: "Install",
@@ -4930,6 +4965,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Встановити',
     languagePl: 'Zainstaluj',
     languageDe: "Festlegen",
+    languageIt: 'Installare',
   },
   'NoText': {
     languageEn: "It seems that someone has stolen this review's data 🙁",
@@ -4937,6 +4973,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Здається хтось вкрав текст цього коментаря 🙁',
     languagePl: 'Wygląda na to, że ktoś ukradł tekst tego komentarza 🙁',
     languageDe: "Offenbar hat jemand den Text dieses Kommentars geklaut 🙁",
+    languageIt: 'Sembra che qualcuno abbia rubato i dati di questa recensione 🙁',
   },
   'CanNotVoteInOfflineMode': {
     languageEn:
@@ -4949,6 +4986,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety ocena recenzji i konfiguracji nie jest dostępna w trybie offline 🙁',
     languageDe:
         "Leider ist die Bewertung von Bewertungen und Konfigurationen im Offline-Modus nicht verfügbar 🙁",
+    languageIt: 
+        'Sfortunatamente, le valutazioni e le configurazioni non sono disponibili in modalità offline 🙁',
   },
   'VoteIsDelayed': {
     languageEn:
@@ -4961,6 +5000,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Aby uniknąć spamu, możesz zmienić lub umieścić nową ocenę w ciągu pół minuty 🙁',
     languageDe:
         "Um Spam zu vermeiden, kannst du nur eine halbe Minute später eine neue Bewertung vornehmen oder eine neue Bewertung abgeben 🙁",
+    languageIt: 
+        'Per evitare lo spam, puoi rivalutare o pubblicare una nuova recensione solo mezzo minuto dopo 🙁',
   },
   'Ago': {
     languageEn: "ago",
