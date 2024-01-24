@@ -5009,6 +5009,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'тому',
     languagePl: 'temu',
     languageDe: "vor",
+    languageIt: 'fa',
   },
   'YesterdayAt': {
     languageEn: "yesterday at",
@@ -5016,6 +5017,8 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'вчора о',
     languagePl: 'wczoraj o',
     languageDe: "gestern um",
+    languageIt: 'ieri alle
+',
   },
   'ADayBeforeAt': {
     languageEn: "the day before at",
@@ -5023,6 +5026,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'позавчора о',
     languagePl: 'przedwczoraj o',
     languageDe: "Vorgestern um",
+    languageIt: 'ieri alle',
   },
   'RightNow': {
     languageEn: "right now",
@@ -5030,6 +5034,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'тільки що',
     languagePl: 'właśnie',
     languageDe: "jetzt",
+    languageIt: 'Proprio adesso',
   },
   'ThisReviewWasEdited': {
     languageEn: "This comment was edited after publication!",
@@ -5037,6 +5042,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Цей коментар був відредагован після публікації!',
     languagePl: 'Ten komentarz został edytowany po opublikowaniu!',
     languageDe: "Dieser Kommentar wurde nach der Veröffentlichung editiert!",
+    languageIt: 'Questo commento è stato modificato dopo la pubblicazione!',
   },
   'ThisConfigWasEdited': {
     languageEn:
@@ -5048,6 +5054,8 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl: 'Ta konfiguracja lub LUA była edytowana od czasu publikacji!',
     languageDe:
         "Diese Konfiguration oder LUA wurde seit der Veröffentlichung bearbeitet!",
+    languageIt: 
+        'Questa configurazione o LUA è stata modificata dopo la pubblicazione!',
   },
   'LowRating': {
     languageEn: "This review has a very low rating. Click to read",
@@ -5057,6 +5065,7 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl: 'Ta recenzja ma zbyt niską ocenę. Kliknij, aby przeczytać',
     languageDe:
         "Diese Rezension hat eine zu niedrige Bewertung. Zum Lesen klicken",
+    languageIt: 'Questa recensione ha un punteggio troppo basso. Clicca per leggere',
   },
   'ProfanityPresent': {
     languageEn:
@@ -5069,6 +5078,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Ten komentarz zawiera wulgaryzmy i nie ma charakteru informacyjnego. Kliknij, aby przeczytać',
     languageDe:
         "Dieser Kommentar enthält Schimpfwörter und ist nicht informativ. Zum Lesen klicken",
+    languageIt: 
+        'Questo commento contiene un linguaggio volgare e non è informativo. Clicca per leggere',
   },
   'ClickToHide': {
     languageEn: "Click to hide",
@@ -5076,6 +5087,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Натисни, щоб приховати',
     languagePl: 'Kliknij, aby ukryć',
     languageDe: "Zum Ausblenden klicken",
+    languageIt: 'Fai clic per nascondere',
   },
   'CancelTranslation': {
     languageEn: "Undo translation",
@@ -5083,6 +5095,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Скасувати переклад',
     languagePl: 'Anuluj tłumaczenie',
     languageDe: "Übersetzung abbrechen",
+    languageIt: 'Annulla la traduzione',
   },
   'TranslateToShort': {
     languageEn: "Translate into {language}",
@@ -5090,6 +5103,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Перекласти на {language} мову',
     languagePl: 'Przetłumacz na język {language}',
     languageDe: "Ins {language} übersetzen",
+    languageIt: 'Traduci in {language}',
   },
   'TranslateTo': {
     languageEn: "Translate the review into {language}",
@@ -5097,6 +5111,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Перекласти відгук на {language} мову',
     languagePl: 'Przetłumacz recenzję na język {language}',
     languageDe: "Bewertung ins {language} übersetzen",
+    languageIt: 'Traduci la recensione in {language}',
   },
   'TranslateToConfig': {
     languageEn: "Translate the description and\ntitle into {language}",
@@ -5104,6 +5119,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Перекласти опис та назву\nна {language} мову',
     languagePl: 'Przetłumacz opis i tytuł\nna {language} język',
     languageDe: "Beschreibung und Titel ins {language} übersetzen",
+    languageIt: 'Traduci descrizione e titolo in {language}',
   },
   'En-enNoun': {
     languageEn: "English",
@@ -5111,6 +5127,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'англійську',
     languagePl: 'angielski',
     languageDe: "Englisch",
+    languageIt: 'Inglese',
   },
   'Ru-ruNoun': {
     languageEn: "Russian",
@@ -5118,6 +5135,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'російськ',
     languagePl: 'rosyjski',
     languageDe: "Russisch",
+    languageIt: 'Russo',
   },
   'Ua-uaNoun': {
     languageEn: "Ukrainian",
@@ -5125,6 +5143,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'українську',
     languagePl: 'ukraiński',
     languageDe: "Ukrainisch",
+    languageIt: 'Ucraino',
   },
   'Pl-plNoun': {
     languageEn: "Polish",
@@ -5132,6 +5151,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'польський',
     languagePl: 'polski',
     languageDe: "Polisch",
+    languageIt: 'Polacco',
   },
   'De-deNoun': {
     languageEn: "German",
@@ -5139,6 +5159,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'німецьку',
     languagePl: 'niemiecki',
     languageDe: "Deutche",
+    languageIt: 'Tedesco',
   },
   'YourReviewWasDeleted': {
     languageEn:
@@ -5151,6 +5172,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wygląda na to, że ktoś usunął Twoją recenzję 🙁. Jeśli to nie ty, oznacza to, że Twój komentarz naruszył zasady Exloadera i został usunięty przez moderatorów!',
     languageDe:
         "Anscheinend hat jemand deine Bewertung gelöscht 🙁. Wenn Sie es nicht getan haben, dann hat Ihr Kommentar gegen die Regeln von ExLoader verstoßen und wurde von den Moderatoren gelöscht!",
+    languageIt: 
+        'A quanto pare qualcuno ha cancellato la tua recensione 🙁. Se non l`hai fatto, il tuo commento ha violato le regole di ExLoader ed è stato cancellato dai moderatori!',
   },
   'YourAnswerWasDeleted': {
     languageEn:
@@ -5163,6 +5186,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wygląda na to, że ktoś usunął twoją odpowiedź 🙁. Jeśli to nie ty, oznacza to, że Twoja odpowiedź naruszyła zasady Exloadera i została usunięta przez moderatorów!',
     languageDe:
         "Sieht so aus, als hätte jemand diese Antwort gelöscht 🙁. Wenn Sie es nicht getan haben, dann hat Ihre Antwort gegen die Regeln von ExLoader verstoßen und wurde von den Moderatoren entfernt!",
+    languageIt: 
+        'Sembra che qualcuno abbia cancellato questa risposta 🙁 Se non l`hai fatto, la tua risposta ha violato le regole di ExLoader ed è stata rimossa dai moderatori!',
   },
   'AnswersBranch': {
     languageEn: "Answers branch",
@@ -5170,6 +5195,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Нитка відповідей',
     languagePl: 'Wątek odpowiedzi',
     languageDe: "Antwortthread",
+    languageIt: 'Discussione',
   },
   'BuyToAddReply': {
     languageEn:
@@ -5182,6 +5208,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Dodawanie opinii lub odpowiedzi do modyfikacji Premium jest dostępne dopiero po ich zakupie!',
     languageDe:
         "Das Hinzufügen von Bewertungen oder Antworten zu Premium-Modifikationen ist erst nach dem Kauf möglich!",
+    languageIt: 
+        'Aggiungere recensioni o risposte alle modifiche premium è possibile solo dopo l`acquisto!',
   },
   'WaitForUpdateToAddReview': {
     languageEn:
@@ -5194,6 +5222,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Aby uniknąć spamu, możliwość dodawania nowych recenzji do modyfikacji, które są w stanie aktualizacji, jest wyłączona 🙁',
     languageDe:
         "Um Spam zu vermeiden, ist die Möglichkeit, Modifikationen, die sich im Status Update befinden, neues Feedback hinzuzufügen, deaktiviert 🙁",
+    languageIt: 
+        'Per evitare spam, la possibilità di aggiungere nuovi feedback alle modifiche in stato di aggiornamento è disabilitata 🙁',
   },
   'AccessLevel0': {
     languageEn: "Default user",
@@ -5201,6 +5231,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Звичайний користувач',
     languagePl: 'Zwykły użytkownik',
     languageDe: "Normaler Benutzer",
+    languageIt: 'Utente normale',
   },
   'AccessLevel1': {
     languageEn: "Publisher",
@@ -5208,6 +5239,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Видавець',
     languagePl: 'Wydawca',
     languageDe: "Herausgeber",
+    languageIt: 'Editore',
   },
   'AccessLevel1WithName': {
     languageEn: "{modification} author",
@@ -5215,6 +5247,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Творець модифікації {modification}',
     languagePl: 'Twórca modyfikacji {modification}',
     languageDe: "Ersteller der Modifikation {modification}",
+    languageIt: 'Creatore della modifica {modification}',
   },
   'AccessLevel2': {
     languageEn: "SwiftSoft developer",
@@ -5222,6 +5255,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Розробник SwiftSoft',
     languagePl: 'SwiftSoft deweloper',
     languageDe: "Entwickelt von SwiftSoft",
+    languageIt: 'Sviluppato da SwiftSoft',
   },
   'AccessLevel3': {
     languageEn: "Tester",
@@ -5229,6 +5263,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Тестувальник',
     languagePl: 'Tester',
     languageDe: "Prüfer",
+    languageIt: 'Tester',
   },
   'AccessLevel4': {
     languageEn: "Moderator",
@@ -5236,6 +5271,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Модератор',
     languagePl: 'Moderator',
     languageDe: "Moderation",
+    languageIt: 'Moderatore',
   },
   'AccessLevel5': {
     languageEn: "Lead moderator",
@@ -5243,6 +5279,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Головний модератор',
     languagePl: 'Główny moderator',
     languageDe: "Der Hauptmoderator",
+    languageIt: 'Moderatore principale',
   },
   'AccessLevel6': {
     languageEn: "Application's developer",
@@ -5250,6 +5287,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Розробник ExLoader',
     languagePl: 'ExLoader deweloper',
     languageDe: "Entwickler ExLoader",
+    languageIt: 'Sviluppatore dell`applicazione',
   },
   'AccessLevel': {
     languageEn: "User's access level",
@@ -5257,6 +5295,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Рівень доступу користувача',
     languagePl: 'Poziom dostępu użytkownika',
     languageDe: "Benutzerzugriffsebene",
+    languageIt: 'Livello di accesso dell`utente',
   },
   'NotificationsAboutSteamGamesUpdates': {
     languageEn: "Notify about steam game updates",
@@ -5264,6 +5303,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Повідомляти про оновлення ігор Steam',
     languagePl: 'Powiadamiaj o aktualizacjach gier Steam',
     languageDe: "Benachrichtigen Sie über Steam-Spielupdates",
+    languageIt: 'Notificati gli aggiornamenti dei giochi Steam',
   },
   'NotificationsAboutSteamGamesUpdatesDescription': {
     languageEn:
@@ -5276,6 +5316,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Jeśli gra, którą próbujesz uruchomić, została zaktualizowana, otrzymasz odpowiednie powiadomienie',
     languageDe:
         "Wenn für das Spiel, für das Sie versuchen, die Mod auszuführen, ein Update veröffentlicht wurde, erhalten Sie eine entsprechende Meldung",
+    languageIt: 
+        'Se è stato rilasciato un aggiornamento per il gioco per cui stai tentando di eseguire la mod, riceverai un messaggio che lo informa',
   },
   'NoStatus': {
     languageEn: "This user has not changed his status yet",
@@ -5283,6 +5325,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Цей користувач не зміняв свій статус',
     languagePl: 'Ten użytkownik nie zmienił swojego statusu',
     languageDe: "Dieser Benutzer hat seinen Status nicht geändert",
+    languageIt: 'Questo utente non ha cambiato il suo stato',
   },
   'Ban': {
     languageEn: "Ban and unban user",
@@ -5290,6 +5333,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Видача и зняття бану',
     languagePl: 'Wydanie i zniesienie zakazu',
     languageDe: "Bannen und entbannen eines Nutzers",
+    languageIt: 'Bloccare e sbloccare un utente',
   },
   'NotNeeded': {
     languageEn: "Not needed",
@@ -5297,6 +5341,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Не потрібно',
     languagePl: 'Nie potrzeba',
     languageDe: "Nicht benötigt",
+    languageIt: 'Non necessario',
   },
   '1Day': {
     languageEn: "Issue ban for one day",
@@ -5304,6 +5349,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Видати бан на один день',
     languagePl: 'Wydanie bana na jeden dzień',
     languageDe: "Ein Verbot für einen Tag ausstellen",
+    languageIt: 'Emetti un blocco per un giorno',
   },
   '3Days': {
     languageEn: "Issue ban for three days",
@@ -5311,6 +5357,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Видати бан на три дні',
     languagePl: 'Wydanie bana na trzy dni',
     languageDe: "Ein Verbot für drei Tage ausstellen",
+    languageIt: 'Emettere un blocco per tre giorni',
   },
   '7Days': {
     languageEn: "Issue ban for seven days",
@@ -5318,6 +5365,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Видати бан на сім днів',
     languagePl: 'Wydanie bana na siedem dni',
     languageDe: "Ein Verbot für sieben Tage ausstellen",
+    languageIt: 'Emettere un blocco per sette giorni',
   },
   '30Days': {
     languageEn: "Issue ban for one month",
@@ -5325,6 +5373,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Видати бан на один місяць',
     languagePl: 'Wydanie bana na miesiąc',
     languageDe: "Ein Verbot für einen Monat ausstellen",
+    languageIt: 'Emetti un blocco per un mese',
   },
   'BanForever': {
     languageEn: "Ban forever",
@@ -5332,6 +5381,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Заборонити назавжди',
     languagePl: 'Ban na zawsze',
     languageDe: "Permanenter Bann",
+    languageIt: 'Blocco permanente',
   },
   'RemoveBan': {
     languageEn: "Revoke ban",
@@ -5339,6 +5389,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Зняти блокування',
     languagePl: 'Cofnij bana',
     languageDe: "Entbannen",
+    languageIt: 'Revocare il blocco',
   },
   'ResetNickname': {
     languageEn: "Reset user's nickname",
@@ -5346,6 +5397,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Скинути нікнейм користувача',
     languagePl: 'Zresetuj pseudonim użytkownika',
     languageDe: "Benutzer-Nickname zurücksetzen",
+    languageIt: 'Reimposta il nickname dell`utente',
   },
   'ResetAvatar': {
     languageEn: "Reset user's avatar",
@@ -5353,6 +5405,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Скинути аватарку користувача',
     languagePl: 'Zresetuj avatar użytkownika',
     languageDe: "Benutzeravatar zurücksetzen",
+    languageIt: 'Reimposta l`avatar dell`utente',
   },
   'ResetStatus': {
     languageEn: "Reset user's status",
@@ -5360,6 +5413,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Скинути статус користувача',
     languagePl: 'Zresetuj status użytkownika',
     languageDe: "Benutzerstatus zurücksetzen",
+    languageIt: 'Reimposta lo stato dell`utente',
   },
   'ResetSubscription': {
     languageEn: "Reset user's subscription",
@@ -5367,6 +5421,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Скинути підписку користувача',
     languagePl: 'Resetowanie subskrypcji użytkownika',
     languageDe: "Benutzerabonnement zurücksetzen",
+    languageIt: 'Reimposta l`abbonamento dell`utente',
   },
   'ResetSocials': {
     languageEn: "Reset user's social networks",
@@ -5374,6 +5429,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Скинути соціальні мережі користувача',
     languagePl: 'Zresetuj media społecznościowe użytkownika',
     languageDe: "Setzen Sie die sozialen Netzwerke des Benutzers zurück",
+    languageIt: 'Reimposta i social network dell`utente',
   },
   'SomethingWentWrong': {
     languageEn: 'Oops.... Seems that something went wrong',
@@ -5381,6 +5437,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Упс.... Здається щось пішло не так',
     languagePl: 'Ups... Wygląda na to, że coś poszło nie tak',
     languageDe: "Hoppla .... Sieht so aus, als wäre etwas schief gelaufen",
+    languageIt: 'Ops... Sembra che qualcosa sia andato storto',
   },
   'NotGood': {
     languageEn: 'Not good 🙁',
@@ -5388,6 +5445,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Не добре 🙁',
     languagePl: 'Nie dobrze 🙁',
     languageDe: "Nicht gut 🙁",
+    languageIt: 'Non va bene 🙁',
   },
   'EmptyModificationsList': {
     languageEn:
@@ -5400,6 +5458,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Ciekawe... Wygląda na to, że obecnie w bibliotece ExLoadera nie ma żadnej modyfikacji ani gry. Spróbuj przyjść trochę później, na przykład jutro!',
     languageDe:
         "Interessant ... Es sieht so aus, als gäbe es im Moment keine Mod oder kein Spiel in der ExLoader-Bibliothek. Versuchen Sie, etwas später einzuchecken, zum Beispiel morgen!",
+    languageIt: 
+        'Interessante... Sembra che al momento non ci siano mod o giochi nella libreria ExLoader. Prova a fare il check-in un po` più tardi, ad esempio domani!',
   },
   'Login': {
     languageEn: 'Login that you specified during the purchase:',
@@ -5407,6 +5467,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Логін, який ти вказав при покупці:',
     languagePl: 'Login, który podałeś przy zakupie:',
     languageDe: "Das Login, das Sie beim Kauf angegeben haben:",
+    languageIt: 'Il login che hai fornito al momento dell`acquisto:',
   },
   'Password': {
     languageEn: "Account's password:",
@@ -5414,6 +5475,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Пароль від аккаунту:',
     languagePl: 'Hasło do konta:',
     languageDe: "Konto Passwort:",
+    languageIt: 'Password dell`account:',
   },
   'Auth': {
     languageEn: "Authenticate",
@@ -5421,6 +5483,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Авторизуватися',
     languagePl: 'Zaloguj się',
     languageDe: "Autorisierter",
+    languageIt: 'Autenticare',
   },
   'AuthIsNotAvailable': {
     languageEn:
@@ -5433,6 +5496,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Autoryzacja w modyfikacjach premium nie jest dostępna w trybie offline 🙁',
     languageDe:
         "Die Autorisierung in Premium-Modifikationen ist im Offline-Modus nicht verfügbar 🙁",
+    languageIt: 
+        'L`autorizzazione nelle modifiche premium non è disponibile in modalità offline 🙁',
   },
   'AuthInProgress': {
     languageEn: "Checking provided credentials...",
@@ -5440,6 +5505,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Перевіряємо введені дані...',
     languagePl: 'Sprawdzamy wprowadzone dane...',
     languageDe: "Überprüfung der eingegebenen Daten...",
+    languageIt: 'Verifica delle credenziali fornite...',
   },
   'AntivirusIsBad': {
     languageEn:
