@@ -4500,6 +4500,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety twórca tej modyfikacji nie opublikował konkretnej listy zmian. Najprawdopodobniej modyfikacja została zaktualizowana do najnowszej wersji gry!',
     languageDe:
         "Leider hat der Entwickler dieser Modifikation vor dem letzten Update nicht die vollständige Liste der Änderungen veröffentlicht. Es scheint, dass dies eine häufige Lösung für die neueste Version des Spiels ist.",
+    languageIt: 
+        'Sfortunatamente, lo sviluppatore di questa modifica non ha pubblicato l`elenco completo delle modifiche prima dell`ultimo aggiornamento. Sembra che questa sia una soluzione comune per l`ultima versione del gioco.',
   },
   'MarkAfterUpdate': {
     languageEn: 'You can not mark modifications which are being under update!',
@@ -4511,6 +4513,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Nie możesz oceniać modyfikacji, które są w stanie aktualizacji!',
     languageDe:
         "Sie können keine Mods bewerten, die sich im Update-Status befinden!",
+    languageIt: 
+        'Non puoi valutare le mod che sono in stato di aggiornamento!',
   },
   'MarkAfterBuy': {
     languageEn:
@@ -4523,6 +4527,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Kup modyfikacji i zaloguj się do systemu partnerskiego, aby uzyskać dostęp do jego oceny!',
     languageDe:
         "Kaufen Sie diese Modifikation und melden Sie sich im Partnersystem an, um auf ihre Bewertung zuzugreifen!",
+    languageIt: 
+        'Acquista questa modifica e accedi al sistema partner per accedere alla sua recensione!',
   },
   'MarkAfterPlay': {
     languageEn:
@@ -4535,6 +4541,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Będziesz mógł ocenić tę modyfikacje dopiero po tym, jak chwilę z nią pograsz!',
     languageDe:
         "Sie können diesen Mod erst bewerten, nachdem Sie damit gespielt haben!",
+    languageIt: 
+        'Puoi valutare questa mod solo dopo averla giocata!',
   },
   'NoRateInOfflineMode': {
     languageEn: "Mark setting function is not available in offline mode 🙁!",
@@ -4544,6 +4552,7 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl: 'Funkcja oceniania nie jest dostępna w trybie offline 🙁!',
     languageDe:
         "Die Bewertungsfunktion ist im Offline-Modus nicht verfügbar 🙁!",
+    languageIt: 'La funzione di valutazione non è disponibile in modalità offline 🙁!',
   },
   'From5': {
     languageEn: 'From 5',
@@ -4551,6 +4560,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'З 5-ти',
     languagePl: 'z 5',
     languageDe: "von 5",
+    languageIt: 'Dalle 5',
   },
   'UnderUpdate': {
     languageEn: 'Mod is under update!',
@@ -4558,6 +4568,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Мод на оновленні!',
     languagePl: 'Mod jest w fazie aktualizacji!',
     languageDe: "Mod beim Update!",
+    languageIt: 'La mod è in fase di aggiornamento!',
   },
   'TemporaryUnavailable': {
     languageEn: 'Temporary unavailable',
@@ -4565,6 +4576,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Тимчасово недоступно',
     languagePl: 'Chwilowo niedostępny',
     languageDe: "Nicht verfügbar",
+    languageIt: 'temporaneamente non disponibile',
   },
   'ModificationIsUnderUpdate': {
     languageEn:
@@ -4577,6 +4589,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Modyfikacja nie może zostać uruchomiona, ponieważ\njest w stanie aktualizacji. Ten proces zwykle trwa od\nkilku godzin do kilku dni. Chcesz zagrać z tą modyfikacją?\nPo prostu bądź cierpliwy i czekaj! Jeśli modyfikacja nie\nzostanie zaktualizowana po tym okresie, zostanie usunięta\nz biblioteki Exloadera.',
     languageDe:
         "Der Mod kann nicht ausgeführt werden, da er sich in einem Aktualisierungsstatus befindet.\nDieser Vorgang dauert normalerweise einige Stunden bis zu einigen Tagen.\nMöchtest du mit diesem Mod spielen? Seien Sie einfach geduldig und warten Sie! Wenn\ndie Modifikation nicht innerhalb dieses Zeitraums aktualisiert wird, wird sie aus\nder ExLoader-Bibliothek entfernt.",
+    languageIt: 
+        'Sfortunatamente, non puoi avviare questa modifica perché è in fase di aggiornamento.\nIn genere, questo processo richiede da alcune ore a diversi giorni. Vuoi davvero\ngiocare con questa modifica? Sii paziente e aspetta! Se la modifica non viene aggiornata\ndopo questo periodo, verrà eliminata dalla libreria ExLoader.',
   },
   'NoReviewsInOfflineMode': {
     languageEn: 'Unfortunately, you can not add a review in an offline mode 🙁',
@@ -4588,6 +4602,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety publikowanie komentarzy nie jest dostępne w trybie offline 🙁',
     languageDe:
         "Leider ist das Posten von Kommentaren im Offline-Modus nicht verfügbar 🙁",
+    languageIt: 
+        'Sfortunatamente non puoi aggiungere una recensione in modalità offline 🙁',
   },
   'NoSpamPlease': {
     languageEn:
@@ -4600,6 +4616,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wymyśl bardziej pouczającą recenzję, która będzie przydatna dla innych użytkowników. Mało kto jest zainteresowany czytaniem spamu!',
     languageDe:
         "Überlegen Sie sich eine informativere Bewertung, die für andere Benutzer nützlich sein wird. Kaum jemand interessiert sich für das Lesen von Spam!",
+    languageIt: 
+        'Per favore, crea una recensione più informativa che sarà utile ad altri utenti, quasi nessuno è interessato a leggere lo spam!',
   },
   'NoSpamPleaseConfig': {
     languageEn:
@@ -4612,6 +4630,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wymyśl bardziej informacyjną nazwę lub opis konfiguracji lub LUA, który będzie przydatny dla innych użytkowników programu. Mało kto jest zainteresowany czytaniem spamu!',
     languageDe:
         "Überlegen Sie sich einen aussagekräftigeren Namen oder eine Beschreibung für die Konfiguration oder LUA, die für andere Benutzer des Programms nützlich sein wird. Kaum jemand interessiert sich für das Lesen von Spam!",
+    languageIt: 
+        'Per favore, trova un nome o una descrizione più informativa che sarà utile ad altri utenti, quasi nessuno è interessato a leggere lo spam!',
   },
   'NoSpamPleaseAnswer': {
     languageEn:
@@ -4624,6 +4644,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wymyśl bardziej pouczającą odpowiedź, która zainteresuje autora recenzji, a także innych użytkowników. Mało kto chce czytać spam!',
     languageDe:
         "Überlegen Sie sich eine informativere Antwort, die sowohl für den Autor der Bewertung als auch für andere Benutzer interessant sein wird. Kaum jemand will Spam lesen!",
+    languageIt: 
+        'Per favore, fornisci una risposta più informativa che sarà utile all`autore della recensione così come agli altri utenti, quasi nessuno sarà interessato a leggere lo spam!',
   },
   'FailedToAddReview': {
     languageEn: 'Unfortunately, an error occurred while adding your review 🙁',
@@ -4632,6 +4654,7 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl: 'Niestety wystąpił błąd podczas dodawania Twojej recenzji 🙁',
     languageDe:
         "Leider ist beim Hinzufügen deiner Antwort ein Fehler aufgetreten 🙁",
+    languageIt: 'Purtroppo si è verificato un errore durante l`aggiunta della tua recensione 🙁',
   },
   'FailedToAddAnswer': {
     languageEn: 'Unfortunately, an error occurred while adding an answer 🙁',
@@ -4640,6 +4663,7 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl: 'Niestety podczas dodawania odpowiedzi wystąpił błąd 🙁',
     languageDe:
         "Leider ist beim Hinzufügen der Antwort ein Fehler aufgetreten 🙁",
+    languageIt: 'Purtroppo si è verificato un errore durante l`aggiunta della risposta 🙁',
   },
   'FailedToEditReview': {
     languageEn:
@@ -4651,6 +4675,8 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl: 'Nie można edytować komentarza, coś poszło nie tak 🙁',
     languageDe:
         "Dein Kommentar konnte nicht bearbeitet werden, irgendetwas scheint schief gelaufen zu sein 🙁",
+    languageIt: 
+        'Impossibile modificare il tuo commento, sembra che qualcosa sia andato storto 🙁',
   },
   'FailedToEditAnswer': {
     languageEn:
@@ -4662,6 +4688,8 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl: 'Nie udało się edytować tej odpowiedzi, coś poszło nie tak 🙁',
     languageDe:
         "Diese Antwort konnte nicht bearbeitet werden, da scheint etwas schief gelaufen zu sein 🙁",
+    languageIt: 
+        'Impossibile modificare la risposta, sembra che qualcosa sia andato storto 🙁',
   },
   'ReviewAdded': {
     languageEn: 'Review is successfully added',
@@ -4669,6 +4697,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Відгук успішно додано',
     languagePl: 'Opinia została pomyślnie dodana',
     languageDe: "Feedback erfolgreich hinzugefügt",
+    languageIt: 'La recensione è stata aggiunta con successo',
   },
   'AnswerAdded': {
     languageEn: 'Answer is successfully added',
@@ -4676,6 +4705,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Відповідь успішно додана',
     languagePl: 'Odpowiedź została pomyślnie dodana',
     languageDe: "Antwort erfolgreich hinzugefügt",
+    languageIt: 'La risposta è stata aggiunta con successo',
   },
   'ReviewEdited': {
     languageEn: 'Your review is saved',
