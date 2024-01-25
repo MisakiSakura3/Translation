@@ -5518,6 +5518,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety twój program antywirusowy lub zapora ogniowa uniemożliwia ExLoaderowi pobranie niezbędnych plików. Aby kontynuować, sprawdź ustawienia oprogramowania antywirusowego oraz zapory sieciowej i spróbuj ponownie!',
     languageDe:
         "Leider verhindert Ihr Antivirenprogramm oder Ihre Firewall, dass ExLoader die erforderlichen Dateien herunterlädt. Um fortzufahren, überprüfen Sie die Einstellungen Ihrer Antiviren- und Firewall-Software und versuchen Sie es erneut!",
+    languageIt: 
+        'Sfortunatamente, il tuo antivirus o firewall impedisce a ExLoader di scaricare i file necessari. Per continuare, controlla le impostazioni del software antivirus e firewall e riprova!',
   },
   'BetterConsiderIfNormal': {
     languageEn:
@@ -5530,6 +5532,8 @@ const Map<String, Map<String, String>> localeItems = {
         '⛔️ Ponieważ jednak modyfikacja ta nie została jeszcze sprawdzona pod kątem zagrożeń wirusowych, decyzję o jej uruchomieniu lub nie w przypadku jakichkolwiek problemów z programem antywirusowym podejmujesz wyłącznie na własne ryzyko! P.S. funkcję automatycznego dodawania niesprawdzonych modów do wyjątków Windows Defender można włączyć w ustawieniach ExLoadera!',
     languageDe:
         "⛔️ Da diese Modifikation jedoch noch nicht auf Virenbedrohungen geprüft wurde, erfolgt die Entscheidung, sie bei Problemen mit Ihrem Antivirusprogramm auszuführen oder nicht, nur auf eigenes Risiko! Alle weiteren Aktionen erfolgen auf eigene Gefahr! P.S. die Funktion des automatischen Hinzufügens von ungetesteten Mods zu Windows Defender Ausnahmen kann in den ExLoader Einstellungen aktiviert werden!",
+    languageIt: ]
+        '⛔️ Tuttavia, poiché questa modifica non è stata ancora verificata per la presenza di minacce di virus, la decisione di eseguirla o meno in caso di problemi con il tuo programma antivirus viene presa esclusivamente a tuo rischio e pericolo! Tutte le ulteriori azioni sono a tuo rischio e pericolo! PS La funzione di aggiunta automatica di mod non testate alle eccezioni di Windows Defender può essere attivata nelle impostazioni di ExLoader!',
   },
   'WhyAntivirusSaysIt': {
     languageEn:
@@ -5542,6 +5546,8 @@ const Map<String, Map<String, String>> localeItems = {
         '✅ Niektóre antywirusy mają bardzo negatywne nastawienie do modów, uważając je za pirackie oprogramowanie, które narusza zasady gry, więc mogą celowo wyświetlać fałszywe alarmy, pokazując nieistniejące wirusy, aby zmniejszyć liczbę nielegalnych graczy. A mod, który próbowałeś uruchomić, został już zweryfikowany jako wolny od wirusów przez niezależnego przedstawiciela i jest całkowicie bezpieczny do uruchomienia!',
     languageDe:
         "✅ Einige Antivirenprogramme stehen Mods sehr ablehnend gegenüber, da sie sie für raubkopierte Software halten, die gegen die Spielregeln verstößt. Daher zeigen sie möglicherweise absichtlich falsch positive Ergebnisse an, indem sie nicht vorhandene Viren anzeigen, um die Zahl der illegalen Spieler zu verringern. Und der Mod, den Sie versucht haben zu starten, wurde bereits von einem unabhängigen Vertreter als virenfrei bestätigt und ist absolut sicher!",
+    languageIt: 
+        '✅ Alcuni programmi antivirus sono molto negativi nei confronti dei mod, considerandoli software piratati che violano le regole del gioco. Pertanto, potrebbero mostrare intenzionalmente falsi positivi visualizzando virus inesistenti al fine di ridurre il numero di giocatori illegali. E la mod che hai provato ad avviare è già stata confermata da un rappresentante indipendente come esente da virus ed è completamente sicura!',
   },
   'PossibleAntivirusList': {
     languageEn:
@@ -5554,6 +5560,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Lista oprogramowania, które mogło przyczynić się do wystąpienia tego błędu',
     languageDe:
         "Eine Liste möglicher Software, die möglicherweise zu diesem Fehler beigetragen hat",
+    languageIt: 
+        'Un elenco di possibili software che potrebbero aver contribuito a questo errore',
   },
   'WindowsDefender': {
     languageEn: 'Windows Defender',
@@ -5561,6 +5569,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Захисник Windows',
     languagePl: 'Windows Defender',
     languageDe: "Windows Defender",
+    languageIt: 'Windows Defender',
   },
   'CanNotLaunchInOfflineMode': {
     languageEn:
@@ -5573,6 +5582,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety, nie będziesz mógł uruchomić tej modyfikacji w trybie offline. Poczekaj, aż ExLoader połączy się ze swoim serwerem i spróbuj ponownie!',
     languageDe:
         "Leider können Sie diesen Mod nicht offline ausführen. Warten Sie, bis ExLoader eine Verbindung zu seinem Server herstellen kann, und versuchen Sie erneut, die gewünschte Modifikation zu starten!",
+    languageIt: 
+        'Sfortunatamente, non puoi eseguire questa mod offline. Attendi finché ExLoader non riesce a connettersi al suo server e prova a lanciare nuovamente la modifica desiderata!',
   },
   'CanNotUseThisFunctionInOfflineMode': {
     languageEn:
@@ -5585,6 +5596,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety nie możesz wykonać tej czynności w trybie offline. Poczekaj, aż ExLoader połączy się ze swoim serwerem i spróbuj ponownie!',
     languageDe:
         "Leider können Sie diese Aktion nicht im Offline-Modus ausführen. Warten Sie, bis ExLoader sich mit seinem Server verbinden kann, und versuchen Sie es erneut!",
+    languageIt: 
+        'Sfortunatamente, non puoi eseguire questa azione in modalità offline. Attendi finché ExLoader non riesce a connettersi al suo server e riprova!',
   },
   'GameWasClosedDuringInjection': {
     languageEn:
@@ -5597,6 +5610,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Uruchomienie modyfikacji zostało anulowane z powodu zamknięcia gry podczas procesu wstrzykiwania!',
     languageDe:
         "Der Mod-Launch wurde aufgrund der Schließung des Spiels während des Injektionsvorgangs abgebrochen!",
+    languageIt: 
+        'Il lancio della mod è stato annullato a causa della chiusura del gioco durante il processo di iniezione!',
   },
   'CrashMessage': {
     languageEn:
@@ -5609,6 +5624,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wygląda na to, że wybrana modyfikacja spowodowała awarię gry. Pamiętaj, że nie jest to problem z ExLoaderem, ale z samą modyfikacją lub twoim urządzeniem. Możesz uzyskać bardziej szczegółową analizę za pomocą przycisku poniżej!\n\nByć może ten problem dotyczy tylko modyfikacji, którą uruchomiłeś. Jeśli nie możesz pozbyć się tego problemu za pomocą poniższych wskazówek, spróbuj bawić się innymi modyfikacjami z biblioteki!',
     languageDe:
         "Es scheint, dass der von Ihnen ausgewählte Mod das Spiel zum Absturz gebracht hat. Beachten Sie, dass dies kein Problem mit ExLoader ist, sondern ein Problem mit dem Mod selbst oder Ihrem Gerät. Eine detailliertere Analyse erhalten Sie über die Schaltfläche unten!\n\nVielleicht betrifft dieses Problem nur die Modifikation, die du ausgeführt hast. Wenn du dieses Problem mit den folgenden Tipps nicht loswerden kannst, versuche es mit anderen Modifikationen aus der Bibliothek zu spielen!",
+    languageIt: 
+        'Sembra che la mod che hai selezionato abbia causato il crash del gioco. Tieni presente che questo non è un problema con ExLoader, ma un problema con la mod stessa o con il tuo dispositivo. Per un`analisi più dettagliata, clicca il pulsante qui sotto!\n\nForse questo problema riguarda solo la modifica che hai apportato. Se non riesci a risolvere questo problema con i seguenti suggerimenti, prova a giocarci con altri mod dalla libreria!',
   },
   'CrashMessageCustom': {
     languageEn:
@@ -5621,6 +5638,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wygląda na to, że wybrana modyfikacja spowodowała awarię gry. Pamiętaj, że nie jest to problem z ExLoaderem, ale z samą modyfikacją, niekompatybilną metodą wstrzykiwania, którą możesz zmienić w ustawieniach programu lub twojego urządzenia. Uzyskaj szczegółową analizę za pomocą przycisku poniżej!',
     languageDe:
         "Es scheint, dass der von Ihnen ausgewählte Mod das Spiel zum Absturz gebracht hat. Beachten Sie, dass dies kein ExLoader-Problem ist, sondern ein Problem mit der Modifikation selbst, einer inkompatiblen Injektionsmethode, die Sie in den Programmeinstellungen oder Ihrem Gerät ändern können. Holen Sie sich eine detaillierte Analyse über die Schaltfläche unten!",
+    languageIt: 
+        'Sembra che la mod che hai selezionato abbia causato il crash del gioco. Tieni presente che questo non è un problema di ExLoader, ma un problema con la modifica stessa, un metodo di iniezione incompatibile che puoi modificare nelle impostazioni del programma o del tuo dispositivo. Ottieni un`analisi dettagliata utilizzando il pulsante qui sotto!',
   },
   'PossibleBlockingApp': {
     languageEn:
@@ -5633,6 +5652,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Znaleziona reguła lub aplikacja blokująca aplikację: «{rule}».',
     languageDe:
         "Die gefundene Regel oder die Anwendung, die die Anwendung blockiert: «{rule}».",
+    languageIt: 
+        'La regola trovata o l`applicazione che blocca ExLoader: «{rule}».',
   },
   'UseVPNError': {
     languageEn:
@@ -5645,6 +5666,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Połączenie z serwerem jest niestabilne: program antywirusowy, zapora sieciowa, dostawca usług internetowych lub inny program blokuje próbę wysłania pakietów od strony klienta! Aby rozwiązać ten problem, musisz znaleźć tę aplikację i zezwolić na dostęp do Internetu naszemu klientowi w niej, zwykłe usunięcie blokera może nie pomóc w rozwiązaniu tego problemu! Możesz też spróbować włączyć VPN podczas korzystania z ExLoadera!',
     languageDe:
         "Die Verbindung zum Server ist instabil: Ihr Antivirusprogramm, Ihre Firewall, Ihr ISP oder ein anderes Programm blockiert den Versuch, Pakete von der Client-Seite zu senden! Um dieses Problem zu lösen, müssen Sie diese Anwendung finden und den Internetzugang zu unserem Client darin erlauben, die normale Entfernung des Blockers kann nicht helfen, es zu lösen! Oder Sie können versuchen, VPN zu aktivieren, während Sie ExLoader verwenden!",
+    languageIt: 
+        'La connessione al server è instabile: il tuo antivirus, firewall, ISP o altro programma sta bloccando i tentativi di inviare pacchetti dal lato client! Per risolvere questo problema è necessario trovare questa applicazione e consentire l`accesso a Internet al nostro client al suo interno, la normale rimozione del blocco non può aiutare a risolverlo! Oppure puoi provare ad abilitare la VPN mentre usi ExLoader!',
   },
   'LostConnectionError': {
     languageEn:
@@ -5657,6 +5680,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Utrata komunikacji z serwerem. Może to problem z połączeniem internetowym lub po prostu nieplanowana praca na serwerze. Poczekaj na przywrócenie połączenia i kontynuuj robienie tego, co robiłeś wcześniej.',
     languageDe:
         "Die Kommunikation mit dem Server geht verloren. Vielleicht ist es ein Problem mit Ihrer Internetverbindung oder es sind nur einige außerplanmäßige Arbeiten auf dem Server. Warten Sie, bis die Verbindung wiederhergestellt ist, und fahren Sie mit dem fort, was Sie zuvor getan haben.",
+    languageIt: 
+        'La comunicazione con il server è stata persa. Forse è un problema con la tua connessione Internet o c`è semplicemente del lavoro non programmato sul server. Attendi il ripristino della connessione e continua con quello che stavi facendo prima.',
   },
   'ABitOfInformation': {
     languageEn: "A bit of information from modification's developer",
@@ -5664,6 +5689,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Трохи інформації від розробника',
     languagePl: 'Kilka informacji od developera',
     languageDe: "Eine kleine Information vom Entwickler",
+    languageIt: 'Alcune informazioni dallo sviluppatore',
   },
   'DoNotShowAgain': {
     languageEn: "do now show this again",
@@ -5671,6 +5697,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "не показувати знову",
     languagePl: 'nie pokazuj ponownie',
     languageDe: "nicht mehr anzeigen",
+    languageIt: 'non mostrare più',
   },
   'ComponentsInstalling': {
     languageEn: "Required for modification components are missing",
@@ -5678,6 +5705,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Установка необхідних компонентів",
     languagePl: 'Instalacja niezbędnych komponentów',
     languageDe: "Installation der notwendigen Komponenten",
+    languageIt: 'Installazione dei componenti necessari',
   },
   'FailedToInstallJava': {
     languageEn:
@@ -5690,6 +5718,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety, nie udało nam się automatycznie zainstalować komponentów Javy, jednak możesz spróbować zrobić to ręcznie, korzystając z dowolnej witryny w Internecie!',
     languageDe:
         "Leider konnten wir Java-Komponenten nicht automatisch installieren, aber Sie können versuchen, dies manuell über eine beliebige Website im Internet zu tun!",
+    languageIt: 
+        'Sfortunatamente non siamo riusciti a installare automaticamente i componenti Java, ma puoi provare a farlo manualmente da qualsiasi sito web su Internet!',
   },
   'FailedToInstallCheatEngine': {
     languageEn:
@@ -5702,6 +5732,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety, nie udało nam się automatycznie zainstalować komponentów CheatEngine, jednak możesz spróbować zrobić to ręcznie, korzystając z dowolnej witryny w Internecie!',
     languageDe:
         "Leider konnten wir CheatEngine-Komponenten nicht automatisch installieren, aber Sie können versuchen, dies manuell über eine beliebige Website im Internet zu tun!",
+    languageIt: 
+        'Sfortunatamente, non siamo riusciti a installare automaticamente i componenti di CheatEngine, ma puoi provare a farlo manualmente da qualsiasi sito Web su Internet!',
   },
   'FailedToInstallMicrosoft': {
     languageEn:
@@ -5714,6 +5746,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety, nie udało nam się automatycznie zainstalować komponentów firmy Microsoft, jednak możesz spróbować zrobić to ręcznie, korzystając z dowolnej witryny w Internecie!',
     languageDe:
         "Leider konnten wir Microsoft-Komponenten nicht automatisch installieren, aber Sie können versuchen, dies manuell über eine beliebige Website im Internet zu tun!",
+    languageIt: 
+        'Purtroppo non siamo riusciti a installare automaticamente i componenti Microsoft, ma puoi provare a farlo manualmente da qualsiasi sito Web su Internet!',
   },
   'FailedToInstallNetFramework': {
     languageEn:
@@ -5726,6 +5760,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety, nie udało nam się automatycznie zainstalować komponentów .NET Framework, jednak możesz spróbować zrobić to ręcznie, korzystając z dowolnej witryny w Internecie! Wymagana wersja: ',
     languageDe:
         "Leider konnten wir die .NET Framework-Komponenten nicht automatisch installieren, aber Sie können versuchen, dies manuell über eine beliebige Website im Internet zu tun! Benötigte Version: ",
+    languageIt: 
+        'Sfortunatamente non siamo riusciti a installare automaticamente i componenti .NET Framework, ma puoi provare a farlo manualmente da qualsiasi sito Web su Internet! Versione richiesta: ',
   },
   'FailedToInstallPython': {
     languageEn:
@@ -5738,6 +5774,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety, nie byliśmy w stanie zainstalować komponentów Pythona automatycznie, jednak możesz spróbować zrobić to ręcznie, korzystając z dowolnej witryny w Internecie! Wymagana wersja: ',
     languageDe:
         "Leider konnten wir die Python-Komponenten nicht automatisch installieren, aber Sie können versuchen, dies manuell über eine beliebige Website im Internet zu tun! Benötigte Version: ",
+    languageIt: 
+        'Sfortunatamente non siamo riusciti a installare automaticamente i componenti Python, ma puoi provare a farlo manualmente da qualsiasi sito web su Internet! Versione richiesta: ',
   },
   'FailedToInstallNetRuntime': {
     languageEn:
@@ -5750,6 +5788,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety, nie byliśmy w stanie zainstalować komponentów .NET Runtime automatycznie, jednak możesz spróbować zrobić to ręcznie, korzystając z dowolnej witryny w Internecie! Wymagana wersja: ',
     languageDe:
         "Leider konnten wir die .NET Runtime-Komponenten nicht automatisch installieren, aber Sie können versuchen, dies manuell über eine beliebige Website im Internet zu tun! Benötigte Version: ",
+    languageIt: 
+        'Sfortunatamente non siamo riusciti a installare automaticamente i componenti .NET Runtime, ma puoi provare a farlo manualmente da qualsiasi sito web su Internet! Versione richiesta: ',
   },
   'WhyYouNeedMicrosoft': {
     languageEn:
@@ -5762,6 +5802,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Aby modyfikacje działały poprawnie, należy zainstalować komponenty firmy Microsoft. Możesz pominąć ten krok, jednak bez tych komponentów możesz napotkać wiele nieprzewidzianych problemów!',
     languageDe:
         "Damit die Modifikationen richtig funktionieren, müssen Sie Microsoft-Komponenten installieren. Sie können diesen Schritt überspringen, aber ohne diese Komponenten können Sie auf viele unvorhergesehene Probleme stoßen!",
+    languageIt: 
+        'Affinché le modifiche funzionino correttamente, è necessario installare i componenti Microsoft. Puoi saltare questo passaggio, ma senza questi componenti potresti riscontrare molti problemi imprevisti!',
   },
   'WhyYouNeedNetFramework': {
     languageEn:
@@ -5774,6 +5816,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Do poprawnego działania modyfikacji w systemie musi być zainstalowany .NET Framework.',
     languageDe:
         "Das .NET Framework muss auf Ihrem System installiert sein, damit die Modifikation ordnungsgemäß funktioniert.",
+    languageIt: 
+        'Affinché la modifica funzioni correttamente, è necessario che .NET Framework sia installato sul sistema.',
   },
   'WhyYouNeedNetRuntime': {
     languageEn:
@@ -5786,6 +5830,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Do poprawnego działania modyfikacji w systemie musi być zainstalowany .NET Runtime.',
     languageDe:
         "Das .NET Runtime muss auf Ihrem System installiert sein, damit die Modifikation ordnungsgemäß funktioniert.",
+    languageIt: 
+        'Affinché la modifica funzioni correttamente, è necessario che .NET Runtime sia installato sul sistema.',
   },
   'WhyYouNeedJava': {
     languageEn:
@@ -5798,6 +5844,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Aby modyfikacja działała poprawnie, w systemie musi być zainstalowana Java.',
     languageDe:
         "Damit die Modifikation korrekt funktioniert, muss Java auf Ihrem System installiert sein.",
+    languageIt: 
+        'Affinché la modifica funzioni correttamente, Java deve essere installato sul tuo sistema.',
   },
   'WhyYouNeedPython': {
     languageEn:
@@ -5810,6 +5858,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Do poprawnego działania modyfikacji w systemie musi być zainstalowany Python w wersji 3.8+.',
     languageDe:
         "Für den korrekten Betrieb der Modifikation muss Python Version 3.8+ auf Ihrem System installiert sein.",
+    languageIt: 
+        'Affinché la modifica funzioni correttamente, sul tuo sistema deve essere installata la versione 3.8+ di Python.',
   },
   'WhyYouNeedCheatEngine': {
     languageEn:
@@ -5822,6 +5872,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Aby modyfikacja działała poprawnie, w Twoim systemie musi być zainstalowana najnowsza wersja CheatEngine! W przypadku pojawienia się ofert reklamowych w instalatorze wystarczy nacisnąć przycisk «Decline».',
     languageDe:
         "Für den korrekten Betrieb der Modifikation muss Python Version 3.8+ auf Ihrem System installiert sein.",
+    languageIt: 
+        'Per il corretto funzionamento della modifica è necessario che sul tuo sistema sia installata l`ultima versione di CheatEngine! Se nel programma di installazione vengono visualizzate offerte pubblicitarie, è sufficiente fare clic sul pulsante «Rifiuta».',
   },
   'Downloading': {
     languageEn: "Downloading",
@@ -5829,6 +5881,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Завантаження',
     languagePl: 'Ładowanie',
     languageDe: "Herunterladen",
+    languageIt: 'Scaricamento',
   },
   'OutOf': {
     languageEn: "out of",
@@ -5836,6 +5889,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'з',
     languagePl: 'z',
     languageDe: "von",
+    languageIt: 'da',
   },
   'Skip': {
     languageEn: 'Skip',
@@ -5843,6 +5897,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Пропустити',
     languagePl: 'Pominąć',
     languageDe: "Überspringen",
+    languageIt: 'Saltare',
   },
   'FailedToLaunchExChanger': {
     languageEn:
@@ -5855,6 +5910,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wystąpił nieoczekiwany błąd podczas uruchamiania modyfikacji ExChanger!',
     languageDe:
         "Beim Ausführen des ExChanger-Mods ist ein unerwarteter Fehler aufgetreten!",
+    languageIt: 
+        'Si è verificato un errore imprevisto durante l`esecuzione della mod ExChanger!',
   },
   'LaunchProcessIsFinished': {
     languageEn: 'Modification is ready to use',
@@ -5862,6 +5919,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Модифікація успішно запущена',
     languagePl: 'Modyfikacja została pomyślnie uruchomiona',
     languageDe: "Die Modifikation wurde erfolgreich gestartet",
+    languageIt: 'La modifica è stata avviata con successo',
   },
   'InstallationIsFinished': {
     languageEn: 'Modification is ready to use',
@@ -5869,6 +5927,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Модифікація встановлена',
     languagePl: 'Modyfikacja jest zainstalowana',
     languageDe: "Die Modifikation ist installiert",
+    languageIt: 'La modifica è installata',
   },
   'StandardKeyButton': {
     languageEn: "Standard key for modification's menu opening:",
@@ -5876,6 +5935,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Стандартна клавіша відкриття меню модифікації:',
     languagePl: 'Standardowy klawisz do otwierania menu modyfikacji:',
     languageDe: "Standardtaste zum Öffnen des Menüs:",
+    languageIt: 'Tasto predefinito per aprire il menu:',
   },
   'NoButtonNoMenu': {
     languageEn: 'Without key-button and maybe without menu',
@@ -5883,6 +5943,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Без клавіші і можливо без меню',
     languagePl: 'Bez klawisza i ewentualnie bez menu',
     languageDe: "Keine Taste und möglicherweise kein Menü",
+    languageIt: 'Nessun pulsante e possibilmente nessun menu',
   },
   'IHaveAProblem': {
     languageEn: 'I have a problem, please, help',
@@ -5890,6 +5951,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'У мене проблема, допоможіть',
     languagePl: 'Mam problem, proszę o pomoc',
     languageDe: "Ich habe ein Problem, bitte helfen Sie",
+    languageIt: 'Ho un problema, per favore aiutatemi',
   },
   'ConfigsInstallation': {
     languageEn:
@@ -5902,6 +5964,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Instalowanie gotowych ustawień od innych użytkowników jest dostępne za pomocą koła zębatego na stronie modyfikacji!\n\nJednak istnieją modyfikacje, które z jakiegoś powodu nie obsługują tej funkcji!',
     languageDe:
         "Das Installieren von Voreinstellungen von anderen Benutzern ist über die Zahnradschaltfläche auf der Mod-Seite verfügbar!\n\nEs gibt jedoch Mods, die diese Funktion aus dem einen oder anderen Grund nicht unterstützen!",
+    languageIt: 
+        'L`installazione di preset da altri utenti è disponibile tramite il pulsante a forma di ingranaggio nella pagina delle mod!\n\nTuttavia, ci sono mod che non supportano questa funzionalità per un motivo o per l`altro!',
   },
   'WeOfferYouYandex': {
     languageEn:
@@ -5914,6 +5978,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Oferujemy instalację szybkiej, prostej i wygodnej przeglądarki Yandex do wygodnej pracy w Internecie.',
     languageDe:
         "Wir bieten Ihnen an, den schnellen, einfachen und bequemen Yandex-Browser für komfortables Arbeiten im Internet zu installieren.",
+    languageIt: 
+        'Ti offriamo l`installazione del browser Yandex veloce, semplice e conveniente per lavorare comodamente su Internet.',
   },
   'WeOfferYouYandexButNotBrowser': {
     languageEn:
@@ -5926,6 +5992,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Sugerujemy zainstalowanie rozszerzenia Yandex dla przeglądarek, a także ustawień szybkiego dostępu do wyszukiwania i usług Yandex.',
     languageDe:
         "Wir empfehlen Ihnen, die Yandex-Erweiterung für Browser sowie die Einstellungen für den schnellen Zugriff auf die Yandex-Suche und -Dienste zu installieren.",
+    languageIt: 
+        'Ti consigliamo di installare l`estensione Yandex per i browser, nonché le impostazioni per l`accesso rapido alla ricerca e ai servizi Yandex.',
   },
   'WeOfferYouOpera': {
     languageEn:
@@ -5938,6 +6006,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Oferujemy instalację szybkiej, bezpiecznej i prostej przeglądarki Opera z wbudowanym blokerem reklam, oszczędzaniem baterii i darmową siecią VPN',
     languageDe:
         "Wir bieten Ihnen an, den schnellen, sicheren und einfachen Opera-Browser mit integriertem Werbeblocker, Batteriesparmodus und kostenlosem VPN zu installieren",
+    languageIt: 
+        'Ti offriamo l`installazione del browser Opera veloce, sicuro e semplice con blocco pubblicità integrato, risparmio batteria e VPN gratuita',
   },
   'WeOfferYouToUpdateOpera': {
     languageEn:
