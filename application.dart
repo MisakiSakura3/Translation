@@ -6020,6 +6020,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Oferujemy uaktualnienie Twojej szybkiej, bezpiecznej i prostej przeglądarki Opera o wbudowaną blokadę reklam, funkcję oszczędzania baterii i darmową sieć VPN.',
     languageDe:
         "Wir bieten Ihnen an, Ihren schnellen, sicheren und einfachen Opera-Browser mit integriertem Werbeblocker, Batteriesparmodus und kostenlosem VPN zu aktualisieren.",
+    languageIt: 
+        'Ti offriamo l`aggiornamento del tuo browser Opera veloce, sicuro e semplice con blocco annunci integrato, risparmio batteria e VPN gratuita.',
   },
   'ShowMore': {
     languageEn: 'Learn more',
@@ -6027,6 +6029,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Дізнатися подробиці',
     languagePl: 'Czytaj więcej',
     languageDe: "Näheres erfahren",
+    languageIt: 'Scopri di più',
   },
   'Agreement': {
     languageEn:
@@ -6039,6 +6042,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Klikając „{button_name}” i instalując zalecane oprogramowanie Exloadera, wyrażasz zgodę na warunki umowy licencyjnej',
     languageDe:
         "Indem Sie auf „{button_name}“ klicken und die von ExLoader empfohlene Software installieren, stimmen Sie der Lizenzvereinbarung zu",
+    languageIt: 
+        'Facendo clic su «{button_name}» e installando il software consigliato da ExLoader, accetti il ​​contratto di licenza',
   },
   'YaBrowser': {
     languageEn: 'Yandex browser',
@@ -6046,6 +6051,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Яндекс браузера',
     languagePl: 'Przeglądarka Yandex',
     languageDe: "Yandex Browser",
+    languageIt: 'Browser Yandex',
   },
   'And': {
     languageEn: 'and',
@@ -6053,6 +6059,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'та',
     languagePl: 'i',
     languageDe: "und",
+    languageIt: '',
   },
   'DesktopSoftware': {
     languageEn: 'desktop Yandex software',
@@ -6060,6 +6067,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'настільного по Яндекса',
     languagePl: 'desktop by Yandex',
     languageDe: "desktop-Software von Yandex",
+    languageIt: 'software desktop di Yandex',
   },
   'DoNotForgetToMark': {
     languageEn: 'Do not forget to leave a review after playing!',
@@ -6067,6 +6075,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Не забудь оцінити модифікацію після гри!',
     languagePl: 'Nie zapomnij ocenić modyfikacji po grze!',
     languageDe: "Vergiss nicht, den Mod zu bewerten!",
+    languageIt: 'Non dimenticare di valutare la mod!',
   },
   'OperaAgreeFinal': {
     languageEn:
@@ -6079,6 +6088,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Klikając „{button_name}”, wyrażasz zgodę na instalację Opery i akceptujesz warunki',
     languageDe:
         'Indem Sie auf "{button_name}" klicken, stimmen Sie der Installation von Opera zu und akzeptieren die Bedingungen',
+    languageIt: 
+        'Facendo clic su «{button_name}» accetti di installare Opera e di accettare i termini e le condizioni',
   },
   'OperaAgreeFinalButUpdate': {
     languageEn:
@@ -6091,6 +6102,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Klikając „{button_name}”, zgadzasz się na aktualizację Opery i akceptujesz warunki',
     languageDe:
         "Indem Sie auf „{button_name}“ klicken, stimmen Sie der Aktualisierung von Opera zu und akzeptieren die Bedingungen",
+    languageIt: 
+        'Facendo clic su «{button_name}», accetti l`aggiornamento di Opera e accetti i termini',
   },
   'OperaLicense': {
     languageEn: 'End User License Agreement',
@@ -6098,6 +6111,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Ліцензійної угоди з кінцевим користувачем',
     languagePl: 'Umowa licencyjna użytkownika końcowego',
     languageDe: "Lizenzvereinbarung mit dem Endbenutzer",
+    languageIt: 'Contratto di licenza per l`utente',
   },
   'OperaPrivacy': {
     languageEn: 'Privacy Policy',
@@ -6105,6 +6119,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Політики конфіденційності',
     languagePl: 'Polityka prywatności',
     languageDe: "Datenschutzrichtlinien",
+    languageIt: 'Politica sulla riservatezza',
   },
   'OperaEnding': {
     languageEn:
@@ -6117,6 +6132,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Ten program można usunąć w dowolnym momencie za pomocą narzędzia Dodaj/Usuń programy.',
     languageDe:
         "Dieses Programm kann jederzeit mit dem Tool Programme hinzufügen/entfernen entfernt werden.",
+    languageIt: 
+        'Questo programma può essere rimosso in qualsiasi momento utilizzando lo strumento Aggiungi/Rimuovi programmi.',
   },
   'LaunchIsInLauncher': {
     languageEn:
@@ -6129,6 +6146,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Uruchomienie modyfikacji odbywa się za pomocą programu uruchamiającego Minecraft, w którym ta modyfikacja została zainstalowana.\n\nPO prostu otwórz Loader, wybierz nową wersję klienta, kliknij "Graj" i ciesz się rozgrywką!',
     languageDe:
         'Der Start der Modifikation erfolgt über deinen Minecraft-Launcher, in dem diese Modifikation installiert wurde.\n\n Öffne einfach den Loader, wähle eine neue Version des Kunden aus, klicke auf «Spielen» und genieße das Gameplay!',
+    languageIt: 
+        'La modifica viene avviata tramite il launcher di Minecraft in cui è stata installata questa modifica.\n\n Basta aprire il caricatore, selezionare una nuova versione del cliente, fare clic su «Gioca» e godersi il gioco!',
   },
   'InstallAPK': {
     languageEn:
@@ -6141,6 +6160,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Teraz możesz zainstalować pobrany plik APK na dowolnym emulator lub smartfon i zacznij grać w zmodyfikowaną wersję gry!',
     languageDe:
         'Jetzt kannst du die heruntergeladene APK-Datei auf jedem Emulator oder auf deinem Smartphone installieren und eine modifizierte Version des Spiels spielen!',
+    languageIt: 
+        'Ora puoi installare il file APK scaricato su qualsiasi emulatore o sul tuo smartphone e giocare ad una versione modificata del gioco!',
   },
   'NextLoader': {
     languageEn:
@@ -6153,6 +6174,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Początkowy proces uruchamiania modyfikacji został pomyślnie zakończony, jednak ta modyfikacja ma swój własny loader, który będzie kontynuował jej dalsze uruchamianie!',
     languageDe:
         "Der anfängliche Startvorgang des Mods wurde erfolgreich abgeschlossen, dieser Mod hat jedoch seinen eigenen Loader, der seine nachfolgenden Starts fortsetzt!",
+    languageIt: 
+        'Il processo di avvio iniziale della mod è stato completato con successo, tuttavia, questa mod ha il proprio caricatore che continua i suoi avvii successivi!',
   },
   'RegisterIfNeeded': {
     languageEn:
@@ -6165,6 +6188,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Program uruchamiający modyfikacje wymaga autoryzacji? Nie ma problemu, wystarczy zarejestrować się w jego systemie dowolnymi danymi i użyć ich do logowania! Autoryzacja i tworzenie konta są całkowicie darmowe, są wymagane tylko do identyfikacji użytkownika!',
     languageDe:
         "Mod Launcher erfordert Autorisierung? Kein Problem, registriere dich einfach mit beliebigen Daten in seinem System und logge dich damit ein! Autorisierung und Kontoerstellung sind völlig kostenlos, sie sind nur für die Benutzeridentifikation erforderlich!",
+    languageIt: 
+        'Il launcher mod richiede l`autorizzazione? Nessun problema, basta registrarsi nel suo sistema con tutti i dati ed effettuare il login! L`autorizzazione e la creazione dell`account sono completamente gratuite, servono solo per l`identificazione dell`utente!',
   },
   'AuthNeeded': {
     languageEn:
@@ -6177,6 +6202,8 @@ const Map<String, Map<String, String>> localeItems = {
         '🔐 Czy program uruchamiający modyfikację wymaga autoryzacji? W porządku-wystarczy użyć danych, które podałeś przy zakupie!',
     languageDe:
         "🔐 Mod Launcher erfordert Autorisierung? Es ist in Ordnung - verwenden Sie einfach die Daten, die Sie beim Kauf angegeben haben!",
+    languageIt: 
+        '🔐 Il launcher mod richiede l`autorizzazione? Va bene: usa semplicemente i dettagli che hai fornito al momento dell`acquisto!',
   },
   'Launching': {
     languageEn: 'Modification is starting',
@@ -6184,6 +6211,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Модифікація запускається',
     languagePl: 'Modyfikacja jest uruchomiana',
     languageDe: "Die Midifikation wird gestartet",
+    languageIt: '',
   },
   'PrepeareForInstallation': {
     languageEn: "Prepearing for modification's installation",
@@ -6191,6 +6219,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Модифікація запускається',
     languagePl: 'Modyfikacja jest uruchomiana',
     languageDe: "Die Midifikation wird gestartet",
+    languageIt: 'La modifica sta iniziando',
   },
   'WaitForDownloadingToComplete': {
     languageEn:
@@ -6203,6 +6232,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety, nie możesz anulować uruchamiania modyfikacji podczas pobierania jej plików. Poczekaj na zakończenie procesu instalacji i spróbuj ponownie!',
     languageDe:
         "Leider kannst du die Ausführung einer Modifikation nicht rückgängig machen, während die Dateien geladen werden. Warten Sie, bis der Installationsvorgang abgeschlossen ist, und versuchen Sie es erneut!",
+    languageIt: 
+        'Sfortunatamente, non è possibile annullare una modifica durante il caricamento dei file. Attendi il completamento del processo di installazione e riprova!',
   },
   'NotAvailableOnLaunch': {
     languageEn:
@@ -6213,6 +6244,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Funkcja usuwania modyfikacji nie jest dostępna podczas jej uruchamiania!',
     languageDe:
         "Die Funktion zum Entfernen der Modifikation ist während des Starts nicht verfügbar!",
+    languageIt: 
+        'La funzione per rimuovere la modifica non è disponibile durante l`avvio!',
   },
   'NotAvailableOneWord': {
     languageEn: 'Unavailable',
@@ -6220,6 +6253,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Недоступно',
     languagePl: 'Niedostępne',
     languageDe: "Nicht verfügbar",
+    languageIt: 'Non disponibile',
   },
   'EmailTooltip': {
     languageEn: 'Enter your email address',
@@ -6227,6 +6261,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Введи свою пошту',
     languagePl: 'Wprowadź swój email',
     languageDe: "Geben sie ihre E-Mail Adresse ein",
+    languageIt: 'Inserisci il tuo indirizzo email',
   },
   'Next': {
     languageEn: 'Next step',
@@ -6234,6 +6269,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Продовжити',
     languagePl: 'Następny krok',
     languageDe: "Weitermachen",
+    languageIt: 'Continuare',
   },
   'IVeDoneIt': {
     languageEn: "I've done that, go to the next step",
@@ -6241,6 +6277,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Я зробив це, продовжити запуск',
     languagePl: 'Zrobiłem to, biegnij dalej',
     languageDe: "Das habe ich getan, lauf weiter",
+    languageIt: 'L`ho fatto, continua',
   },
   'WeWillSendEmail': {
     languageEn: 'We will send a confirmation letter to your email address',
@@ -6248,6 +6285,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Ми відправимо лист з підтвердженням на твою електронну адресу',
     languagePl: 'Wyślemy potwierdzenie na Twój adres email',
     languageDe: "Wir senden eine Bestätigungs-E-Mail an Ihre E-Mail-Adresse",
+    languageIt: 'Invieremo un`e-mail di conferma al tuo indirizzo e-mail',
   },
   'AuthWithGoogle': {
     languageEn: "Authenticate with your Google account",
@@ -6255,6 +6293,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Авторизуватися за допомогою Google',
     languagePl: 'Zaloguj się przez konte Google',
     languageDe: "Anmeldung mit Google",
+    languageIt: 'Accedi con Google',
   },
   'LetterIsReady': {
     languageEn: "Letter is delivered!",
@@ -6262,6 +6301,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Лист доставлено!",
     languagePl: 'List dostarczony!',
     languageDe: "Der Brief ist zugestellt!",
+    languageIt: 'La lettera è stata consegnata!',
   },
   'Resend': {
     languageEn: 'Send again',
@@ -6269,6 +6309,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Надіслати знову',
     languagePl: 'Wyślij ponownie',
     languageDe: "Nochmals senden",
+    languageIt: 'Invia di nuovo',
   },
   'ResendHint': {
     languageEn:
@@ -6281,6 +6322,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Nie znalazłeś wiadomości? Upewnij się, że adres e-mail został wprowadzony poprawnie, sprawdź folder ze spamem, w rzadkich przypadkach dostarczenie wiadomości e-mail może zająć kilka minut! Lub wróć i użyj logowania google / trybu gościa, aby zalogować się do ExLoadera.',
     languageDe:
         "Brief nicht gefunden? Bitte achten Sie auf die korrekte Eingabe der E-Mail-Adresse und prüfen Sie Ihren Spam- und E-Mail-Ordner, aber in seltenen Fällen kann es einige Minuten dauern, bis die E-Mail zugestellt wird! Oder gehen Sie zurück und verwenden Sie den Google-Login/Gastmodus, um sich bei ExLoader anzumelden.",
+    languageIt: 
+        'Lettera non trovata? Assicurati di inserire correttamente il tuo indirizzo e-mail e di controllare le cartelle spam e e-mail, ma in rari casi potrebbero essere necessari alcuni minuti prima che l`e-mail venga consegnata! Oppure torna indietro e utilizza la modalità accesso/ospite di Google per accedere a ExLoader.',
   },
   'ConfirmDescription': {
     languageEn:
@@ -6293,6 +6336,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Potwierdź autoryzację za pomocą przycisku w wiadomości, którą wysłaliśmy na maila',
     languageDe:
         "Bestätigen Sie die Autorisierung über die Schaltfläche in dem Brief, den wir an die Post gesendet haben",
+    languageIt: 
+        'Conferma l`autorizzazione utilizzando il pulsante nella lettera che ti abbiamo inviato',
   },
   'ConfirmAuthWithPageInBrowser': {
     languageEn:
@@ -6305,6 +6350,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Potwierdź autoryzację za pomocą strony, którą otworzyliśmy w Twojej przeglądarce. Link do strony autoryzacyjnej jest dodatkowo kopiowany do schowka!',
     languageDe:
         "Bestätigen Sie die Autorisierung über die Seite, die wir in Ihrem Browser geöffnet haben. Der Link zur Autorisierungsseite wird übrigens zusätzlich in Ihre Zwischenablage kopiert!",
+    languageIt: 
+        'Conferma l`autorizzazione attraverso la pagina che abbiamo aperto nel tuo browser. A proposito, anche il collegamento alla pagina di autorizzazione verrà copiato nei tuoi appunti!',
   },
   'AlmostLaunched': {
     languageEn: 'Just one more step',
@@ -6312,6 +6359,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Залишився ще один крок',
     languagePl: 'Został jeszcze jeden krok',
     languageDe: "Es bleibt noch ein Schritt übrig",
+    languageIt: 'C`è ancora un passo da fare',
   },
   'ConfirmingYourIdentity': {
     languageEn: "Synchronizing your profile with the server",
@@ -6319,6 +6367,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Синхронізуємо твій профіль з сервером',
     languagePl: 'Zsynchronizujemy Twój profil z serwerem',
     languageDe: "Wir synchronisieren Ihr Profil mit dem Server",
+    languageIt: 'Sincronizziamo il tuo profilo con il server',
   },
   'SyncingLibrary': {
     languageEn: "Syncing app's library",
@@ -6326,6 +6375,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Синхронізуємо бібліотеку',
     languagePl: 'Synchronizujemy bibliotekę',
     languageDe: "Synchronisieren der Bibliothek",
+    languageIt: 'Sincronizza la libreria',
   },
   'AlreadyTaken': {
     languageEn:
@@ -6336,6 +6386,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wygląda na to, że wybrany przez Ciebie pseudonim jest już zajęty 🙁',
     languageDe:
         "Es scheint, dass der von dir gewählte Spitzname bereits vergeben ist 🙁",
+    languageIt: 
+        'Sembra che il nickname che hai scelto sia già preso 🙁',
   },
   '30DaysNotPassedNickname': {
     languageEn:
@@ -6348,6 +6400,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wow, od ostatniej zmiany pseudonimu nie minęło jeszcze trzydzieści dni 🙁',
     languageDe:
         "Wow, seit der letzten Änderung des Nicknamens sind noch nicht 30 Tage vergangen 🙁",
+    languageIt: 
+        'Wow, non sono passati 30 giorni dall`ultimo cambio di nickname 🙁',
   },
   '30DaysNotPassedAvatar': {
     languageEn:
@@ -6360,6 +6414,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wow, nie minęło jeszcze trzydzieści dni od ostatniej zmiany avatara 🙁',
     languageDe:
         "Wow, seit der letzten Avatar-Änderung sind noch keine dreißig Tage vergangen 🙁",
+    languageIt: 
+        'Wow, non sono passati trenta giorni dall`ultimo cambio di avatar 🙁',
   },
   '1DayNotPassedStatus': {
     languageEn:
@@ -6372,6 +6428,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wow, nie minęło jeszcze dwadzieścia cztery godziny od ostatniej zmiany statusu 🙁',
     languageDe:
         "Wow, seit der letzten Avatar-Änderung sind noch keine vierundzwanzig Stunden vergangen 🙁",
+    languageIt: 
+        'Wow, non sono passate nemmeno ventiquattr`ore dall`ultimo cambio avatar 🙁',
   },
   'UpdatingTheApp': {
     languageEn: "Updating the app",
@@ -6379,6 +6437,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Оновлюємо додаток',
     languagePl: 'Aktualizujemy aplikację',
     languageDe: "App aktualisieren",
+    languageIt: 'Aggiornamento dell`app',
   },
   'IssuesDescription': {
     languageEn:
@@ -6391,6 +6450,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Modyfikacja nie uruchomiła się, gra się\nzawiesiła lub wystąpił jakiś problem?\nKliknij tutaj!',
     languageDe:
         "Der Mod startete nicht, das Spiel ist abgestürzt\noch hattest du ein Problem? Dann schau hier!",
+    languageIt: 
+        'La mod non si è avviata, il gioco è andato in crash, hai avuto un problema? Allora guarda qui!',
   },
   'ByInstalls': {
     languageEn: 'By installs',
@@ -6398,6 +6459,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'По встановкам',
     languagePl: 'Według instalacji',
     languageDe: "Nach Einstellungen",
+    languageIt: 'Per installazioni',
   },
   'NewPlural': {
     languageEn: 'New',
@@ -6405,6 +6467,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Нові',
     languagePl: 'Nowe',
     languageDe: "Neue",
+    languageIt: 'Nuovo',
   },
   'Installed': {
     languageEn: 'Installed',
@@ -6412,6 +6475,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Встановлені',
     languagePl: 'Zainstalowane',
     languageDe: "Installierte",
+    languageIt: 'Installato',
   },
   'Mine': {
     languageEn: 'Mine',
@@ -6419,6 +6483,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Мої',
     languagePl: 'Móje',
     languageDe: "Mein",
+    languageIt: 'mio',
   },
   'NoInternetForConfigurations': {
     languageEn:
@@ -6431,6 +6496,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety nie będziesz mógł korzystać z ConfigsHub w trybie offline. Poczekaj, aż aplikacja przywróci połączenie z serwerem i spróbuj ponownie!',
     languageDe:
         "Im Offline-Modus können Sie das Konfigurationscenter leider nicht nutzen. Warten Sie, bis sich die Anwendung wieder mit dem Server verbindet, und versuchen Sie es erneut!",
+    languageIt: 
+        'Sfortunatamente non puoi utilizzare il centro di configurazione in modalità offline. Attendi che l`applicazione si riconnetta al server e riprova!',
   },
   'ConfigAlreadyDeleted': {
     languageEn:
