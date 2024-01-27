@@ -6508,6 +6508,8 @@ const Map<String, Map<String, String>> localeItems = {
         'W momencie w którym szukałeś konfiguracji, ten plik został już usunięty 🙁',
     languageDe:
         "Während Sie nach einer Konfiguration gesucht haben, wurde diese Datei bereits gelöscht 🙁",
+    languageIt: 
+        'Mentre stavi cercando una configurazione, questo file è già stato eliminato 🙁',
   },
   'ConfigurationWasSuccessfullyDeleted': {
     languageEn:
@@ -6518,6 +6520,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Gdy szukałeś sobie konfiguracji, ten plik został już usunięty!',
     languageDe:
         "Ihre Konfiguration wurde erfolgreich vom Anwendungsserver entfernt!",
+    languageIt: 
+        'La tua configurazione è stata rimossa con successo dal server dell`applicazione!',
   },
   'SearchByConfigs': {
     languageEn: 'Search by configurations',
@@ -6525,6 +6529,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Пошук по конфігураціям',
     languagePl: 'Szukaj według konfiguracji',
     languageDe: "Suche nach Konfiguration",
+    languageIt: 'Cerca per configurazione',
   },
   'ConfigsCanBeBad': {
     languageEn:
@@ -6537,6 +6542,8 @@ const Map<String, Map<String, String>> localeItems = {
         '🥷🥷🥷 Należy pamiętać, że niektóre konfiguracje lub LUA z\ntej sekcji mogą nie działać dobrze lub wcale, ponieważ są przesyłane\nprzez innych użytkowników programu, a nie przez twórców modyfikacji.\nBoże, zawsze możesz nie lubić, napisać negatywną recenzję lub złożyć\nskargę na dowolny cfg!',
     languageDe:
         "🥷🥷🥷 Bitte beachten Sie, dass einige Konfigurationen oder\nLUA aus diesem Abschnitt möglicherweise nicht gut oder überhaupt nicht\nfunktionieren, da sie von anderen Benutzern des Programms hochgeladen\nwerden, nicht von Mod-Entwicklern. Meine Güte, Sie können jederzeit\neine Abneigung, eine negative Bewertung oder eine Beschwerde über eine\nbeliebige cfg schreiben!",
+    languageIt: 
+        '🥷🥷🥷 Tieni presente che alcune configurazioni o LUA di questa sezione potrebbero non funzionare bene o non funzionare affatto perché vengono caricate da altri utenti del programma, non dagli sviluppatori di mod. Cavolo, puoi sempre scrivere una non mi piace, una recensione negativa o un reclamo su qualsiasi cfg!',
   },
   'SuccessfulConfigurationUpload': {
     languageEn:
@@ -6547,6 +6554,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Twoja konfiguracja została pomyślnie przesłana na serwer aplikacji!',
     languageDe:
         "Ihre Konfiguration wurde erfolgreich auf den Anwendungsserver hochgeladen!",
+    languageIt: 
+        'La tua configurazione è stata caricata con successo sul server dell`applicazione!',
   },
   'SuccessfulConfigurationEditing': {
     languageEn:
@@ -6558,6 +6567,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Twoja konfiguracja została pomyślnie zapisana na serwerze aplikacji!',
     languageDe:
         "Ihre Konfiguration wurde erfolgreich auf dem Anwendungsserver gespeichert!",
+    languageIt: 
+        'La tua configurazione è stata salvata nuovamente con successo sul server dell`applicazione!',
   },
   'ConfigurationAlreadyUploaded': {
     languageEn:
@@ -6570,6 +6581,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wygląda na to, że taka sama konfiguracja została już przesłana na serwer przez innego użytkownika!',
     languageDe:
         "Es scheint, dass genau dieselbe Konfiguration bereits von einem anderen Benutzer auf den Server hochgeladen wurde!",
+    languageIt: 
+        'Sembra che la stessa identica configurazione sia già stata caricata sul server da un altro utente!',
   },
   'ConfigurationAlreadyDeleted': {
     languageEn:
@@ -6582,6 +6595,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Nie można edytować tej konfiguracji, wygląda na to, że została już usunięta!',
     languageDe:
         "Konnte diese Konfiguration nicht bearbeiten, sieht aus, als wäre sie bereits gelöscht worden!",
+    languageIt: 
+        'Impossibile modificare questa configurazione, sembra che sia già stata eliminata!',
   },
   'FailedToFindConfig': {
     languageEn: "Failed to find configuration with such title pattern 🙁",
@@ -6589,6 +6604,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Не вдалося знайти конфігурацію з такою назвою 🙁',
     languagePl: 'Nie można znaleźć konfiguracji o tej nazwie 🙁',
     languageDe: "Konnte keine Konfiguration mit diesem Namen finden 🙁",
+    languageIt: 'Impossibile trovare una configurazione con quel nome 🙁',
   },
   'NothingHere': {
     languageEn: "It looks like there is nothing in this section yet 🙁",
@@ -6597,6 +6613,7 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl: 'Wygląda na to, że w tej sekcji nie ma jeszcze nic 🙁',
     languageDe:
         "Es scheint, dass in diesem Abschnitt noch nichts vorhanden ist 🙁",
+    languageIt: 'Sembra che non ci sia ancora nulla in questa sezione 🙁',
   },
   'By': {
     languageEn: "by",
@@ -6604,6 +6621,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'від',
     languagePl: 'od',
     languageDe: "vom",
+    languageIt: 'da',
   },
   'ComplainObject': {
     languageEn: "Complaint's object:",
@@ -6611,6 +6629,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Об'єкт скарги:",
     languagePl: 'Przedmiot reklamacji:',
     languageDe: "Gegenstand der Beschwerde:",
+    languageIt: 'Oggetto del reclamo:',
   },
   'ComplainDescription': {
     languageEn: "Complaint's description:",
@@ -6618,6 +6637,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Опис скарги:",
     languagePl: 'Opis reklamacji:',
     languageDe: "Beschreibung der Beschwerde:",
+    languageIt: 'Descrizione del reclamo:',
   },
   'ComplainType': {
     languageEn: "Violation type:",
@@ -6625,6 +6645,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Вид порушення:",
     languagePl: 'Rodzaj naruszenia:',
     languageDe: "Art des Verstoßes:",
+    languageIt: 'Tipo di violazione:',
   },
   'Spam': {
     languageEn: "Spam",
@@ -6632,6 +6653,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Спам",
     languagePl: 'Spam',
     languageDe: "Spam",
+    languageIt: 'Spam',
   },
   'Advert': {
     languageEn: "Advertisement",
@@ -6639,6 +6661,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Реклама",
     languagePl: 'Reklama',
     languageDe: "Werbung",
+    languageIt: 'Pubblicità',
   },
   'Insult': {
     languageEn: "Insults",
@@ -6646,6 +6669,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Образи",
     languagePl: 'Obelgi',
     languageDe: "Beleidigungen",
+    languageIt: 'Insulti',
   },
   'NoComplaintsInOfflineMode': {
     languageEn: "Complaints sending is not available in offline mode 🙁!",
@@ -6654,6 +6678,7 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl: 'Składanie reklamacji nie jest dostępne w trybie offline 🙁!',
     languageDe:
         "Das Einreichen von Beschwerden ist im Offline-Modus nicht verfügbar 🙁!",
+    languageIt: 'La presentazione di reclami non è disponibile in modalità offline 🙁!',
   },
   'ComplaintIsSent': {
     languageEn: "Thank you for participating in application's development 😀",
@@ -6662,6 +6687,7 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl: 'Dziękujemy za udział w rozwoju naszej aplikacji 😀',
     languageDe:
         "Vielen Dank für Ihre Teilnahme an der Entwicklung von ExLoader 😀",
+    languageIt: 'Grazie per la tua partecipazione allo sviluppo di ExLoader 😀',
   },
   'AddConfiguration': {
     languageEn: "Configuration's or LUA uploading form",
@@ -6669,6 +6695,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Додавання конфігурації або ж ЛУА",
     languagePl: 'Dodawanie konfiguracji lub LUA',
     languageDe: "Hinzufügen einer Konfiguration oder LUA",
+    languageIt: 'Aggiunta di una configurazione o LUA',
   },
   'EditConfiguration': {
     languageEn: "Configuration's or LUA editing form",
@@ -6676,6 +6703,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Редагування конфігурації або ж ЛУА",
     languagePl: 'Edycja konfiguracji lub LUA',
     languageDe: "Bearbeiten der Konfiguration oder LUA",
+    languageIt: 'Modifica della configurazione o LUA',
   },
   'AutoConfigurationDelete': {
     languageEn:
@@ -6688,6 +6716,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Konfiguracje i LUA są automatycznie usuwane, jeśli nikt nie zainstaluje ich przez 60 dni.',
     languageDe:
         "Konfigurationen and LUA werden automatisch gelöscht, wenn sie innerhalb von 60 Tagen nicht installiert werden.",
+    languageIt: 
+        '',
   },
   'ConfigFile': {
     languageEn: "Configuration or LUA file",
@@ -6695,6 +6725,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Файл конфигурации або ж ЛУА",
     languagePl: 'Plik konfiguracyjny lub LUA',
     languageDe: "Die Konfigurations oder LUA datei",
+    languageIt: 'Le configurazioni e i LUA vengono eliminate automaticamente se nessuno le installa entro 60 giorni.',
   },
   'Change': {
     languageEn: "Change",
@@ -6702,6 +6733,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Змінити",
     languagePl: 'Zmień',
     languageDe: "Ändern",
+    languageIt: 'Modifica',
   },
   'RemoveFromServer': {
     languageEn: "Delete the configuration or LUA from the server",
@@ -6709,6 +6741,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Видалити конфігурацію або ж ЛУА з сервера",
     languagePl: 'Usuń konfigurację lub LUA z serwera',
     languageDe: "Löschen Sie die Konfiguration oder LUA vom Server",
+    languageIt: 'Eliminare la configurazione o LUA dal server',
   },
   'ConfigName': {
     languageEn: "Configuration's or LUA name:",
@@ -6716,6 +6749,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Назва конфігурації або ж ЛУА:",
     languagePl: 'Nazwa konfiguracji lub LUA:',
     languageDe: "Konfigurations oder LUA name:",
+    languageIt: 'Nome della configurazione o LUA:',
   },
   'ConfigDescription': {
     languageEn: "Configuration's or LUA description:",
@@ -6723,6 +6757,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Опис конфігурації або ж ЛУА:",
     languagePl: 'Opis konfiguracji lub LUA:',
     languageDe: "Konfigurations oder LUA beschreibung:",
+    languageIt: 'Descrizione della configurazione o LUA:',
   },
   'ChooseConfigFile': {
     languageEn: "Select the configuration's or LUA's file",
@@ -6731,6 +6766,7 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl: 'Wybierz potrzebny plik konfiguracyjny lub LUA',
     languageDe:
         "Wählen Sie die erforderliche Konfigurations oder LUA datei aus",
+    languageIt: 'Selezionare il file della configurazione o LUA',
   },
   'ChooseAnotherFile': {
     languageEn:
@@ -6743,6 +6779,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety nie będziemy mogli przesłać tej konfiguracji lub LUA na serwer, wybierz inny plik!',
     languageDe:
         "Leider können wir diese Konfiguration oder LUA nicht auf den Server hochladen, bitte wählen Sie eine andere Datei!",
+    languageIt: 
+        'Sfortunatamente non possiamo caricare questa configurazione o LUA sul server, scegli un altro file!',
   },
   'SmallOrBigFile': {
     languageEn:
@@ -6755,6 +6793,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Waga pliku jest za mała lub za duża, spróbuj wybrać inną konfigurację lub LUA!',
     languageDe:
         "Das Dateigewicht ist zu klein oder zu groß, versuchen Sie es mit einer anderen Konfiguration oder LUA!",
+    languageIt: 
+        'Il peso del file è troppo piccolo o troppo grande, provare un`altra configurazione o LUA!',
   },
   'EnterSomething': {
     languageEn:
@@ -6766,6 +6806,8 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl: 'Najpierw wypełnij pole nazwy i opisu konfiguracji lub LUA!',
     languageDe:
         "Füllen Sie zuerst beide Felder des Namens und der Beschreibung der Konfiguration oder LUA aus!",
+    languageIt: 
+        'Per prima cosa compila entrambi i campi del nome e della descrizione della configurazione o LUA!',
   },
   'SelectFileFirst': {
     languageEn:
@@ -6778,6 +6820,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wygląda na to, że zapomniałeś wybrać pliku konfiguracyjnego lub LUA do przesłania na serwer!',
     languageDe:
         "Sieht so aus, als hätten Sie vergessen, die Konfigurations oder LUA datei zum Hochladen auf den Server auszuwählen!",
+    languageIt: 
+        'Sembra che tu abbia dimenticato di selezionare la configurazione o il file LUA da caricare sul server!',
   },
   'SavingConfig': {
     languageEn: "Saving your configuration or LUA...",
@@ -6785,6 +6829,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Зберігаємо твою конфігурацію або ж LUA...",
     languagePl: 'Zapisujemy Twoją konfigurację lub LUA...',
     languageDe: "Speichern Ihrer Konfiguration oder LUA...",
+    languageIt: 'Salvataggio della configurazione o del LUA...',
   },
   'UploadingConfig': {
     languageEn: "Uploading your configuration or LUA...",
@@ -6792,6 +6837,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Завантажуемо твою конфігурацію або ж ЛУА...",
     languagePl: 'Ładujemy Twoją konfigurację lub LUA...',
     languageDe: "Wir laden deine Konfiguration oder LUA herunter...",
+    languageIt: 'Caricamento della configurazione o del LUA...',
   },
   'WrapWithZip': {
     languageEn:
@@ -6804,6 +6850,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Twoja konfiguracja składa się z kilku plików? Umieść je w jednym archiwum .zip,\ni gdy użytkownik zainstaluje Twoją konfigurację, ExLoader sam ją rozpakuje!\nPrzykład: konfiguracja składa się z plików 1.cfg, 2.cfg, 3.cfg i znajduje się w\npodfolderze «Name» w folderze «Configs». Po prostu spakuj folder «Name»\ni pobierz go za pomocą tego formularza!',
     languageDe:
         'Besteht die Konfiguration aus mehreren Dateien? Packen Sie sie in ein .zip-Archiv,\nund wenn der Benutzer Ihre Konfiguration installiert, entpackt ExLoader sie von selbst!\nBeispiel: Die Konfiguration besteht aus den Dateien 1.cfg, 2.cfg, 3.cfg und befindet sich\nim Unterordner „Name“ im Ordner „Configs“. Zippen Sie einfach den Ordner "Name"\n und laden Sie ihn über dieses Formular herunter!',
+    languageIt: 
+        'La tua configurazione è composta da più file? Inseriscili in un archivio .zip,\ne quando l`utente installa la tua configurazione, ExLoader la decomprimerà automaticamente!\nEsempio: la configurazione è composta dai file 1.cfg, 2.cfg, 3.cfg e si trova\nel «Name» sottocartella nella directory «Configs». Basta avvolgere la cartella «Name»\nin un archivio zip e caricarlo con questo modulo!',
   },
   'EditFirst': {
     languageEn:
@@ -6815,6 +6863,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Najpierw zmień przynajmniej cokolwiek, aby zaktualizować konfigurację lub LUA!',
     languageDe:
         "Ändern Sie zunächst zumindest etwas, um die Konfiguration oder LUA zu aktualisieren!",
+    languageIt: 
+        'Innanzitutto, modifica almeno qualcosa per aggiornare la configurazione o LUA!',
   },
   'PleaseWaitBeforeComplaint': {
     languageEn:
@@ -6827,6 +6877,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Oczywiście dziękuję, że tak bardzo starasz się pomóc naszemu projektowi, ale tak częste wysyłanie skarg jest jak spam. Z tego powodu ograniczyliśmy dostęp do tej funkcji na pół godziny. Takie są sprawy...',
     languageDe:
         "Vielen Dank natürlich, dass Sie sich so sehr bemüht haben, unserem Projekt zu helfen, aber das häufige Versenden von Beschwerden ist wie Spam. Aus diesem Grund haben wir Ihren Zugriff auf diese Funktion auf eine halbe Stunde beschränkt. Entschuldige wenn wir falsch liegen...",
+    languageIt: 
+        'Naturalmente, grazie per aver provato così tanto ad aiutare il nostro progetto, ma inviare reclami frequentemente è come spam. Per questo motivo abbiamo limitato il tuo accesso a questa funzione a mezz`ora. Scusate se abbiamo sbagliato...',
   },
   'ConfigComplaintIsHandled': {
     languageEn:
@@ -6839,6 +6891,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Twoja skarga dotycząca konfiguracji lub LUA «{config}» została rozpatrzona! Dziękujemy za udział w rozwoju ExLoadera 😀',
     languageDe:
         'Ihre Beschwerde über die Konfiguration oder LUA «{config}» wurde bearbeitet! Vielen Dank für Ihre Teilnahme an der Entwicklung von ExLoader 😀',
+    languageIt: 
+        'Il tuo reclamo sulla configurazione o LUA «{config}» è stato elaborato! Grazie per la tua partecipazione allo sviluppo di ExLoader 😀',
   },
   'ReviewComplaintIsHandled': {
     languageEn:
@@ -6851,6 +6905,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Twoja skarga dotycząca recenzji użytkownika «{user}», «{review}» została rozpatrzona! Dziękujemy za udział w rozwoju ExLoadera 😀',
     languageDe:
         'Ihre Beschwerde über den Kommentar von Benutzer «{user}», «{review}» wurde bearbeitet! Vielen Dank für Ihre Teilnahme an der Entwicklung von ExLoader 😀',
+    languageIt: 
+        'Il tuo reclamo relativo al commento dell`utente «{user}», «{review}» è stato elaborato! Grazie per la tua partecipazione allo sviluppo di ExLoader 😀',
   },
   'ReviewAnswer': {
     languageEn: "User «{user}» has answer to your review in «{review}» branch",
@@ -6862,6 +6918,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Użytkownik «{user}» odpowiedział na Twój komentarz w wątku «{review}»',
     languageDe:
         "Benutzer „{user}“ hat auf Ihren Kommentar im Thread „{review}“ geantwortet",
+    languageIt: 
+        'L`utente "{user}" ha risposto al tuo commento nella discussione "{review}".',
   },
   'BranchIsDeleted': {
     languageEn:
@@ -6870,6 +6928,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "На жаль, ця нитка коментарів вже видалена 🙁",
     languagePl: 'Niestety ten wątek komentarzy został już usunięty 🙁',
     languageDe: "Leider wurde dieser Kommentarthread bereits gelöscht 🙁",
+    languageIt: 'Sfortunatamente, questo thread di commenti è già stato eliminato 🙁',
   },
   'OldConfig': {
     languageEn:
@@ -6882,6 +6941,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wygląda na to, że konfiguracja lub LUA, którą próbujesz załadować, nie pasuje do modyfikacji {modification}! Być może został stworzony dla starszej wersji modyfikacji lub coś pomieszałeś. Upewnij się, że wybrałeś właściwy plik i spróbuj ponownie pobrać.',
     languageDe:
         "Anscheinend passt die Konfiguration oder LUA, die Sie laden möchten, nicht zur {modification}! Vielleicht wurde es für eine ältere Version des Mods gemacht, oder vielleicht hast du etwas verwechselt. Vergewissern Sie sich, dass Sie die richtige Datei ausgewählt haben, und versuchen Sie erneut, sie herunterzuladen.",
+    languageIt: 
+        'Apparentemente la configurazione o LUA che stai tentando di caricare non corrisponde alla {modification}! Forse è stato realizzato per una versione precedente della mod o forse hai confuso qualcosa. Assicurati di aver selezionato il file corretto e prova a scaricarlo di nuovo.',
   },
   'CreateNickname': {
     languageEn: "Come up with a nickname:",
@@ -6889,6 +6950,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Придумай собі нікнейм:",
     languagePl: 'Wymyśl pseudonim:',
     languageDe: "Überlege dir einen Spitznamen:",
+    languageIt: 'Trova un nickname:',
   },
   'ChangeLogIsEmpty': {
     languageEn:
@@ -6901,6 +6963,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety ExLoader nie ma jeszcze historii zmian dla tej modyfikacji 🙁',
     languageDe:
         "ExLoader hat leider noch keine Modifikationshistorie für diesen Mod 🙁",
+    languageIt: 
+        'Sfortunatamente, ExLoader non ha ancora una cronologia delle modifiche per questa mod 🙁',
   },
   'HideDialogTip': {
     languageEn:
@@ -6913,6 +6977,8 @@ const Map<String, Map<String, String>> localeItems = {
         '❎❎❎ Podpowiedź: możesz zamknąć to menu, klikając dowolny wolny obszar ekranu poza tym oknem!',
     languageDe:
         "❎❎❎ Tipp: Sie können dieses Menü schließen, indem Sie auf einen beliebigen freien Bereich des Bildschirms außerhalb dieses Fensters klicken!",
+    languageIt: 
+        '❎❎❎ Suggerimento: puoi chiudere questo menu facendo clic su qualsiasi area libera dello schermo al di fuori di questa finestra!',
   },
   'Hint': {
     languageEn: "Hint",
@@ -6920,6 +6986,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Підказка",
     languagePl: 'Podpowiedź',
     languageDe: "Tipp",
+    languageIt: 'Suggerimento',
   },
   'AreYouSure': {
     languageEn: "Are you sure that it's what you want?",
@@ -6927,6 +6994,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "А ти впевнений, що хочеш саме цього?",
     languagePl: 'Czy jesteś pewien, że tego właśnie chcesz?',
     languageDe: "Sind Sie sicher, dass Sie das wollen?",
+    languageIt: 'Sei sicuro di volerlo?',
   },
   'OldConfigWarning': {
     languageEn:
