@@ -7007,6 +7007,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wygląda na to, że konfiguracja lub LUA, którą próbujesz zainstalować, jest przeznaczona dla starej wersji modyfikacji {modification}. Być może autor wrzucił ten plik dawno temu i jeszcze nie zaktualizował go do najnowszej wersji modyfikacji.',
     languageDe:
         "Es scheint, dass die Konfiguration oder LUA, die Sie installieren möchten, für eine alte Version der {modification} erstellt wurde. Vielleicht hat der Autor diese Datei vor langer Zeit hochgeladen und sie noch nicht auf die neueste Version des Mods aktualisiert.",
+    languageIt: 
+        'Sembra che la configurazione o LUA che stai tentando di installare sia stata creata per una versione precedente di {modification}. Forse l`autore ha caricato questo file molto tempo fa e non lo ha ancora aggiornato all`ultima versione della mod.',
   },
   'RulesBasic': {
     languageEn:
@@ -7019,6 +7021,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Aby komentarze i inne miejsca z aktywnością społeczną w naszej aplikacji nie stały się miejscem, w którym nawet najbardziej zagorzali maniacy nie będą chcieli iść, staraj się przestrzegać zasad opisanych poniżej!',
     languageDe:
         "Damit die Kommentare und andere Orte mit sozialer Aktivität in unserer Anwendung nicht zu einem Ort werden, den selbst die leidenschaftlichsten Freaks nicht betreten möchten, versuchen Sie, die unten beschriebenen Regeln zu befolgen!",
+    languageIt: 
+        'Affinché i commenti e altri luoghi di attività sociale nella nostra applicazione non diventino un luogo in cui anche i mostri più ardenti non vogliono entrare, prova a seguire le regole descritte di seguito!',
   },
   'WhatShouldNotBeDone': {
     languageEn: "WHAT IS BETTER NOT TO BE DONE?",
@@ -7026,6 +7030,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "ЧОГО КРАЩЕ НЕ РОБИТИ?",
     languagePl: 'CZEGO LEPIEJ NIE ROBIĆ?',
     languageDe: "WAS IST NICHT ZU TUN?",
+    languageIt: 'COSA E` MEGLIO NON FARE?',
   },
   "RulesAreRules": {
     languageUa: """
@@ -7203,6 +7208,41 @@ const Map<String, Map<String, String>> localeItems = {
 
 17. Versuchen Sie, die Regeln zu umgehen, indem Sie Schlupflöcher finden. Wenn du das tust, werden wir die Regeln einfach aktualisieren und dich trotzdem bestrafen, weil du sie verletzt hast!
 """,
+    languageIt: """
+1. Insultare, essere aggressivo, minacciare o provocare altri utenti dell'app. (La regola "ha iniziato per primo" non funziona qui.)
+
+2. Tentare di provocare altri utenti a violare le regole di ExLoader.
+
+3. Pubblicità di qualcosa, collegamenti a file o canali impopolari o social network.
+
+4. Discriminare gli utenti dell'App o singoli gruppi in base alla loro nazionalità, età, credo religioso, ecc.
+
+5. Pubblicare materiale 18+ o scioccante in qualsiasi forma (GIF, immagini, video, descrizioni di testo, collegamenti, ecc., comprese scene erotiche, violente, spiacevoli e simili).
+
+6. Utilizza i materiali descritti al punto "5" nel tuo avatar, nickname, stato o collegamento a un social network.
+
+7. Spam, inondazione, invio di un gran numero di messaggi senza senso.
+
+8. Denunce abusive contro altri utenti.
+
+9. Prova ad aggirare il divieto creando più account.
+
+10. Tentare di ingannare altri utenti spacciandosi per un moderatore o un project manager.
+
+11. Deanonimizzare altri utenti senza il loro consenso, distribuire i contatti personali delle persone senza la loro richiesta.
+
+12. Intasare commenti o configurazioni con argomenti dannosi.
+
+13. Usa linguaggio volgare senza una ragione particolare, in quasi tutti i messaggi o nel tuo nickname.
+
+14. Scrivi recensioni o descrizioni di configurazioni scaricabili fuori tema.
+
+15. Incasina le recensioni positive o negative su recensioni, configurazioni e luoghi simili.
+
+16. Tentare di diffondere virus che danneggino il dispositivo o utilizzino in altro modo file inutili.
+
+17. Cerca di aggirare le regole trovando delle scappatoie. Se lo fai, aggiorneremo semplicemente le regole e ti penalizzeremo comunque per averle infrante!
+    """,
   },
   'ViolateAnd': {
     languageEn: "WHAT HAPPENS IF I BREAK THE RULES?",
@@ -7210,6 +7250,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "ЩО СТАНЕТЬСЯ, ЯКЩО Я ПОРУШУ ПРАВИЛА?",
     languagePl: 'CO SIĘ STANIE, JEŚLI ZŁAMIĘ ZASADY?',
     languageDe: "WAS PASSIERT, WENN ICH DIE REGELN BRECHE?",
+    languageIt: 'COSA SUCCEDE SE INFRANGO LE REGOLE?',
   },
   'ViolateDescription': {
     languageEn:
@@ -7222,6 +7263,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Nic! Żartuję, najpierw Twój poziom reputacji zostanie obniżony przez innych użytkowników Exloadera, a następnie zostaniesz całkowicie zbanowany, co ograniczy wszelką aktywność społecznościową w programie 🙁. Bądź więc miły, rozmawiaj z innymi tak, jak chcesz, aby inni mówili do ciebie, a wszystko będzie dobrze!',
     languageDe:
         "Nichts! Nur ein Scherz, zuerst wird Ihr Rufniveau von anderen ExLoader-Benutzern gesenkt, und dann werden Sie ganz gesperrt, was alle sozialen Aktivitäten im Programm einschränkt 🙁. Seien Sie also freundlich, sprechen Sie mit anderen so, wie Sie möchten, dass andere mit Ihnen sprechen, und es wird Ihnen gut gehen!",
+    languageIt: 
+        'Niente! Sto scherzando, prima il tuo livello di reputazione presso gli altri utenti di ExLoader verrà abbassato e poi verrai bannato del tutto, il che limiterà tutte le attività sociali nel programma 🙁. Quindi sii gentile, parla agli altri nel modo in cui vorresti che gli altri parlassero con te, e starai bene!',
   },
   'PressToOpenRules': {
     languageEn:
@@ -7234,6 +7277,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Nie zapomnij zapoznać się z regulaminem\nprogramu przed wysłaniem reklamacji!',
     languageDe:
         "Vergessen Sie nicht, sich mit den Regeln des Programms\nvertraut zu machen, bevor Sie eine Beschwerde einreichen!",
+    languageIt: 
+        'Non dimenticare di familiarizzare con le regole del programma prima di presentare un reclamo!',
   },
   'NoNotificationsInOffline': {
     languageEn:
@@ -7246,6 +7291,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety przeglądanie powiadomień nie jest dostępne w trybie offline 🙁',
     languageDe:
         "Leider ist das Anzeigen von Benachrichtigungen im Offline-Modus nicht verfügbar 🙁",
+    languageIt: 
+        'Sfortunatamente, la visualizzazione delle notifiche in modalità offline non è disponibile 🙁',
   },
   'TapForCallback': {
     languageEn: "Some notifications may execute\nan action when clicked!",
@@ -7256,6 +7303,8 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl: 'Niektóre powiadomienia mogą wykonać\nan akcję po kliknięciu!',
     languageDe:
         "Einige Nachrichten können eine Aktion\nausführen, wenn sie angeklickt werden!",
+    languageIt: 
+        'Alcuni messaggi possono eseguire un`azione quando vengono cliccati!',
   },
   'NoNotifications': {
     languageEn: "There are no notifications for you!",
@@ -7263,6 +7312,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "А повідомлень то немає!",
     languagePl: 'A powiadomień nie ma!',
     languageDe: "Es gibt keine Benachrichtigungen!",
+    languageIt: 'Non ci sono notifiche!',
   },
   'Newbies': {
     languageEn:
@@ -7271,6 +7321,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Новинки{space}та{space}повернуті{space}модифікації: ',
     languagePl: 'Nowe{space}modyfikacje{space}i{space}przywrócone{space}: ',
     languageDe: "Neue{space}und{space}zurückgegebene{space}mods: ",
+    languageIt: 'Nuovi{space}e{space}ritornati{space}nella{space}libreria{space}: ',
   },
   'GotUpdated': {
     languageEn: "Modifications{space}which{space}were{space}updated: ",
@@ -7278,6 +7329,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Модифікації,{space}які{space}отримали{space}оновлення: ",
     languagePl: "Modyfikacje{space},które{space}otrzymały{space}aktualizacje: ",
     languageDe: "Modifikationen{space},die{space}erhielten{space}Updates: ",
+    languageIt: 'Modifiche{space}che{space}sono{space}state{space}aggiornate: ',
   },
   'WereDeleted': {
     languageEn: "Deleted{space}modifications: ",
@@ -7285,6 +7337,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Видалені{space}модифікації: ",
     languagePl: "Usunięte{space}modyfikacje: ",
     languageDe: "Gelöschte{space}mods: ",
+    languageIt: 'Modifiche{space}eliminate: ',
   },
   'WelcomeBackNews': {
     languageEn:
@@ -7297,6 +7350,8 @@ const Map<String, Map<String, String>> localeItems = {
         '📅 Witaj z powrotem! Przygotowaliśmy dla ciebie listę zmian w bibliotece modyfikacji podczas Twojej nieobecności. ',
     languageDe:
         "📅 Willkommen zurück! Wir haben für Sie eine Liste der Änderungen in der Modifikationsbibliothek während Ihrer Abwesenheit vorbereitet. ",
+    languageIt: 
+        '📅 Bentornato! Abbiamo preparato per te un elenco delle modifiche nella libreria delle modifiche durante la tua assenza. ',
   },
   'Microsoft': {
     languageEn: 'Microsoft components',
@@ -7304,6 +7359,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Компоненти Microsoft',
     languagePl: 'Komponenty Microsoft',
     languageDe: "Komponenten Microsoft",
+    languageIt: 'Componenti Microsoft',
   },
   'MicrosoftNotFound': {
     languageEn:
@@ -7312,6 +7368,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Розповсюджувані пакети Microsoft VC++ не встановлені!',
     languagePl: 'Redystrybucyjne pakiety Microsoft VC++ nie są instalowane!',
     languageDe: "Verteilte Pakete von Microsoft VC++ werden nicht installiert!",
+    languageIt: 'I pacchetti ridistribuibili di Microsoft Visual C++ non sono installati!',
   },
   'MicrosoftFound': {
     languageEn: 'Microsoft Visual C++ Redistributable packages are installed',
@@ -7319,6 +7376,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Розповсюджувані пакети Microsoft VC++ встановлені',
     languagePl: 'Pakiety redystrybucyjne Microsoft VC++ są zainstalowane',
     languageDe: "Die Microsoft VC++ Distributionspakete werden installiert",
+    languageIt: 'I pacchetti ridistribuibili di Microsoft Visual C++ sono installati',
   },
   'MicrosoftWhy': {
     languageEn:
@@ -7331,6 +7389,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Prawie wszystkie modyfikacje wymagają specjalnych komponentów Microsoft VC++ w wersjach od 2005 do 2019, które można pobrać z dowolnego zasobu w Internecie',
     languageDe:
         "Fast alle Modifikationen erfordern spezielle Komponenten von Microsoft VC++-Versionen von 2005 bis 2019, die Sie von jeder Ressource im Internet herunterladen können",
+    languageIt: 
+        'I componenti Microsoft VC++ delle versioni dal 2005 al 2019 sono necessari affinché molte modifiche funzionino correttamente. Puoi scaricarli su qualsiasi sito Web adatto',
   },
   'SystemVersion': {
     languageEn: "System version",
@@ -7338,6 +7398,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Версія системи',
     languagePl: 'Wersja systemu',
     languageDe: "Systemversion",
+    languageIt: 'Versione del sistema',
   },
   'SystemVersionGood': {
     languageEn: "Your system is running on the latest version of used Windows",
@@ -7349,6 +7410,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Twój system działa na najbardziej aktualnej wersji używanego systemu Windows',
     languageDe:
         "Ihr System läuft auf der aktuellsten Version von Windows, die verwendet wird",
+    languageIt: 
+        'Il tuo sistema è in esecuzione sulla versione più recente di Windows utilizzato',
   },
   'SystemVersionBad': {
     languageEn:
@@ -7361,6 +7424,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wygląda na to, że możesz uaktualnić swoją wersję systemu Windows do nowszej wersji!',
     languageDe:
         "Es sieht so aus, als könnten Sie Ihre Windows-Version auf eine neuere Version aktualisieren!",
+    languageIt: 
+        'Sembra che la tua versione di Windows possa essere aggiornata a una più recente!',
   },
   'SystemVersionWhy': {
     languageEn:
@@ -7373,6 +7438,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Staraj się regularnie sprawdzać system operacyjny pod kątem nowych aktualizacji i korzystaj z najnowszej wersji systemu Windows z witryny firmy Microsoft. Możesz sprawdzić dostępność aktualizacji w Windows Update Center.',
     languageDe:
         "Versuchen Sie, Ihr Betriebssystem regelmäßig auf neue Updates zu überprüfen, und verwenden Sie die neueste Windows-Version von der Microsoft-Website. Sie können im Windows Update Center nach Updates suchen.",
+    languageIt: 
+        'Prova a controllare regolarmente la presenza di nuovi aggiornamenti nel tuo sistema operativo e utilizza anche l`ultima versione di Windows dal sito Web Microsoft. Puoi controllare gli aggiornamenti nel Centro aggiornamenti di Windows.',
   },
   'AntivirusSoftware': {
     languageEn: 'Conflicting applications',
@@ -7380,6 +7447,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Конфліктуючі додатки',
     languagePl: 'Konfliktowe aplikacje',
     languageDe: "Widersprüchliche Anwendungen",
+    languageIt: 'Applicazioni contrastanti',
   },
   'AntivirusSoftwareNotFound': {
     languageEn: 'No software conflicting with ExLoader was found',
@@ -7389,6 +7457,7 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl:
         'Nie znaleziono oprogramowania powodującego konflikt z ExLoaderem',
     languageDe: "Keine Software gefunden, die mit ExLoader in Konflikt steht",
+    languageIt: 'Non è stato trovato alcun software in conflitto con ExLoader',
   },
   'AntivirusSoftwareFound': {
     languageEn:
@@ -7401,6 +7470,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Na Twoim urządzeniu zostały znalezione programy, które zakłócają prawidłowe działanie modyfikacji!',
     languageDe:
         "Auf Ihrem Gerät wurden Programme gefunden, die den korrekten Betrieb von Modifikationen stören!",
+    languageIt: 
+        'Sul tuo dispositivo sono installati programmi che interferiscono con il corretto funzionamento delle modifiche!',
   },
   'AntivirusWhy': {
     languageEn:
@@ -7413,6 +7484,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Większość programów antywirusowych uważa modyfikacje za podejrzane i blokuje ich poprawne działanie. Należy pamiętać, że najczęściej zwykłe wyłączenie programu antywirusowego nie pomaga rozwiązać problemu!',
     languageDe:
         "Die meisten Antivirenprogramme betrachten Modifikationen als verdächtig und blockieren deren korrekten Betrieb. Bitte beachten Sie, dass das übliche Deaktivieren des Antivirus meistens nicht zur Lösung des Problems beiträgt!",
+    languageIt: 
+        'La maggior parte dei programmi antivirus considera sospette le modifiche e ne blocca il corretto funzionamento. Tieni presente che spesso la solita disattivazione dell`antivirus non aiuta a risolvere il problema!',
   },
   'ListOfFound': {
     languageEn: 'List of found conflicting software',
@@ -7420,6 +7493,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Список виявленого програмного забезпечення',
     languagePl: 'Lista wykrytego oprogramowania powodującego konflikty',
     languageDe: "Liste der erkannten Software",
+    languageIt: 'Elenco dei software in conflitto trovati',
   },
   'GameVersion': {
     languageEn: 'Game version',
@@ -7427,6 +7501,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Версія гри',
     languagePl: 'Wersja gry',
     languageDe: "Spielversion",
+    languageIt: 'Versione del gioco',
   },
   'GameVersionBad': {
     languageEn: 'Your game version is outdated!',
