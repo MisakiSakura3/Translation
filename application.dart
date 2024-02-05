@@ -7509,6 +7509,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Твоя версія гри неактуальна!',
     languagePl: 'Twoja wersja gry jest nieaktualna!',
     languageDe: "Ihre Version des Spiels ist veraltet!",
+    languageIt: 'La tua versione del gioco è obsoleta!',
   },
   'GameVersionGood': {
     languageEn: 'You are using the latest game version',
@@ -7516,6 +7517,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Ти використовуєш актуальну версію гри',
     languagePl: 'Używasz najnowszej wersji gry',
     languageDe: "Sie verwenden die neueste Version des Spiels",
+    languageIt: 'Stai utilizzando l`ultima versione del gioco',
   },
   'NotAllSupportOldGame': {
     languageEn:
@@ -7528,6 +7530,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Nie zapomnij zawsze sprawdzić przydatności gry, nie używaj wersji beta i graj tylko w licencjonowaną wersję gry!',
     languageDe:
         "Vergessen Sie nicht, immer die Relevanz des Spiels zu überprüfen, verwenden Sie keine Beta-Versionen und spielen Sie nur mit der lizenzierten Version des Spiels!",
+    languageIt: 
+        'Non dimenticare di controllare sempre la pertinenza del gioco, non utilizzare versioni beta e gioca solo con la versione con licenza del gioco!',
   },
   'DisableBetaTip': {
     languageEn:
@@ -7540,6 +7544,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Aby wyłączyć wersję beta, przejdź do Steam, biblioteki, wybierz żądaną grę, właściwości, betas',
     languageDe:
         "Um die Beta-Version zu deaktivieren, gehen Sie zu Steam, Bibliothek, wählen Sie das gewünschte Spiel, Eigenschaften, Testen",
+    languageIt: 
+        'Per disabilitare la versione beta, vai su Steam, libreria, scegli il gioco, proprietà, beta',
   },
   'Recommended': {
     languageEn: 'Launch options to be added',
@@ -7547,6 +7553,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Відсутні параметри запуску',
     languagePl: 'Brakujące opcje uruchamiania',
     languageDe: "Fehlende Startoptionen",
+    languageIt: 'Opzioni di avvio da aggiungere',
   },
   'NotRecommended': {
     languageEn: 'Launch options to be removed',
@@ -7554,6 +7561,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Зайві параметри запуску',
     languagePl: 'Opcje uruchamiania do usunięcia',
     languageDe: "Redundante Startparameter",
+    languageIt: 'Opzioni di avvio da rimuovere',
   },
   'DisableFullscreen': {
     languageEn: "Disable fullscreen mode for modification's proper work",
@@ -7564,6 +7572,7 @@ const Map<String, Map<String, String>> localeItems = {
         'Wyłącz tryb pełnoekranowy dla poprawnego działania modyfikacji!',
     languageDe:
         "Deaktivieren Sie den Vollbildmodus für den korrekten Betrieb der Modifikation!",
+    languageIt: 'Disabilita la modalità a schermo intero per il corretto funzionamento della modifica',
   },
   'LaunchOptions': {
     languageEn: 'Launch options and settings',
@@ -7571,6 +7580,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Параметри запуску та налаштування',
     languagePl: 'Opcje uruchamiania i konfiguracji',
     languageDe: "Start und Konfigurationsoptionen",
+    languageIt: 'Avvia opzioni e impostazioni',
   },
   'LaunchOptionsBad': {
     languageEn:
@@ -7583,6 +7593,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Twoje opcje uruchamiania lub ustawienia gry nie są zgodne z zalecanymi!',
     languageDe:
         "Deine Start oder Spieleinstellungen stimmen nicht mit den empfohlenen Einstellungen überein!",
+    languageIt: 
+        'Le impostazioni di avvio o di gioco non corrispondono alle impostazioni consigliate!',
   },
   'LaunchOptionsGood': {
     languageEn:
@@ -7594,6 +7606,8 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl:
         'Twoje opcje uruchamiania i ustawienia gry są zgodne z zaleceniami',
     languageDe: "Ihre Startoptionen und Spieleinstellungen sind wie empfohlen",
+    languageIt: 
+        'Le opzioni di avvio e le impostazioni di gioco sono quelle consigliate',
   },
   'GoodParams': {
     languageEn:
@@ -7603,6 +7617,8 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl:
         'Parametry uruchamiania są normalne, nie jest wymagane żadne działanie.',
     languageDe: "Startparameter sind normal, es ist keine Aktion erforderlich.",
+    languageIt: 
+        'I parametri di avvio sono normali, non è richiesta alcuna azione.',
   },
   'OwnLoader': {
     languageEn: "Additional launcher",
@@ -7610,6 +7626,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Додатковий лаунчер',
     languagePl: 'Dodatkowy program uruchamiający',
     languageDe: "Zusätzlicher Launcher",
+    languageIt: 'Avvio aggiuntivo',
   },
   'OwnLoaderDescription': {
     languageEn: "This modification uses it's own loader for injection!",
@@ -7619,6 +7636,7 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl:
         'Ta modyfikacja używa własnego modułu ładującego do wstrzykiwania!',
     languageDe: "Dieser Mod verwendet einen eigenen Loader für die Injektion!",
+    languageIt: 'Questa modifica utilizza il proprio caricatore per l`iniezione!',
   },
   'OwnLoaderTooltip': {
     languageEn:
@@ -7631,6 +7649,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wszelkie problemy związane z uruchomieniem tej modyfikacji nie dotyczą ExLoadera, ponieważ wykorzystuje on własny launcher w procesie wstrzykiwania!',
     languageDe:
         'Alle Probleme im Zusammenhang mit dem Start dieser Modifikation gelten nicht für ExLoader, da es seinen eigenen Launcher im Injektionsprozess verwendet!',
+    languageIt: 
+        'Tutti i problemi relativi all`avvio di questa modifica non si applicano a ExLoader, poiché utilizza il proprio launcher nel processo di iniezione!',
   },
   'ModificationVersion': {
     languageEn: "Modification's version",
@@ -7638,6 +7658,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Версія модифікації',
     languagePl: 'Wersja modyfikacji',
     languageDe: "Modifikationsversion",
+    languageIt: 'Versione della modifica',
   },
   'ModificationVersionBad': {
     languageEn:
@@ -7649,6 +7670,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Data kompilacji modyfikacji różni się od daty aktualizacji gry!',
     languageDe:
         "Das Erstellungsdatum der Modifikation weicht vom Datum des Spielupdates ab!",
+    languageIt: 
+        'La data di creazione della modifica è diversa dalla data dell`ultimo aggiornamento del gioco!',
   },
   'ModificationVersionGood': {
     languageEn:
@@ -7658,6 +7681,8 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl: 'Modyfikacja jest aktualna i obsługuje najnowszą wersję gry',
     languageDe:
         "Der Mod ist aktuell und unterstützt die neueste Version des Spiels",
+    languageIt: 
+        'La modifica è aggiornata e supporta l`ultima versione del gioco',
   },
   'UpdateModification': {
     languageEn:
@@ -7670,6 +7695,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wiele modyfikacji lub część ich funkcjonalności przestaje działać po wydaniu aktualizacji gry. Jeśli ten problem jest przyczyną awarii, poczekaj, aż programista zaktualizuje swój produkt. Pamiętaj, że aktualizacje modyfikacji są wykonywane przez ich twórców, a nie przez zespół ExLoadera!',
     languageDe:
         "Viele Mods oder Teile ihrer Funktionalität funktionieren nach der Veröffentlichung von Spielupdates nicht mehr. Wenn dieses Problem die Ursache des Absturzes ist, warten Sie einfach, bis der Entwickler sein Produkt aktualisiert, es gibt keine anderen Lösungen! Denken Sie daran, dass Mod-Updates von ihren Erstellern durchgeführt werden, nicht vom ExLoader-Team!",
+    languageIt: 
+        'Molte mod o parti delle loro funzionalità non funzionano più dopo il rilascio degli aggiornamenti del gioco. Se questo problema è la causa del crash, aspetta semplicemente che lo sviluppatore aggiorni il prodotto, non ci sono altre soluzioni! Ricorda che gli aggiornamenti delle mod vengono effettuati dai loro creatori, non dal team ExLoader!',
   },
   'ConfigsAndOptions': {
     languageEn: 'Configurations and options',
@@ -7677,6 +7704,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Конфігурації та опції',
     languagePl: 'Konfiguracje i opcje',
     languageDe: "Konfigurationen und Optionen",
+    languageIt: 'Configurazioni e opzioni',
   },
   'ConfigsAndOptionsTip': {
     languageEn:
@@ -7689,6 +7717,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Sprawdź używane konfiguracje lub skonfiguruj modyfikacje ręcznie!',
     languageDe:
         "Überprüfen Sie die verwendeten Configs oder konfigurieren Sie Mods manuell!",
+    languageIt: 
+        'Controlla le configurazioni utilizzate o configura le mod manualmente!',
   },
   'CrashForConfig': {
     languageEn:
@@ -7701,6 +7731,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Jeśli modyfikacja ulega awarii podczas ładowania konfiguracji lub włączania dowolnej funkcji - oto przyczyna awarii. Spróbuj samodzielnie skonfigurować modyfikacje lub pobierz tylko aktualne konfiguracje.',
     languageDe:
         "Wenn die Modifikation beim Laden der Konfiguration oder beim Einschalten einer Funktion abstürzt - hier ist der Grund für den Absturz. Versuchen Sie, die Modifikation selbst zu konfigurieren, oder laden Sie nur die aktuellen Konfigurationen herunter.",
+    languageIt: 
+        'Se la modifica si arresta in modo anomalo durante il caricamento della configurazione o l`attivazione di una funzionalità, ecco il motivo dell`arresto anomalo. Prova a configurare tu stesso la modifica o scarica solo le configurazioni attuali.',
   },
   'ModificationsSource': {
     languageEn: 'Source of the modification',
@@ -7708,6 +7740,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Джерело модифікації',
     languagePl: 'Źródło modyfikacji',
     languageDe: "Die Quelle der Modification",
+    languageIt: 'Fonte della modifica',
   },
   'ModificationsSourceTip': {
     languageEn: "Modification you chose is not from the ExLoader's library!",
@@ -7716,6 +7749,7 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl: 'Wybrana modyfikacja nie pochodzi z biblioteki ExLoadera!',
     languageDe:
         "Die ausgewählte Modifikation stammt nicht aus der ExLoader-Bibliothek!",
+    languageIt: 'La modifica che hai scelto non proviene dalla libreria di ExLoader!',
   },
   'NotFromExLoader': {
     languageEn:
@@ -7728,6 +7762,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Modyfikacje dodane przez Ciebie mogą być przestarzałe lub zawierać wirusy zamiast funkcjonalności samej modyfikacji. Grając z zewnętrznymi modyfikacjami, zwracaj uwagę na źródło ich publikacji, a także datę ich ostatniej aktualizacji!',
     languageDe:
         "Modifikationen, die Sie selbst hinzufügen, können irrelevant sein oder Virensoftware anstelle der Funktionalität der Modifikation selbst enthalten. Wenn Sie mit externen Modifikationen spielen, achten Sie auf die Quelle ihrer Veröffentlichung sowie auf das Datum ihrer letzten Aktualisierung!",
+    languageIt: 
+        'Le modifiche aggiunte dall`utente potrebbero essere irrilevanti o contenere software antivirus anziché la funzionalità della modifica stessa. Quando giochi con modifiche esterne, presta attenzione alla fonte del loro rilascio e alla data del loro ultimo aggiornamento!',
   },
   'InjectionMethodDescription': {
     languageEn:
@@ -7740,6 +7776,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Bieżąca metoda uruchamiania może nie być kompatybilna z zalecaną metodą uruchamiania modyfikacji!',
     languageDe:
         "Die aktuelle Startmethode ist möglicherweise nicht mit der empfohlenen Mod-Startmethode kompatibel!",
+    languageIt: 
+        'Il metodo di avvio attuale potrebbe essere incompatibile con quello consigliato dalla modifica!',
   },
   'InjectionMethodDescriptionThird': {
     languageEn:
@@ -7752,6 +7790,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Sprawdź wszystkie metody wstrzykiwania obsługiwane przez tę modifikacje: {injections}',
     languageDe:
         "Überprüfen Sie alle Injektionsmethoden, die von diesem Mod unterstützt werden: {injections}",
+    languageIt: 
+        'Controlla tutti i metodi di iniezione supportati da questa mod: {injections}',
   },
   'InjectionMethodDescriptionSecond': {
     languageEn:
@@ -7762,6 +7802,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wypróbowałeś wszystkie dostępne metody uruchamiania modyfikacji.',
     languageDe:
         "Sie haben alle verfügbaren Methoden zum Starten der Modifikation ausprobiert.",
+    languageIt: 
+        'Hai provato tutti i metodi disponibili per avviare la modifica.',
   },
   'InjectionMethodTip': {
     languageEn:
@@ -7774,6 +7816,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Nie wszystkie modyfikacje obsługują tę samą metodę wstrzykiwania. Spróbuj wejść w ustawienia ExLoadera i zmienić sposób uruchamiania modyfikacji. Nie dajemy żadnych gwarancji, że to pomoże w 100%, ale mimo wszystko warto spróbować.',
     languageDe:
         "Nicht alle Modifikationen unterstützen dieselbe Injektionsmethode. Versuchen Sie, in die ExLoader-Einstellungen zu gehen und die gewünschte Art des Startens von Modifikationen zu ändern. Wir geben keine Garantie, dass es zu 100% hilft, aber einen Versuch ist es trotzdem wert.",
+    languageIt: 
+        'Non tutte le modifiche supportano lo stesso metodo di iniezione. Prova ad accedere alle impostazioni di ExLoader e a cambiare il modo desiderato per avviare le modifiche. Non garantiamo che aiuterà al 100%, ma vale comunque la pena provare.',
   },
   'InjectionMethodTipSecond': {
     languageEn:
@@ -7786,6 +7830,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Nie wszystkie modyfikacje obsługują ten sam sposób wstrzykiwania, jednak wypróbowałeś już wszystkie metody uruchamiania dostępne w Exloaderze, co oznacza, że najprawdopodobniej problem z awarią leży w czymś innym.',
     languageDe:
         "Nicht alle Mods unterstützen die gleiche Injektionsmethode, aber Sie haben bereits alle in ExLoader verfügbaren Startmethoden ausprobiert, was bedeutet, dass das Problem der Abfahrt höchstwahrscheinlich in etwas anderem liegt.",
+    languageIt: 
+        'Non tutte le mod supportano lo stesso metodo di iniezione, ma hai già provato tutti i metodi di lancio disponibili in ExLoader, il che significa che molto probabilmente il problema di partenza risiede in qualcos`altro.',
   },
   'ServersType': {
     languageEn: "Type of the server",
@@ -7793,6 +7839,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Тип сервера",
     languagePl: 'Rodzaj serwera',
     languageDe: "Server-Typ",
+    languageIt: 'Tipo di server',
   },
   'ServersTypeDescription': {
     languageEn:
@@ -7805,6 +7852,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Najczęściej modyfikacje są zoptymalizowane tylko pod kątem gry na oficjalnych serwerach gry!',
     languageDe:
         "Meistens werden Modifikationen nur für das Spiel auf den offiziellen Servern des Spiels optimiert!",
+    languageIt: 
+        'Molto spesso, le modifiche sono ottimizzate solo per il gioco sui server ufficiali del gioco!',
   },
   'ServersTypeTooltip': {
     languageEn:
@@ -7817,6 +7866,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestandardowe servery społeczności używające własnego anti-cheata mogą blokować część funkcjonalności modyfikacji, a tym samym powodować awarię gry po załadowaniu na mapę.',
     languageDe:
         "Benutzerdefinierte Anti-Cheat-Communities können einen Teil der Funktionalität des Mods blockieren und dadurch das Spiel zum Absturz bringen, wenn es auf die Karte geladen wird.",
+    languageIt: 
+        'Le comunità anti-cheat personalizzate possono bloccare alcune funzionalità della mod, causando il crash del gioco quando viene caricato sulla mappa.',
   },
   'SystemResult': {
     languageEn: 'Popular problems and their solutions',
@@ -7824,6 +7875,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Популярні проблеми та їх вирішення',
     languagePl: 'Popularne problemy i ich rozwiązania',
     languageDe: "Beliebte Probleme und ihre Lösungen",
+    languageIt: 'Problemi popolari e loro soluzioni',
   },
   'Overlay': {
     languageEn: 'Overlay and recording',
@@ -7831,6 +7883,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Оверлей і запис',
     languagePl: 'Nakładka i nagrywanie',
     languageDe: "Überlagern und aufzeichnen",
+    languageIt: 'Sovrapponi e registra',
   },
   'OverlayStatus': {
     languageEn: "Some applications may affect modification's rendering system!",
@@ -7841,6 +7894,7 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl:
         'Niektóre aplikacje mogą wpływać na system renderowania modyfikacji!',
     languageDe: "Einige Programme können das Mod-Rendering-System beeinflussen",
+    languageIt: 'Alcuni programmi potrebbero influenzare il sistema di rendering delle modifiche',
   },
   'OverlayDescription': {
     languageEn:
@@ -7853,6 +7907,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niektóre programy takie jak OBS, Bandicam, Fraps, Action, Nvidia ShadowPlay, FPS monitor, MSI Afterburner i inne podobne nakładki mogą mieć wpływ na to, że menu uruchomionej modyfikacji nie jest wyświetlane w grze. Jeśli napotkasz taki problem, spróbuj je wyłączyć przed uruchomieniem modyfikacji!',
     languageDe:
         "Einige Programme wie OBS, Bandicam, Fraps, Action, Nvidia ShadowPlay, FPS-Monitor, MSI Afterburner und andere ähnliche Overlays können sich darauf auswirken, dass das Menü der laufenden Modifikation nicht im Spiel angezeigt wird. Wenn Sie auf ein solches Problem stoßen, versuchen Sie, es zu deaktivieren, bevor Sie den Mod ausführen!",
+    languageIt: 
+        'Alcuni programmi come OBS, Bandicam, Fraps, Action, Nvidia ShadowPlay, FPS Monitor, MSI Afterburner e altri overlay simili potrebbero impedire che il menu delle modifiche in corso venga visualizzato nel gioco. Se riscontri un problema del genere, prova a disabilitarlo prima di eseguire la mod!',
   },
   'FPS': {
     languageEn: 'Game performance',
@@ -7860,6 +7916,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Продуктивність гри',
     languagePl: 'Wydajność gry',
     languageDe: "Spielleistung",
+    languageIt: 'Prestazioni di gioco',
   },
   'FPSStatus': {
     languageEn: 'Not all modifications are properly optimized for old devices!',
@@ -7870,6 +7927,7 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl:
         'Nie wszystkie modyfikacje są odpowiednio zoptymalizowane dla starszych urządzeń!',
     languageDe: "Nicht alle Mods sind richtig für schwache Geräte optimiert!",
+    languageIt: 'Non tutte le mod sono ottimizzate correttamente per i dispositivi deboli!',
   },
   'FPSDescription': {
     languageEn:
@@ -7882,6 +7940,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Spadające fpsy podczas gry z konkretną modyfikacją to dość powszechne zjawisko. Niestety nie da się tego naprawić ręcznie. Problem polega na tym, że wielu programistów nawet nie próbuje pisać dobrego i zoptymalizowanego kodu dla swoich projektów. Jedynym rozwiązaniem jest użycie innych modyfikacji.',
     languageDe:
         "Absinkende FPS beim Spielen mit einer bestimmten Modifikation sind ein recht häufiges Phänomen. Leider lässt sich das nicht manuell beheben. Das Problem ist, dass viele Entwickler nicht einmal versuchen, guten und optimierten Code für ihre Projekte zu schreiben. Die einzige Lösung besteht darin, andere Modifikationen zu verwenden.",
+    languageIt: 
+        'Il calo degli FPS quando si gioca con una particolare modifica è un fenomeno abbastanza comune. Sfortunatamente, questo non può essere risolto manualmente. Il problema è che molti sviluppatori non provano nemmeno a scrivere codice buono e ottimizzato per i loro progetti. L`unica soluzione è utilizzare altre modifiche.',
   },
   'WhatCouldHappen': {
     languageEn: 'What could have caused this?',
@@ -7889,6 +7949,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Що могло на це вплинути?',
     languagePl: 'Co mogło to spowodować?',
     languageDe: "Was könnte es beeinflusst haben?",
+    languageIt: 'Cosa potrebbe aver causato questo?',
   },
   'WindowedMode': {
     languageEn:
@@ -7901,6 +7962,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Nie zapomnij ustawić trybu renderowania gry na «Windowed» lub «Fullscreen windowed» w ustawieniach {game}, jest to konieczne do poprawnego uruchomienia tej modyfikacji.',
     languageDe:
         'Vergessen Sie nicht, den Rendering-Modus des Spiels auf «Windowed» oder «Fullscreen windowed» in {game} settings zu setzen, dies ist notwendig, um diese Modifikation korrekt auszuführen.',
+    languageIt: 
+        'Non dimenticare di impostare la modalità di rendering del gioco su «Finestra» o «Finestra a schermo intero» nelle impostazioni di {game}, questo è necessario per eseguire correttamente questa modifica.',
   },
   'ActionNeeded': {
     languageEn: 'You need to do something...',
@@ -7908,6 +7971,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Тобі потрібно щось зробити...',
     languagePl: 'Potrzebuje twojej akcji...',
     languageDe: "Du musst handeln...",
+    languageIt: 'Devi fare qualcosa...',
   },
   'NoProfileInOffline': {
     languageEn:
@@ -7919,6 +7983,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety otwarcie profilu nie jest dostępne w trybie offline 🙁',
     languageDe:
         "Leider ist das Öffnen eines Profils im Offline-Modus nicht verfügbar 🙁",
+    languageIt: 
+        'Sfortunatamente non puoi aprire questo profilo in modalità offline 🙁',
   },
   'Socials': {
     languageEn: 'Social networks',
@@ -7926,6 +7992,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Соціальні мережі',
     languagePl: 'Portale społecznościowe',
     languageDe: "Soziale Netzwerke",
+    languageIt: 'Social networks',
   },
   'ProfileLinkCopied': {
     languageEn: 'The profile username has been copied to your clipboard!',
@@ -7934,6 +8001,7 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl: 'Nazwa użytkownika profilu została skopiowana do schowka!',
     languageDe:
         "Der Benutzername des Profils wurde in Ihre Zwischenablage kopiert!",
+    languageIt: 'Il nome utente del profilo è stato copiato nei tuoi appunti!',
   },
   'LinkCopied': {
     languageEn: "Mod's update link has been copied to your clipboard!",
