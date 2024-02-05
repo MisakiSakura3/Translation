@@ -8009,6 +8009,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Посилання на оновлення мода скопійовано у твій буфер обміну!',
     languagePl: 'Link do aktualizacji moda został skopiowany do schowka!',
     languageDe: "Der Link zum Mod-Update wurde in Ihre Zwischenablage kopiert!",
+    languageIt: 'Il link di aggiornamento della mod è stato copiato nei tuoi appunti!',
   },
   'ConfigsFirst': {
     languageEn: 'Configurations',
@@ -8016,6 +8017,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Конфігурацій',
     languagePl: 'Konfiguracji',
     languageDe: "Konfigurationen",
+    languageIt: 'Configurazioni',
   },
   'ConfigsSecond': {
     languageEn: 'Configuration',
@@ -8023,6 +8025,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Конфігурація',
     languagePl: 'Konfiguracja',
     languageDe: "Konfiguration",
+    languageIt: 'Configurazione',
   },
   'ConfigsThird': {
     languageEn: 'Configurations',
@@ -8030,6 +8033,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Конфігурації',
     languagePl: 'Konfiguracje',
     languageDe: "Konfigurationen",
+    languageIt: 'Configurazioni',
   },
   'CommentsFirst': {
     languageEn: 'Comments',
@@ -8037,6 +8041,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Коментарів',
     languagePl: 'Komentarzy',
     languageDe: "Kommentare",
+    languageIt: 'Commenti',
   },
   'CommentsSecond': {
     languageEn: 'Comment',
@@ -8044,6 +8049,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Коментарій',
     languagePl: 'Komentarz',
     languageDe: "Kommentar",
+    languageIt: 'Commento',
   },
   'CommentsThird': {
     languageEn: 'Comments',
@@ -8051,6 +8057,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Коментаря',
     languagePl: 'Komentarze',
     languageDe: "Kommentare",
+    languageIt: 'Commenti',
   },
   'InGame': {
     languageEn: "played",
@@ -8058,6 +8065,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "у грі",
     languagePl: 'w grze',
     languageDe: "im Spiel",
+    languageIt: 'nel gioco',
   },
   'LastLaunch': {
     languageEn: "last launched",
@@ -8065,6 +8073,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "останній запуск",
     languagePl: 'ostatnie uruchomienie',
     languageDe: "letzter Start",
+    languageIt: 'ultimo avvio',
   },
   'Statistics': {
     languageEn: "Statistics",
@@ -8072,6 +8081,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Статистика",
     languagePl: 'Statystyki',
     languageDe: "Statistiken",
+    languageIt: 'Statistiche',
   },
   'ForAllTime': {
     languageEn: 'for all time',
@@ -8079,6 +8089,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'за весь час',
     languagePl: 'od początku',
     languageDe: "für die ganze Zeit",
+    languageIt: 'per tutto il tempo',
   },
   'OfModifications': {
     languageEn: 'of modifications',
@@ -8086,6 +8097,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'модифікацій',
     languagePl: 'modyfikacji',
     languageDe: "Modifikationen",
+    languageIt: 'Modifiche',
   },
   'StatsIsEmpty': {
     languageEn:
@@ -8098,6 +8110,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wygląda na to, że ten użytkownik nie uruchamiał jeszcze modyfikacji w ExLoaderze',
     languageDe:
         "Dieser Benutzer scheint noch keine Mods mit ExLoader ausgeführt zu haben",
+    languageIt: 
+        'Sembra che questo utente non abbia ancora avviato alcuna modifica con ExLoader',
   },
   'KeepUp': {
     languageEn:
@@ -8110,6 +8124,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Tak trzymaj, graj z różnymi modyfikacjami z biblioteki ExLoadera, a wkrótce Twoje osobiste statystyki dla każdego z nich pojawią się w tej sekcji!',
     languageDe:
         "Machen Sie weiter so, spielen Sie weiter mit verschiedenen Mods aus der ExLoader-Bibliothek, und bald werden Ihre persönlichen Statistiken für jeden von ihnen in diesem Abschnitt erscheinen!",
+    languageIt: 
+        'Continua così, continua a giocare con i vari mod della libreria ExLoader e presto le tue statistiche personali per ognuno di essi appariranno in questa sezione!',
   },
   'InfoHidden': {
     languageEn:
@@ -8120,6 +8136,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Inne informacje profilowe są ukryte przez ustawienia prywatności',
     languageDe:
         "Andere Profilinformationen werden durch Datenschutzeinstellungen ausgeblendet",
+    languageIt: 
+        'Il resto delle informazioni del profilo è nascosto dalle impostazioni sulla privacy',
   },
   'Yes': {
     languageEn: 'Yes',
@@ -8127,6 +8145,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Так',
     languagePl: 'Tak',
     languageDe: "Ja",
+    languageIt: 'Si',
   },
   'No': {
     languageEn: 'No',
@@ -8134,6 +8153,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Ні',
     languagePl: 'Nie',
     languageDe: "Nein",
+    languageIt: 'No',
   },
   'ForgeFirst': {
     languageEn:
@@ -8146,6 +8166,8 @@ const Map<String, Map<String, String>> localeItems = {
         '- Kliknij tutaj, aby otworzyć oficjalną stronę Forge, wybierz wymaganą wersję gry w tabeli po lewej stronie i kliknij kolumnę «Installer» w «Download Recommended».',
     languageDe:
         "- Klicken Sie hier, um die offizielle Forge-Website zu öffnen, wählen Sie die gewünschte Version des Spiels in der Tabelle links aus und klicken Sie im Block „Download Recommended“ auf „Installer“.",
+    languageIt: 
+        '– Fai clic qui per aprire il sito Web ufficiale di Forge, scegli la versione del gioco nella colonna di sinistra e premi «Installer» nel blocco «Download Recommended».',
   },
   'FabricFirst': {
     languageEn:
@@ -8158,6 +8180,8 @@ const Map<String, Map<String, String>> localeItems = {
         '– Kliknij tutaj, aby otworzyć oficjalną witrynę Fabric i kliknij przycisk «Download for Windows».',
     languageDe:
         "– Klicken Sie hier, um die offizielle Fabric-Website zu öffnen, und klicken Sie auf die Schaltfläche «Download for Windows».",
+    languageIt: 
+        '– Fai clic qui per aprire il sito Web ufficiale di Fabric e premi il pulsante «Download for Windows».',
   },
   'ForgeSecond': {
     languageEn:
@@ -8170,6 +8194,8 @@ const Map<String, Map<String, String>> localeItems = {
         '– Otwórz pobrany instalator, upewnij się, że ścieżka do gry jest poprawna, kliknij «Ok» i poczekaj na zakończenie instalacji Forge.',
     languageDe:
         "– Öffnen Sie das heruntergeladene Installationsprogramm, vergewissern Sie sich, dass der Pfad zum Spiel korrekt ist, klicken Sie auf „Ok“ und warten Sie, bis die Installation von Forge abgeschlossen ist.",
+    languageIt: 
+        '– Apri il programma di installazione scaricato, assicurati che il percorso del gioco sia specificato correttamente, fai clic su «Ok» e attendi il completamento dell`installazione di Forge.',
   },
   'FabricSecond': {
     languageEn:
@@ -8182,6 +8208,8 @@ const Map<String, Map<String, String>> localeItems = {
         '– Otwórz pobrany instalator, wybierz wymaganą wersję gry, upewnij się, że ścieżka do gry jest poprawna, kliknij «Install», i poczekaj na zakończenie instalacji Fabric.',
     languageDe:
         "– Öffnen Sie das heruntergeladene Installationsprogramm, wählen Sie die erforderliche Spielversion aus, vergewissern Sie sich, dass der Pfad zum Spiel korrekt ist, klicken Sie auf „Installieren“ und warten Sie, bis die Fabric-Installation abgeschlossen ist.",
+    languageIt: 
+        '– Apri il programma di installazione scaricato, seleziona la tua versione del gioco, assicurati che il percorso del gioco sia specificato correttamente, fai clic su «Install» e attendi il completamento dell`installazione di Fabric.',
   },
   'MinecraftComponentsEnding': {
     languageEn:
@@ -8194,6 +8222,8 @@ const Map<String, Map<String, String>> localeItems = {
         '– Uruchom i zamknij grę, aby zakończyć instalację komponentów i rozpocząć instalację modyfikacji!',
     languageDe:
         "– Starten und schließen Sie das Spiel einmal, um die Installation der Komponenten abzuschließen und mit der Installation des Mods zu beginnen!",
+    languageIt: 
+        '– Avvia ed esci dal gioco per completare l`installazione dei componenti e procedere con l`installazione delle modifiche!',
   },
   'FabricThird': {
     languageEn:
@@ -8206,6 +8236,8 @@ const Map<String, Map<String, String>> localeItems = {
         '- Otwórz stronę Fabric-API po kliknięciu tego tekstu, znajdź swoją wersję gry na poniższej liście, kliknij przycisk «Download file» i przenieś pobrany plik do folderu «mods» w folderze gry. Jeśli nie ma takiego folderu - utwórz go sam!',
     languageDe:
         '- Öffnen Sie die Fabric-API-Site, nachdem Sie auf diesen Text geklickt haben, suchen Sie Ihre Version des Spiels in der Liste unten, klicken Sie auf die Schaltfläche "Datei herunterladen" und verschieben Sie die heruntergeladene Datei in den Ordner "mods" im Spielordner. Wenn es keinen solchen Ordner gibt - erstellen Sie ihn selbst!',
+    languageIt: 
+        '– Apri il sito Web Fabric-API facendo clic su questo testo, trova la tua versione del gioco nell`elenco sottostante, premi il pulsante «Download file» e sposta il file scaricato nella directory «mods» nella cartella del gioco. Se non esiste una cartella di questo tipo, creala tu stesso!',
   },
   'DoYouHaveThisFabricOrForge': {
     languageEn:
@@ -8216,6 +8248,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Czy masz już zainstalowane {components} dla wybranej wersji gry?',
     languageDe:
         "Haben Sie bereits {components} für die ausgewählte Spielversion installiert?",
+    languageIt: 
+        'Hai già installato {components} per la versione del gioco selezionata?',
   },
   'ChooseGameVersion': {
     languageEn: 'Choose the version of the game:',
@@ -8223,6 +8257,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Вибери версію гри:',
     languagePl: 'Wybierz wersję gry:',
     languageDe: "Wähle eine Spielversion:",
+    languageIt: 'Scegli la versione del gioco:',
   },
   'CheckThePath': {
     languageEn: 'Make sure that the game path is specified correctly:',
@@ -8230,6 +8265,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Переконайся, що шлях до гри вказано вірно:',
     languagePl: 'Upewnij się, że ścieżka do gry jest poprawna:',
     languageDe: "Stellen Sie sicher, dass der Pfad zum Spiel korrekt ist:",
+    languageIt: 'Assicurati che il percorso del gioco sia specificato correttamente:',
   },
   'ChooseGamePath': {
     languageEn: 'Specify path to the game',
@@ -8237,6 +8273,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Вкажи шлях до гри',
     languagePl: 'Wskaż drogę do gry',
     languageDe: "Geben Sie den Pfad zum Spiel an",
+    languageIt: 'Specifica il percorso del gioco',
   },
   'ChooseGameOrModificationVersion': {
     languageEn: 'Choose the version of the game or modification:',
@@ -8244,6 +8281,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Вибери версію гри або модифікації:',
     languagePl: 'Wybierz wersję gry lub modyfikacje:',
     languageDe: "Wählen Sie die Version des Spiels oder der Modifikation:",
+    languageIt: 'Scegli la versione del gioco o la modifica:',
   },
   'ChooseVersionFirst': {
     languageEn:
@@ -8255,6 +8293,8 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl: 'Aby kontynuować, musisz wybrać wersję gry lub modyfikacje!',
     languageDe:
         "Um fortzufahren, müssen Sie eine Version des Spiels oder eine Modifikation auswählen!",
+    languageIt: 
+        'Per continuare, devi selezionare una versione del gioco o una modifica!',
   },
   'NetFrameworkIsNeeded': {
     languageEn:
@@ -8267,6 +8307,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Do poprawnego działania programu może być konieczne zainstalowanie .NET Framework w wersji 4.8! Chcesz teraz pobrać i zainstalować składniki .NET Framework? Nawiasem mówiąc, możesz pominąć ten krok, jeśli wszystko jest w porządku z aplikacją.',
     languageDe:
         "Für den korrekten Betrieb des Programms müssen Sie möglicherweise das .NET Framework Version 4.8 installieren! Möchten Sie die .NET Framework-Komponenten sofort herunterladen und installieren? Übrigens können Sie diesen Schritt überspringen, wenn mit der Anwendung alles in Ordnung ist.",
+    languageIt: 
+        'Affinché il programma funzioni correttamente, potrebbe essere necessario installare .NET Framework Version 4.8! Desideri scaricare e installare immediatamente i componenti .NET Framework? A proposito, puoi saltare questo passaggio se tutto va bene con l`applicazione.',
   },
   'FailedToInstallNetFrameworkInstaller': {
     languageEn:
@@ -8279,6 +8321,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety podczas automatycznej instalacji komponentów .NET Framework wystąpił nieoczekiwany błąd, jednak możesz spróbować zrobić to ręcznie! Czy chcesz otworzyć stronę pobierania .NET Framework w swojej przeglądarce?',
     languageDe:
         "Leider ist bei der automatischen Installation der .NET Framework-Komponenten ein Fehler aufgetreten, aber Sie können es manuell versuchen! Möchten Sie die .NET Framework-Downloadseite in Ihrem Browser öffnen?",
+    languageIt: 
+        'Sfortunatamente si è verificato un errore durante l`installazione automatica dei componenti .NET Framework, ma puoi provare manualmente! Vuoi aprire la pagina di download di .NET Framework nel tuo browser?',
   },
   'Welcome': {
     languageEn: 'Welcome to the',
@@ -8286,6 +8330,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Ласкаво просимо',
     languagePl: 'Witamy',
     languageDe: "Willkommen",
+    languageIt: 'Benvenuto',
   },
   'UnifiedLibrary': {
     languageEn: 'ExLoader installation assistant',
@@ -8293,6 +8338,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'в помічник установки ExLoader',
     languagePl: 'w asystencie instalacji ExLoadera',
     languageDe: "im ExLoader-Installationsassistenten",
+    languageIt: 'Assistente all`installazione di ExLoader',
   },
   'WhatIsInstallerFor': {
     languageEn:
@@ -8305,6 +8351,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Ten instalator pomoże Ci w instalacji najnowszej wersji ExLoadera',
     languageDe:
         "Dieser Assistent hilft Ihnen bei der Installation der aktuellsten Version von ExLoader",
+    languageIt: 
+        'Questa procedura guidata ti aiuterà a installare l`ultima versione di ExLoader',
   },
   'Begin': {
     languageEn: 'Configure manually',
@@ -8312,6 +8360,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Налаштувати вручну',
     languagePl: 'Skonfiguruj ręcznie',
     languageDe: "Manuell konfigurieren",
+    languageIt: 'Configura manualmente',
   },
   'FastBegin': {
     languageEn: 'Instant installation',
@@ -8319,6 +8368,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Швидка установка',
     languagePl: 'Szybka instalacja',
     languageDe: "Schnelle Installation",
+    languageIt: 'Installazione istantanea',
   },
   'FastBeginDescription': {
     languageEn:
@@ -8331,6 +8381,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Zalecana metoda instalacji! W tym\ntrybie aplikacja zainstaluje się\nautomatycznie z odpowiednimi\nustawieniami.',
     languageDe:
         "Empfohlene Installationsmethode! In diesem\nModus installiert sich die Anwendung\nautomatisch mit den entsprechenden\nEinstellungen.",
+    languageIt: 
+        'Metodo di installazione consigliato! In questa\nmodalità l`applicazione si installerà\nautomaticamente con i\nparametri appropriati.',
   },
   'SlowBeginDescription': {
     languageEn:
@@ -8343,6 +8395,8 @@ const Map<String, Map<String, String>> localeItems = {
         'W trybie ręcznym będziesz musiał\nskonfigurować cały\nproces instalacji samodzielnie!',
     languageDe:
         "Im manuellen Modus müssen Sie den\ngesamten Installationsprozess selbst\nkonfigurieren!",
+    languageIt: 
+        'In modalità manuale, dovrai\nconfigurare tu stesso\nl`intero processo di installazione!',
   },
   'InstallationSettings': {
     languageEn: 'Setting up the installation parameters',
@@ -8350,6 +8404,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Налаштування параметрів установки',
     languagePl: 'Ustawianie parametrów instalacji',
     languageDe: "Einstellen der Installationsparameter",
+    languageIt: 'Impostazione dei parametri di installazione',
   },
   'BeginInstallation': {
     languageEn: 'Start installation',
@@ -8357,6 +8412,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Почати встановку',
     languagePl: 'Rozpocznij instalację',
     languageDe: "Installation starten",
+    languageIt: 'Avvia l`installazione',
   },
   'ChooseInstallationPath': {
     languageEn: 'Choose directory where ExLoader will be installed:',
@@ -8365,6 +8421,7 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl: 'Wybierz folder, w którym zostanie zainstalowany ExLoader:',
     languageDe:
         "Wählen Sie den Ordner aus, in dem ExLoader installiert werden soll:",
+    languageIt: 'Seleziona la cartella in cui desideri installare ExLoader:',
   },
   'CreateShortcut': {
     languageEn: "Create application's shortcut in the Desktop folder",
@@ -8372,6 +8429,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Створити ярлик програми на робочому столі',
     languagePl: 'Utwórz skrót do programu na pulpicie',
     languageDe: "App-Verknüpfung auf dem Desktop erstellen",
+    languageIt: 'Crea il collegamento dell`applicazione sul Desktop',
   },
   'LaunchExLoader': {
     languageEn: "Launch ExLoader after the installation process",
@@ -8379,6 +8437,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Запустити ExLoader після процесу встановки',
     languagePl: 'Uruchom ExLoader po procesie instalacji',
     languageDe: "ExLoader nach der Installation starten",
+    languageIt: 'Avvia ExLoader dopo il processo di installazione',
   },
   'AppInstalling': {
     languageEn: 'Application is being installed',
@@ -8386,6 +8445,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Встановлення програми',
     languagePl: 'Instalowanie programu',
     languageDe: "Installation des Programms",
+    languageIt: 'Installazione del programma',
   },
   'JustAFewMoments': {
     languageEn: "Just a few more moments, you're almost there!",
@@ -8393,6 +8453,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Залишилося зовсім трохи, ти майже у мети!',
     languagePl: 'Jeszcze tylko chwila i już prawie jesteś!',
     languageDe: "Es bleibt nur noch sehr wenig übrig, Sie sind fast am Ziel!",
+    languageIt: 'Ancora pochi istanti e ci sei quasi!',
   },
   'WaitForAssistant': {
     languageEn:
@@ -8405,6 +8466,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Poczekaj, aż kreator instalacji pobierze i zainstaluje pliki ExLoadera na komputerze',
     languageDe:
         "Warten Sie, bis der Installationsassistent die ExLoader-Dateien heruntergeladen und auf Ihrem Computer installiert hat",
+    languageIt: 
+        'Attendi che l`assistente scarichi e installi i file ExLoader sul tuo dispositivo',
   },
   'AppInstalled': {
     languageEn: 'ExLoader is installed',
@@ -8412,6 +8475,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'ExLoader встановлен',
     languagePl: 'ExLoader jest zainstalowany',
     languageDe: "ExLoader ist installiert",
+    languageIt: 'ExLoader è installato',
   },
   'EverythingIsDone': {
     languageEn: 'Everything is done, application is ready to use!',
@@ -8419,6 +8483,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Все готово, додаток вже доступний до використання!',
     languagePl: 'Wszystko gotowe, aplikacja jest już gotowa do użytku!',
     languageDe: "Alles ist bereit, die Anwendung ist bereits einsatzbereit!",
+    languageIt: 'Tutto è fatto, l`applicazione è pronta per l`uso!',
   },
   'EverythingIsDoneFinish': {
     languageEn: 'Application is successfully installed!',
@@ -8426,6 +8491,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'ExLoader успішно встановлен!',
     languagePl: 'ExLoader pomyślnie zainstalowany!',
     languageDe: "ExLoader erfolgreich installiert!",
+    languageIt: 'L`applicazione è stata installata con successo!',
   },
   'ThankYouForChoosingUs': {
     languageEn: 'Thank you for choosing us. Sincerely, the SwiftSoft LLC team.',
@@ -8433,6 +8499,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Спасибі, що ти вибрав нас. З повагою, SwiftSoft LLC.',
     languagePl: 'Dziękujemy za wybranie nas. Z poważaniem, SwiftSoft LLC.',
     languageDe: "Danke, dass du dich für uns entschieden hast, SwiftSoft LLC.",
+    languageIt: 'Grazie per averci scelto. Cordiali saluti, il team di SwiftSoft LLC.',
   },
   'CloseTheApp': {
     languageEn: 'Close the installer',
