@@ -11010,6 +11010,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Розприжка",
     languagePl: 'Skoki',
     languageDe: 'Springen',
+    languageIt: 'Aiutante di salto',
   },
   'JumpHelperDescription': {
     languageEn: "Jump while holding the space button",
@@ -11017,6 +11018,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Стрибати при затисненні пробілу",
     languagePl: 'Skok po przytrzymaniu spacji',
     languageDe: 'Springen bei gedrückter Leertaste',
+    languageIt: 'Salta tenendo premuto il pulsante spazio',
   },
   'SniperRiflesCrosshairDescription': {
     languageEn: "Display crosshair on sniper rifles",
@@ -11024,6 +11026,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Відображати приціл на страйперках",
     languagePl: 'Pokaż celownik na striptizerkach',
     languageDe: 'Anzeige des Visiers auf den Strippern',
+    languageIt: 'Visualizza il mirino sui fucili di precisione',
   },
   'CrosshairColor': {
     languageEn: "Color of additional crosshair",
@@ -11031,6 +11034,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Колір додаткового прицілу",
     languagePl: 'Kolor celownika pomocniczego',
     languageDe: 'Farbe des Hilfsvisiers',
+    languageIt: 'Colore del mirino aggiuntivo',
   },
   'WorkSpeed': {
     languageEn: "Modification's optimization",
@@ -11038,6 +11042,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Оптимізація модифікації",
     languagePl: 'Optymalizacja modyfikacji',
     languageDe: 'Optimierung der Modifikation',
+    languageIt: 'Ottimizzazione della modifica',
   },
   'WorkSpeedFast': {
     languageEn: "Processing speed: rapid",
@@ -11045,6 +11050,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Швидкість обробки: швидка",
     languagePl: 'Prędkość przetwarzania: szybka',
     languageDe: 'Verarbeitungsgeschwindigkeit: schnell',
+    languageIt: 'Velocità di elaborazione: rapida',
   },
   'WorkSpeedMedium': {
     languageEn: "Processing speed: medium",
@@ -11052,6 +11058,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Швидкість обробки: середня",
     languagePl: 'Prędkość przetwarzania: średnia',
     languageDe: 'Verarbeitungsgeschwindigkeit: mittel',
+    languageIt: 'Velocità di elaborazione: media',
   },
   'WorkSpeedSlow': {
     languageEn: "Processing speed: slow",
@@ -11059,6 +11066,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Швидкість обробки: повільна",
     languagePl: 'Szybkość przetwarzania: wolna',
     languageDe: 'Verarbeitungsgeschwindigkeit: langsam',
+    languageIt: 'Velocità di elaborazione: lenta',
   },
   'WorkSpeedDescription': {
     languageEn:
@@ -11071,6 +11079,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Prędkość przetwarzania wpływa bezpośrednio na liczbę klatek w grze. Jeśli masz słaby komputer, użyj średniej lub wolnej prędkości przetwarzania. Im wolniejsza prędkość, tym mniej płynny będzie rendering wizualnej części modyfikacji.',
     languageDe:
         'Die Verarbeitungsgeschwindigkeit wirkt sich direkt auf die Anzahl der Bilder im Spiel aus. Wenn Sie einen schwachen Computer haben, wählen Sie eine mittlere oder langsame Verarbeitungsgeschwindigkeit. Je langsamer die Geschwindigkeit, desto weniger flüssig ist das Rendering des visuellen Teils der Modifikation.',
+    languageIt: 
+        'La velocità di elaborazione dei dati influisce direttamente sul frame rate del gioco. Se hai un vecchio computer, utilizza una velocità di elaborazione media o lenta. Minore è la velocità, meno fluida sarà la resa della parte visiva della modifica.',
   },
   'SpectatorList': {
     languageEn: "Spectators",
@@ -11078,6 +11088,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Спостерігачі",
     languagePl: 'Obserwatorzy',
     languageDe: 'Beobachter',
+    languageIt: 'Spettatori',
   },
   'SpectatorListDescription': {
     languageEn: "Display observers list",
@@ -11085,6 +11096,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Відображати список спостерігачів",
     languagePl: 'Wyświetl listę obserwatorów',
     languageDe: 'Eine Liste von Beobachtern anzeigen',
+    languageIt: 'Visualizza l`elenco degli osservatori',
   },
   'FastReload': {
     languageEn: "Fast reloading",
@@ -11092,6 +11104,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Швидка перезарядка",
     languagePl: 'Szybkie ładowanie',
     languageDe: 'Schnelles Aufladen',
+    languageIt: 'Ricarica rapida',
   },
   'FastReloadDescription': {
     languageEn: "Switch gun on reloading",
@@ -11099,6 +11112,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Міняти зброю при перезарядці",
     languagePl: 'Zmiana broni podczas przeładowywania',
     languageDe: 'Waffenwechsel beim Nachladen',
+    languageIt: 'Cambia arma durante la ricarica',
   },
   'FastReloadNote': {
     languageEn:
@@ -11111,6 +11125,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Uwaga, aby ta funkcja działała poprawnie, klawisz przełączania broni musi być taki sam jak ten ustawiony w grze!',
     languageDe:
         'Bitte beachten Sie, dass diese Funktion nur dann korrekt funktioniert, wenn die Waffentaste mit der im Spiel eingestellten Taste übereinstimmt!',
+    languageIt: 
+        'Tieni presente che affinché questa funzione funzioni correttamente, il pulsante di cambio tra le armi deve corrispondere a quello definito nel gioco!',
   },
   'AutoShootStatus': {
     languageEn: "Display work status",
@@ -11118,6 +11134,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Відображати статус роботи",
     languagePl: 'Wyświetlanie stanu pracy',
     languageDe: 'Arbeitsstatus anzeigen',
+    languageIt: 'Mostra stato lavoro',
   },
   'ModificationOpenHideKey': {
     languageEn: "Interaction with the modification's menu",
@@ -11125,6 +11142,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Взаємодія з меню модифікації',
     languagePl: 'Interakcja z menu modyfikacji',
     languageDe: 'Interaktion mit dem Änderungsmenü',
+    languageIt: 'Interazione con il menu di modifica',
   },
   'OpenCloseTheMenu': {
     languageEn: "Opening and closing the menu",
@@ -11132,6 +11150,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Відкриття та закриття меню',
     languagePl: 'Otwieranie i zamykanie menu',
     languageDe: 'Öffnen und Schließen von Menüs',
+    languageIt: 'Apertura e chiusura del menu',
   },
   'ResetSettings': {
     languageEn: "Reset settings",
@@ -11139,6 +11158,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Скинути налаштування",
     languagePl: 'Einstellungen zurücksetzen',
     languageDe: 'Resetowanie ustawień',
+    languageIt: 'Ripristina le impostazioni',
   },
   'Overview': {
     languageEn: "Overview",
@@ -11146,6 +11166,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Огляд",
     languagePl: 'Przegląd',
     languageDe: 'Übersicht',
+    languageIt: 'Panoramica',
   },
   'PopularModsOfTheWeek': {
     languageEn: "Popular modifications of the week",
@@ -11153,6 +11174,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Популярні модифікації тижня",
     languagePl: 'Popularne modyfikacje tygodnia',
     languageDe: 'Beliebte Modifikationen der Woche',
+    languageIt: 'Modifiche popolari della settimana',
   },
   'PopularReviewsOfTheWeek': {
     languageEn: "Popular comments of the week",
@@ -11160,6 +11182,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Популярні коментарі тижня",
     languagePl: 'Popularne komentarze tygodnia',
     languageDe: 'Beliebte Kommentare der Woche',
+    languageIt: 'Commenti popolari della settimana',
   },
   'PopularConfigsOfTheWeek': {
     languageEn: "Popular configs and LUAs of the week",
@@ -11167,6 +11190,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Популярні конфіги та ЛУА тижня",
     languagePl: 'Popularne konfiguracje i LUA tygodnia',
     languageDe: 'Beliebte Konfigurationen und LUA der Woche',
+    languageIt: 'Configurazioni e LUA popolari della settimana',
   },
   'UniqueInstallsOfModsForGames': {
     languageEn: "Unique installations of mods for {game}: ",
@@ -11174,6 +11198,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Унікальні встановлення модів до {game}: ",
     languagePl: 'Unikalne instalacje modów do {game}: ',
     languageDe: 'Einzigartige Installationen von Mods für das {game}: ',
+    languageIt: 'Installazioni uniche di mod per {game}: ',
   },
   'PopularGamesOfTheWeek': {
     languageEn: "Popularity of games during the week",
@@ -11181,6 +11206,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Популярність ігор за тиждень",
     languagePl: 'Popularność gier w danym tygodniu',
     languageDe: 'Beliebtheit der Spiele in der Woche',
+    languageIt: 'Popolarità dei giochi durante la settimana',
   },
   'ImagesForMods': {
     languageEn: "Display modifications previews",
@@ -11188,6 +11214,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Відобразити прев'ю модифікацій",
     languagePl: 'Wyświetlanie podglądu modyfikacji',
     languageDe: 'Voransichten von Modifikationen anzeigen',
+    languageIt: 'Mostra le anteprime delle modifiche',
   },
   'ImagesForModsDisable': {
     languageEn: "Hide modifications previews",
@@ -11195,6 +11222,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Приховати прев'ю модифікацій",
     languagePl: 'Ukryj podgląd modyfikacji',
     languageDe: 'Vorschaubilder von Modifikationen ausblenden',
+    languageIt: 'Nascondi le anteprime delle modifiche',
   },
   'ModificationIsDeleted': {
     languageEn: "Modification is already deleted",
@@ -11202,76 +11230,91 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Модифікацію вже видалено",
     languagePl: 'Modyfikacja już usunięta',
     languageDe: 'Modifikation bereits gelöscht',
+    languageIt: 'La modifica è già stata eliminata',
   },
   'Studio': {
     languageEn: "Studio",
     languageRu: 'Студия',
     languageUa: "Студія",
+    languageIt: 'Studio',
   },
   'Trailer': {
     languageEn: "Trailer",
     languageRu: 'Трейлер',
     languageUa: "Трейлер",
+    languageIt: 'Trailer',
   },
   'Header': {
     languageEn: "Game's header image",
     languageRu: 'Баннерное изображение игры',
     languageUa: "Банерне зображення гри",
+    languageIt: 'Immagine dell`intestazione del gioco',
   },
   'InstallerPath': {
     languageEn: "Path to game's installer file",
     languageRu: 'Путь к установочному файлу игры',
     languageUa: "Шлях до інсталяційного файлу гри",
+    languageIt: 'Percorso del file di installazione del gioco',
   },
   'LauncherPath': {
     languageEn: "Path to game's launcher file",
     languageRu: 'Путь к загрузочному файлу игры',
     languageUa: "Шлях до завантажувального файлу гри",
+    languageIt: 'Percorso del file di avvio del gioco',
   },
   'RepackAuthor': {
     languageEn: "Repacks' author",
     languageRu: 'Автор репака',
     languageUa: "Автор ріпаку",
+    languageIt: 'L`autore dei repacks',
   },
   'AdditionalSearchTitles': {
     languageEn: "Additional titles for search",
     languageRu: 'Дополнительные названия для поиска',
     languageUa: "Додаткові назви для пошуку",
+    languageIt: 'Titoli aggiuntivi per la ricerca',
   },
   'DescriptionRu': {
     languageEn: "Description on russian language",
     languageRu: 'Описание на русском языке',
     languageUa: "Опис російською мовою",
+    languageIt: 'Descrizione in lingua russa',
   },
   'DescriptionEn': {
     languageEn: "Description on english language",
     languageRu: 'Описание на английском языке',
     languageUa: "Опис англійською мовою",
+    languageIt: 'Descrizione in lingua inglese',
   },
   'DescriptionUa': {
     languageEn: "Description on urkainian language",
     languageRu: 'Описание на украинском языке',
     languageUa: "Опис українською мовою",
+    languageIt: 'Descrizione in lingua urcaina',
   },
   'RepackInfoEn': {
     languageEn: "Repack's description on english language",
     languageRu: 'Описание репака на английском языке',
     languageUa: "Опис ріпаку англійською мовою",
+    languageIt: 'Descrizione del repack in lingua inglese',
   },
   'RepackInfoUa': {
     languageEn: "Repack's description on urkainian language",
     languageRu: 'Описание репака на украинском языке',
     languageUa: "Опис ріпаку українською мовою",
+    languageIt: 'Descrizione del repack int lingua urkainiana',
   },
   'RepackInfoRu': {
     languageEn: "Repack's description on russian language",
     languageRu: 'Описание репака на русском языке',
     languageUa: "Опис ріпаку російською мовою",
+    languageIt: 'Descrizione del repack in lingua russa',
   },
   'Screenshot': {
     languageEn: "Screenshot",
     languageRu: 'Скриншот',
     languageUa: "Скріншот",
+    languageIt: 'Screenshot',
   },
   'EmailAuthIsDisabled': {
     languageEn:
@@ -11284,6 +11327,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wygląda na to, że autoryzacja e-mail jest tymczasowo niedostępna, spróbuj zalogować się za pomocą Google!',
     languageDe:
         'Es sieht so aus, als ob die E-Mail-Autorisierung vorübergehend nicht verfügbar ist. Versuchen Sie, sich mit Google anzumelden!',
+    languageIt: 
+        'Sembra che l`autorizzazione dell`email sia temporaneamente non disponibile, prova ad accedere con Google!',
   },
   'UpdateFilters': {
     languageEn:
@@ -11292,11 +11337,14 @@ const Map<String, Map<String, String>> localeItems = {
         'Обнови фильтры и/или очисти строку поиска, чтобы отобразить список игр!',
     languageUa:
         "Онови фільтри та/або очисти рядок пошуку, щоб відобразити список ігор!",
+    languageIt: 
+        'Aggiorna i tuoi filtri e/o cancella la barra di ricerca per visualizzare l`elenco dei giochi!',
   },
   'DevelopedBy': {
     languageEn: "Developed by",
     languageRu: 'Разработано студией',
     languageUa: "Розроблено студією",
+    languageIt: 'Sviluppato da',
   },
   'OpenInYouTube': {
     languageEn: "Open this video in YouTube",
@@ -11304,6 +11352,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Відкрити відео в YouTube",
     languagePl: 'Otwieranie filmów w serwisie YouTube',
     languageDe: 'Öffnen Sie ein Video in YouTube',
+    languageIt: 'Apri questo video su YouTube',
   },
   'ImagesOpening': {
     languageEn: "Images opening",
@@ -11311,6 +11360,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Відкриття зображень",
     languagePl: 'Obrazy otwierające',
     languageDe: 'Bilder zur Eröffnung',
+    languageIt: 'Apertura delle immagini',
   },
   'ImagesOpeningDescription': {
     languageEn:
@@ -11323,6 +11373,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niektóre zrzuty ekranu zostaną otwarte po najechaniu na nie kursorem i przewinięciu w górę kółkiem myszy',
     languageDe:
         'Einige Screenshots werden geöffnet, wenn Sie mit der Maus darüber fahren und mit dem Mausrad nach oben scrollen',
+    languageIt: 
+        'Alcuni screenshot si apriranno al passaggio del mouse scorrendo verso l`alto con la rotellina del mouse',
   },
   'SkipAllTips': {
     languageEn: "Mark all hints as read",
@@ -11330,6 +11382,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Відзначити всі підказки прочитаними",
     languagePl: 'Zaznacz wszystkie podpowiedzi jako przeczytane',
     languageDe: 'Alle Eingabeaufforderungen als gelesen markieren',
+    languageIt: 'Contrassegna tutti i suggerimenti come letti',
   },
   'HintsMarkedAsRead': {
     languageEn:
@@ -11342,6 +11395,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Gotowe, wszystkie podpowiedzi i banery samouczka zostały oznaczone jako przeczytane.!',
     languageDe:
         "Erledigt, alle Prompts und Tutorial-Banner sind als gelesen markiert!",
+    languageIt: 
+        'Fatto, tutti i suggerimenti e i banner dei tutorial sono contrassegnati come letti!',
   },
   'SearchByImages': {
     languageEn: "Mark all hints as read",
@@ -11349,6 +11404,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Відзначити всі підказки прочитаними",
     languagePl: 'Zaznacz wszystkie podpowiedzi jako przeczytane',
     languageDe: 'Alle Eingabeaufforderungen als gelesen markieren',
+    languageIt: 'Contrassegna tutte le richieste come lette',
   },
   'VoteLimitExceededPlus': {
     languageEn:
@@ -11361,6 +11417,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wygląda na to, że dzienny limit polubień został wyczerpany. Zwiększ swoją reputację, aby podnieść limity!',
     languageDe:
         'Es sieht so aus, als ob dein tägliches Limit an Likes erschöpft ist. Steigern Sie Ihren Ruf, um Ihr Limit zu erhöhen!',
+    languageIt: 
+        'Sembra che il tuo limite giornaliero di Mi piace sia stato esaurito. Aumenta la tua reputazione per aumentare il tuo limite!',
   },
   'VoteLimitExceededMinus': {
     languageEn:
@@ -11373,6 +11431,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wygląda na to, że dzienny limit polubień został wyczerpany. Zwiększ swoją reputację, aby podnieść limit!',
     languageDe:
         'Es sieht so aus, als ob dein tägliches Limit an Ablehnungen erschöpft ist. Steigern Sie Ihren Ruf, um Ihr Limit zu erhöhen!',
+    languageIt: 
+        'Sembra che il tuo limite giornaliero di rifiuti sia stato esaurito. Aumenta la tua reputazione per aumentare il tuo limite!',
   },
   'ConfigUploadLimitExceeded': {
     languageEn:
@@ -11385,6 +11445,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wygląda na to, że dzienny limit przesyłania konfiguracji został wyczerpany. Podnieś poziom reputacji, aby zwiększyć limity!',
     languageDe:
         'Es sieht so aus, als ob Ihr tägliches Limit für das Hochladen von Konfigurationen ausgeschöpft ist. Erhöhen Sie Ihr Ansehen, um Ihr Limit zu erhöhen!',
+    languageIt: 
+        'Sembra che il limite giornaliero di caricamento della configurazione sia stato esaurito. Aumenta la tua reputazione per aumentare il tuo limite!',
   },
   'ReviewWriteLimitExceeded': {
     languageEn:
@@ -11397,6 +11459,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wygląda na to, że dzienny limit pisania recenzji został wyczerpany. Podnieś poziom reputacji, aby zwiększyć limity!',
     languageDe:
         'Es sieht so aus, als ob Ihr tägliches Limit für das Schreiben von Bewertungen ausgeschöpft ist. Erhöhen Sie Ihr Ansehen, um Ihr Limit zu erhöhen!',
+    languageIt: 
+        'Sembra che il tuo limite giornaliero per scrivere recensioni sia stato esaurito. Aumenta la tua reputazione per aumentare il tuo limite!',
   },
   'InvalidYouTubeUrl': {
     languageEn:
@@ -11409,6 +11473,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety nie będziemy mogli dodać tego filmu na YouTube, wygląda na to, że coś jest z nim nie tak 🙁. Upewnij się, że link został wprowadzony poprawnie, a wideo jest dostępne dla innych!',
     languageDe:
         'Leider können wir dieses YouTube-Video nicht hinzufügen, es sieht so aus, als ob etwas damit nicht stimmt 🙁. Vergewissern Sie sich, dass der Link korrekt eingegeben wurde und das Video für andere zugänglich ist!',
+    languageIt: 
+        'Sfortunatamente non saremo in grado di aggiungere questo video di YouTube, sembra che ci sia qualcosa che non va 🙁. Assicurati che il collegamento sia inserito correttamente e che il tuo video sia disponibile per gli altri!',
   },
   'GifAvatarIsNotAllowed': {
     languageEn:
@@ -11421,6 +11487,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety, twój poziom reputacji jest zbyt niski, by ustawić animowany awatar 🙁',
     languageDe:
         'Leider ist Ihr Ansehen zu gering, um einen animierten Avatar einzurichten 🙁',
+    languageIt: 
+        'Sfortunatamente, la tua reputazione è troppo bassa per creare un avatar animato 🙁',
   },
   'AvatarFrameIsNotAllowed': {
     languageEn:
@@ -11433,6 +11501,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety, twój poziom reputacji jest zbyt niski, by ustawić ramkę awatara 🙁',
     languageDe:
         'Leider ist Ihr Ansehen zu gering, um einen Avatarrahmen einzurichten 🙁',
+    languageIt: 
+        'Sfortunatamente, la tua reputazione è troppo bassa per impostare una cornice avatar 🙁',
   },
   'VideoIsNotAllowed': {
     languageEn:
