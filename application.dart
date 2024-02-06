@@ -9515,6 +9515,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Uwaga, na słabych komputerach funkcje efektów dźwiękowych mogą działać z niewielkim opóźnieniem 🙁',
     languageDe:
         'Bitte beachten Sie, dass die Soundeffektfunktionen auf schwachen Computern mit einer kurzen Verzögerung ausgeführt werden können 🙁',
+    languageIt: 
+        'Tieni presente che le funzionalità degli effetti sonori potrebbero funzionare con un leggero ritardo sui vecchi dispositivi 🙁',
   },
   'AutoUpdateAudio': {
     languageEn: "Automatically update sounds pack",
@@ -9522,6 +9524,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Авто-оновлювати звуковий пак',
     languagePl: 'Auto-Upgrade Sound Pack',
     languageDe: 'Auto-Aktualisieren des Soundpacks',
+    languageIt: 'Aggiorna automaticamente il pacchetto di suoni',
   },
   'AutoUpdateAudioDescription': {
     languageEn:
@@ -9534,36 +9537,44 @@ const Map<String, Map<String, String>> localeItems = {
         'Aplikacja samodzielnie sprawdzi dostępność aktualizacji pakietu audio przy każdym uruchomieniu aplikacji!',
     languageDe:
         'Die Anwendung wird bei jedem Start der Anwendung selbst nach Updates des Soundpacks suchen!',
+    languageIt: 
+        'L`applicazione controllerà automaticamente gli aggiornamenti del pacchetto audio ogni volta che viene avviato!',
   },
   'AllGames': {
     languageEn: 'All cool games in a single EasyGames library!',
     languageRu: 'Все крутые игры в библиотеке EasyGames!',
     languageUa: 'Всі круті ігри в єдиній бібліотеці EasyGames!',
+    languageIt: 'Tutti i fantastici giochi in un`unica libreria EasyGames!',
   },
   'AllGamesInOnePlace': {
     languageEn: 'We have collected all cool games in one unified place',
     languageRu: 'Мы собрали все самые крутые игры в одном едином месте',
     languageUa: 'Ми зібрали всі круті ігри в одному єдиному місці',
+    languageIt: 'Abbiamo raccolto tutti i giochi più interessanti in un unico posto',
   },
   'LogInEasily': {
     languageEn: 'Log-in easily to get started,',
     languageRu: 'Всё просто, никаких данных, кроме',
     languageUa: 'Все просто, ніяких даних, крім',
+    languageIt: 'Accedi facilmente per iniziare,',
   },
   'OnlyEmail': {
     languageEn: 'only your email',
     languageRu: 'твоей почты,',
     languageUa: 'твоєї пошти,',
+    languageIt: 'solo la tua email',
   },
   'IsNeeded': {
     languageEn: 'is needed',
     languageRu: 'нам не нужно',
     languageUa: 'нам не потрібно',
+    languageIt: 'è necessario',
   },
   'EmailTooltipEasyGames': {
     languageEn: 'Enter your email, no password is needed',
     languageRu: 'Введи свою почту, никаких паролей',
     languageUa: 'Введи свою пошту, ніяких паролів',
+    languageIt: 'Inserisci la tua email, non è necessaria alcuna password',
   },
   'LogInNoEmail': {
     languageEn: 'Log-in as a guest',
@@ -9571,16 +9582,19 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Увійти в гостьовому режимі',
     languagePl: 'Zaloguj się jako gość',
     languageDe: 'Als Gast anmelden',
+    languageIt: 'Accedi come ospite',
   },
   'LogInEmail': {
     languageEn: 'Log in With Email',
     languageRu: 'Войти с помощью почты',
     languageUa: 'Увійти за допомогою пошти',
+    languageIt: 'Accedi con l`e-mail',
   },
   'Or': {
     languageEn: 'or',
     languageRu: 'или',
     languageUa: 'або',
+    languageIt: 'o',
   },
   'AreYouSureGuestMode': {
     languageEn: 'Are you sure?',
@@ -9588,6 +9602,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Ти впевнен?',
     languagePl: "Czy jesteś tego pewien?",
     languageDe: "Sind Sie sich da sicher?",
+    languageIt: 'Sei sicuro?',
   },
   'DisadvantagesOfGuestMode': {
     languageEn:
@@ -9600,6 +9615,8 @@ const Map<String, Map<String, String>> localeItems = {
         "W trybie gościa nie będziesz mógł <bd>zostawiać <bd>komentarzy, <bd>oceniać <bd>modów <bd>i <bd>cfg, <bd>zapisywać <bd>statystyk, <bd>dostosowywać <bd>profilu, <bd>udostępniać <bd>konfiguracji, <bd>przesyłać <bd>filmów, <bd>wysyłać <bd>skarg, <bd>otrzymywać <bd>powiadomień i wykonywać żadnych innych działań społecznościowych!",
     languageDe:
         "Im Gästemodus kannst du keine <bd>Kommentare <bd>hinterlassen, <bd>Mods <bd>und <bd>cfgs <bd>bewerten, deine <bd>Statistiken <bd>speichern, dein <bd>Profil <bd>anpassen, <bd>Konfigurationen <bd>teilen, <bd>Videos <bd>hochladen, <bd>Beschwerden <bd>senden, <bd>Benachrichtigungen <bd>erhalten und andere soziale Aktionen durchführen!",
+    languageIt: 
+        'In modalità ospite non potrai <bd>lasciare <bd>commenti, <bd>valutare <bd>mod <bd>e <bd>configurazioni, <bd>salvare le tue <bd>statistiche, <bd>personalizza il tuo <bd>profilo, <bd>condividi <bd>configurazioni, <bd>carica <bd>video, <bd>invia <bd>reclami, <bd>ricevi <bd>notifiche ed esegui qualsiasi altra azione sociale!',
   },
   'UserAgreement': {
     languageEn:
@@ -9612,21 +9629,26 @@ const Map<String, Map<String, String>> localeItems = {
         "Klikając «Tak, zaloguj się jako gość» wyrażasz zgodę na umowę licencyjną użytkownika końcowego!",
     languageDe:
         "Wenn Sie auf «Ja, als Gast anmelden» klicken, erklären Sie sich mit der Endbenutzer-Lizenzvereinbarung einverstanden!",
+    languageIt: 
+        'Facendo clic su «Sì, accedi come ospite» accetti il ​​contratto di licenza con l`utente finale!',
   },
   'Guest': {
     languageEn: 'Guest',
     languageRu: 'Гость',
     languageUa: 'Гість',
+    languageIt: 'Ospite',
   },
   'Level': {
     languageEn: 'Level',
     languageRu: 'Уровень',
     languageUa: 'Рівень',
+    languageIt: 'Livello',
   },
   'MyDownloads': {
     languageEn: 'My downloads',
     languageRu: 'Мои загрузки',
     languageUa: 'Мої завантаження',
+    languageIt: 'I miei download',
   },
   'SettingsDescription': {
     languageEn:
@@ -9635,6 +9657,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Управляй внешним видом приложение, настройками загрузок, системами аудио и уведомлений, а также своим профилем!',
     languageUa:
         'Керуй зовнішнім виглядом додаток, настройками завантажень, системами аудіо і повідомлень, а також своїм профілем!',
+    languageIt: 
+        'Gestisci l`aspetto dell`app, le impostazioni di download, i sistemi audio e di notifica e le preferenze del tuo profilo!',
   },
   'ExploreOurCollection': {
     languageEn:
@@ -9643,31 +9667,38 @@ const Map<String, Map<String, String>> localeItems = {
         'В этом списке ты найдёшь как собранную нами коллекцию, так и вручную добавленные картинки',
     languageUa:
         'У цьому списку ти знайдеш як зібрану нами колекцію, так і вручну додані картинки',
+    languageIt: 
+        'In questo elenco troverai sia la libreria che abbiamo raccolto per te sia tutte le immagini aggiunte manualmente',
   },
   'Patch': {
     languageEn: 'patch',
     languageRu: 'патч',
     languageUa: 'патч',
+    languageIt: 'patch',
   },
   'IssueOrBug': {
     languageEn: 'Notify us about an issue',
     languageRu: 'Сообщить о проблеме',
     languageUa: 'Повідомити про помилку',
+    languageIt: 'Segnalaci un problema',
   },
   'SpeedLimit': {
     languageEn: 'Maximum games downloading speed',
     languageRu: 'Максимальная скорость загрузки игр',
     languageUa: 'Максимальна швидкість завантаження ігор',
+    languageIt: 'Velocità massima di download dei giochi',
   },
   'UploadSpeedLimit': {
     languageEn: 'Maximum games uploading speed',
     languageRu: 'Максимальная скорость отдачи игр',
     languageUa: 'Максимальна швидкість віддачі ігор',
+    languageIt: 'Velocità massima di caricamento dei giochi',
   },
   'UnlimitedIfEmpty': {
     languageEn: 'Unlimited if empty',
     languageRu: 'Без ограничений',
     languageUa: 'Без обмежень',
+    languageIt: 'Illimitato se vuoto',
   },
   'GBs': {
     languageEn: 'gb/s',
@@ -9675,6 +9706,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'гб/с',
     languagePl: "gb/s",
     languageDe: 'gb/s',
+    languageIt: 'gb/s',
   },
   'GB': {
     languageEn: 'gb',
@@ -9682,6 +9714,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'гб',
     languagePl: "gb",
     languageDe: 'gb',
+    languageIt: 'gb',
   },
   'MBs': {
     languageEn: 'mb/s',
@@ -9689,6 +9722,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'мб/с',
     languagePl: "mb/s",
     languageDe: 'mb/s',
+    languageIt: 'mb/s',
   },
   'MB': {
     languageEn: 'mb',
@@ -9696,6 +9730,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'мб',
     languagePl: "mb",
     languageDe: 'mb',
+    languageIt: 'mb',
   },
   'KBs': {
     languageEn: 'kb/s',
@@ -9703,6 +9738,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'кб/с',
     languagePl: "kb/s",
     languageDe: 'kb/s',
+    languageIt: 'kb/s',
   },
   'KB': {
     languageEn: 'kb',
@@ -9710,6 +9746,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'кб',
     languagePl: "kb",
     languageDe: 'kb',
+    languageIt: 'kb',
   },
   'Bs': {
     languageEn: 'b/s',
@@ -9717,6 +9754,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'б/с',
     languagePl: "b/s",
     languageDe: 'b/s',
+    languageIt: 'b/s',
   },
   'B': {
     languageEn: 'b',
@@ -9724,6 +9762,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'б',
     languagePl: "b",
     languageDe: 'b',
+    languageIt: 'b',
   },
   'PleaseMoreThanOneMb': {
     languageEn:
@@ -9732,11 +9771,14 @@ const Map<String, Map<String, String>> localeItems = {
         'Во избежание проблем с подключением к людям, раздающим\nили загружающим игры, мы не рекомендуем устанавливать\nлимиты ниже одного мегабайта в секунду!',
     languageUa:
         'Щоб уникнути проблем з підключенням до людей, які\nроздають або завантажують ігри, ми не рекомендуємо\nвстановлювати ліміти нижче одного мегабайта в секунду!',
+    languageIt: 
+        'Per evitare problemi di connessione con persone che\ncaricano o scaricano giochi, non consigliamo\ndi impostare limiti inferiori a un megabyte al secondo!',
   },
   'HideOnClose': {
     languageEn: 'Hide application to tray on minimize attempt',
     languageRu: 'Убирать приложение в трей при сворачивании',
     languageUa: 'Прибирати додаток в трей при згортанні',
+    languageIt: 'Nascondi l`applicazione nella barra delle applicazioni durante il tentativo di minimizzazione',
   },
   'HideOnCloseDescription': {
     languageEn:
@@ -9745,11 +9787,14 @@ const Map<String, Map<String, String>> localeItems = {
         'При попытке свернуть приложение через кнопку в верхнем меню, оно просто скроется в трей',
     languageUa:
         'При спробі згорнути програму через кнопку у верхньому меню, воно просто сховається в трей',
+    languageIt: 
+        'Quando provi a ridurre a icona l`app tramite il pulsante nel menu superiore, scomparirà semplicemente nel vassoio',
   },
   'DisplayResponsibilityDialog': {
     languageEn: 'Inform me about the responsibility',
     languageRu: 'Информировать меня об ответственности',
     languageUa: 'Інформувати мене про відповідальність',
+    languageIt: 'Informami sulla responsabilità',
   },
   'ResponsibilityDescription': {
     languageEn:
@@ -9758,36 +9803,44 @@ const Map<String, Map<String, String>> localeItems = {
         'Отключая данный переключатель ты автоматически соглашаешься со всем тем, что написано в информационном окне, отображаемом перед установкой любой игры!',
     languageUa:
         'Відключаючи даний перемикач ти автоматично погоджуєшся з усім тим, що написано в інформаційному вікні, що відображається перед установкою будь-якої гри!',
+    languageIt: 
+        'Disabilitando questo interruttore, accetti automaticamente tutto ciò che è scritto nella finestra di dialogo informativa visualizzata prima dell`installazione di qualsiasi gioco!',
   },
   'Nobody': {
     languageEn: 'Nobody',
     languageRu: 'Никто',
     languageUa: 'Ніхто',
+    languageIt: 'Nessuno',
   },
   'Anyone': {
     languageEn: 'Only friends',
     languageRu: 'Кто угодно',
     languageUa: 'Тільки друзі',
+    languageIt: 'Solo amici',
   },
   'OnlyFriends': {
     languageEn: 'Anyone',
     languageRu: 'Только друзья',
     languageUa: 'Хто завгодно',
+    languageIt: 'Chiunque',
   },
   'WhoCanAddMeToFriends': {
     languageEn: 'Who can add me to friends',
     languageRu: 'Кто может добавлять меня в друзья',
     languageUa: 'Хто може додавати мене в друзі',
+    languageIt: 'Chi può aggiungermi agli amici',
   },
   'WhoCanSeeMyActivity': {
     languageEn: 'Who can view my activity in my profile',
     languageRu: 'Кто может видеть мою активность в профиле',
     languageUa: 'Хто може бачити мою активність у профілі',
+    languageIt: 'Chi può visualizzare la mia attività nel mio profilo',
   },
   'WhoCanSeeMyStatsAndInfo': {
     languageEn: 'Who can view my stats and social networks',
     languageRu: 'Кто может видеть мою статистику и социальные сети',
     languageUa: 'Хто може бачити мою статистику та соціальні мережі',
+    languageIt: 'Chi può visualizzare le mie statistiche e i social network',
   },
   'NotAvailableInGuestMode': {
     languageEn:
@@ -9796,96 +9849,116 @@ const Map<String, Map<String, String>> localeItems = {
         'Похоже, что для доступа к этому разделу или же действую тебе нужна полноценная авторизация! Ты можешь выйти из гостевого режима, создать себе аккаунт и повторить попытку!',
     languageUa:
         'Схоже, що для доступу до цього розділу або ж дії тобі потрібна повноцінна авторизація! Ти можеш вийти з гостьового режиму, створити собі акаунт і повторити спробу!',
+    languageIt: 
+        'Sembra che sia necessaria la piena autorizzazione per accedere a questa sezione o per eseguire questa azione! Puoi uscire dalla modalità ospite, creare un account e riprovare!',
   },
   'Downloads': {
     languageEn: "Downloads",
     languageRu: 'Загрузки',
     languageUa: 'Завантаження',
+    languageIt: 'Download',
   },
   'ActiveDownloads': {
     languageEn: "Active downloads",
     languageRu: 'Активные загрузки',
     languageUa: 'Активні завантаження',
+    languageIt: 'Download attivi',
   },
   'StopAndErase': {
     languageEn: 'Cancel the downloading process and erase files',
     languageRu: 'Отменить загрузку и удалить файлы',
     languageUa: 'Скасувати завантаження і видалити файли',
+    languageIt: 'Annulla il processo di download e cancella i file',
   },
   'RemoveFromQueueErase': {
     languageEn: 'Remove from queue and erase files',
     languageRu: 'Убрать из очереди и удалить файлы',
     languageUa: 'Прибрати з черги і видалити файли',
+    languageIt: 'Rimuovi dalla coda e cancella i file',
   },
   'QueueAfterActive': {
     languageEn: 'Waiting for the active downloading process to complete',
     languageRu: 'В ожидании завершения активного процесса загрузки',
     languageUa: 'Очікування завершення активного процесу завантаження',
+    languageIt: 'In attesa del completamento del processo di download attivo',
   },
   'Pause': {
     languageEn: 'Pause the downloading process',
     languageRu: 'Поставить загрузку на паузу',
     languageUa: 'Поставити завантаження на паузу',
+    languageIt: 'Metti in pausa il processo di download',
   },
   'Resume': {
     languageEn: 'Resume the downloading process',
     languageRu: 'Возобновить процесс загрузки',
     languageUa: 'Відновити процес завантаження',
+    languageIt: 'Riprendi il processo di download',
   },
   'Queue': {
     languageEn: 'Queue',
     languageRu: 'Очередь',
     languageUa: 'Черга',
+    languageIt: 'Coda',
   },
   'DownloadWithoutQueue': {
     languageEn: 'Download out of queue',
     languageRu: 'Скачать вне очереди',
     languageUa: 'Завантажити позачергово',
+    languageIt: 'Download fuori coda',
   },
   'ControllDownloads': {
     languageEn: 'Manage active downloads and prioritise them',
     languageRu: 'Управляй активными загрузками и расставляй приоритеты',
     languageUa: 'Керуй активними завантаженнями та розставляйте пріоритети',
+    languageIt: 'Gestisci i download attivi e assegna loro la priorità',
   },
   'AverageSpeed': {
     languageEn: 'Average speed information',
     languageRu: 'Данные по средней скорости',
     languageUa: 'Дані про середню швидкість',
+    languageIt: 'Informazioni sulla velocità media',
   },
   'CurrentSpeed': {
     languageEn: 'Current speed information',
     languageRu: 'Данные по текущей скорости',
     languageUa: 'Дані поточної швидкості',
+    languageIt: 'Informazioni sulla velocità attuale',
   },
   'Downloaded': {
     languageEn: 'Downloaded',
     languageRu: 'Загружено',
     languageUa: 'Завантажено',
+    languageIt: 'Scaricato',
   },
   'Of': {
     languageEn: 'of',
     languageRu: 'из',
     languageUa: 'з',
+    languageIt: 'di',
   },
   'Left': {
     languageEn: 'Left',
     languageRu: 'Осталось',
     languageUa: 'Залишилось',
+    languageIt: 'Sinistra',
   },
   'NoActiveDownloads': {
     languageEn: 'You don’t have any active downloads',
     languageRu: 'У тебя нет активных загрузок',
     languageUa: 'У тебе немає активних завантажень',
+    languageIt: 'Non hai download attivi',
   },
   'ComeBackWhenDownloadsAreNotEmpty': {
     languageEn: 'Start downloading some game and it will show up here!',
     languageRu: 'Начни загружать какую-либо игру и она появится здесь!',
     languageUa: "Почни завантажувати будь-яку гру і вона з'явиться тут!",
+    languageIt: 'Inizia a scaricare un gioco e verrà visualizzato qui!',
   },
   'AddToFriends': {
     languageEn: 'Add to friends',
     languageRu: 'Добавить в друзья',
     languageUa: 'Додати в друзі',
+    languageIt: 'Aggiungi agli amici',
   },
   'WriteMessage': {
     languageEn: 'Write a message',
@@ -9893,6 +9966,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Написати повідомлення',
     languagePl: 'Napisz wiadomość',
     languageDe: 'Schreiben Sie eine Nachricht',
+    languageIt: 'Scrivi un messaggio',
   },
   'DateJoined': {
     languageEn: 'Date joined',
@@ -9900,11 +9974,13 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'З нами з',
     languagePl: 'Z nami od',
     languageDe: 'Bei uns seit',
+    languageIt: 'Data d`ingresso',
   },
   'Last online': {
     languageEn: 'Last online',
     languageRu: 'В сети',
     languageUa: 'В мережі',
+    languageIt: 'Ultimo Online',
   },
   'NoSocials': {
     languageEn:
@@ -9917,11 +9993,14 @@ const Map<String, Map<String, String>> localeItems = {
         'Ten użytkownik nie dodał jeszcze swoich sieci społecznościowych do ustawień profilu.',
     languageDe:
         'Dieser Benutzer hat seine sozialen Netzwerke noch nicht zu seinen Profileinstellungen hinzugefügt',
+    languageIt: 
+        'Questo utente non ha ancora aggiunto i suoi social network alle impostazioni del profilo',
   },
   'ReviewsMultiple': {
     languageEn: 'Reviews',
     languageRu: 'Отзывы',
     languageUa: 'Відгуки',
+    languageIt: 'Recensioni',
   },
   'TotalActivity': {
     languageEn: 'Total Activity',
