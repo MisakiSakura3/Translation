@@ -10519,6 +10519,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Uwaga, dla uzyskania najlepszej jakości zalecamy przesyłanie pełnoekranowych zrzutów ekranu bez przycinania!',
     languageDe:
         'Bitte beachten Sie, dass wir für eine optimale Qualität empfehlen, Screenshots im Vollbildmodus ohne Beschneidung hochzuladen!',
+    languageIt: 
+        'Tieni presente che ti consigliamo di caricare screenshot a schermo intero senza ritagli per ottenere la migliore qualità!',
   },
   'Visualization': {
     languageEn: 'Visualization',
@@ -10526,6 +10528,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Візуалізація',
     languagePl: 'Wizualizacja',
     languageDe: 'Visualisierung',
+    languageIt: 'Visualizzazione',
   },
   'Fire': {
     languageEn: 'Gunfire',
@@ -10533,6 +10536,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Стрільба',
     languagePl: 'Strzelanie',
     languageDe: "Schießen",
+    languageIt: 'Sparo',
   },
   'Additional': {
     languageEn: 'Additional',
@@ -10540,6 +10544,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Додатково',
     languagePl: 'Dodatkowe',
     languageDe: 'Extras',
+    languageIt: 'Ulteriori',
   },
   'Overwatch': {
     languageEn: 'Overwatch',
@@ -10547,6 +10552,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Патруль',
     languagePl: 'Overwatch',
     languageDe: 'Overwatch',
+    languageIt: 'Overwatch',
   },
   'Skins': {
     languageEn: 'Skins',
@@ -10554,6 +10560,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Скіни',
     languagePl: 'Skins',
     languageDe: 'Skins',
+    languageIt: 'Skins',
   },
   'HealthAndArmor': {
     languageEn: "Health and armor",
@@ -10561,6 +10568,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Здоров'я і броня",
     languagePl: 'Zdrowie i pancerz',
     languageDe: 'Gesundheit und Rüstung',
+    languageIt: 'Salute e armatura',
   },
   'DisplayHealth': {
     languageEn: "Display health bar",
@@ -10568,6 +10576,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Відображати смужку здоров'я",
     languagePl: 'Wyświetlanie paska zdrowia',
     languageDe: 'Anzeige der Gesundheitsleiste',
+    languageIt: 'Visualizza barra della salute',
   },
   'HealthColor': {
     languageEn: "Health bar color",
@@ -10575,6 +10584,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Колір смужки здоров'я",
     languagePl: 'Kolor paska zdrowia',
     languageDe: 'Die Farbe des Gesundheitsbalkens',
+    languageIt: 'Colore della barra della salute',
   },
   'DisplayArmor': {
     languageEn: "Display armor bar",
@@ -10582,6 +10592,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Відображати смужку броні",
     languagePl: 'Wyświetlanie listwy pancernej',
     languageDe: 'Panzerstreifen anzeigen',
+    languageIt: 'Visualizza barra dell`armatura',
   },
   'ArmorColor': {
     languageEn: "Armor bar color",
@@ -10589,6 +10600,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Колір смужки броні",
     languagePl: 'Kolor paska pancerza',
     languageDe: 'Farbe des Panzerstreifens',
+    languageIt: 'Colore della barra dell`armatura',
   },
   'WithDividers': {
     languageEn: "Indicator with separators",
@@ -10596,6 +10608,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Індикатор з роздільниками",
     languagePl: 'Wskaźnik z separatorami',
     languageDe: 'Indikator mit Trennzeichen',
+    languageIt: 'Indicatore con separatori',
   },
   'WithoutDividers': {
     languageEn: "Indicator without separators",
@@ -10603,6 +10616,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Індикатор без роздільників",
     languagePl: 'Wskaźnik bez separatorów',
     languageDe: "Indikator ohne Trennzeichen",
+    languageIt: 'Indicatore senza separatori',
   },
   'Ammunition': {
     languageEn: "Ammunition",
@@ -10610,6 +10624,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Амуніція",
     languagePl: "Amunicja",
     languageDe: 'Munition',
+    languageIt: 'Munizioni',
   },
   'DisplayAmmunition': {
     languageEn: "Display bullets bar",
@@ -10617,6 +10632,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Відображати смужку патрон",
     languagePl: 'Wyświetlanie paska wkładów',
     languageDe: 'Anzeige des Patronenstreifens',
+    languageIt: 'Visualizza barra dei proiettili',
   },
   'AmmunitionColor': {
     languageEn: "Bullets bar color",
@@ -10624,6 +10640,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Колір смужки патрон",
     languagePl: "Kolor paska wkładów",
     languageDe: "Farbe des Patronenstreifens",
+    languageIt: 'Colore della barra dei proiettili',
   },
   'Preview': {
     languageEn: "Preview",
@@ -10631,6 +10648,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Попередній перегляд",
     languagePl: 'Podgląd',
     languageDe: 'Vorschau',
+    languageIt: 'Anteprima',
   },
   'Weapon': {
     languageEn: "Weapon",
@@ -10638,6 +10656,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Зброя",
     languagePl: 'Broń',
     languageDe: "Waffen",
+    languageIt: 'Arma',
   },
   'DisplayWeapon': {
     languageEn: "Display selected weapon",
@@ -10645,6 +10664,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Відображати вибрану зброю",
     languagePl: 'Wyświetlanie wybranej broni',
     languageDe: 'Anzeige der ausgewählten Waffe',
+    languageIt: 'Visualizza l`arma selezionata',
   },
   'ByText': {
     languageEn: "With text",
@@ -10652,6 +10672,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Текстом",
     languagePl: 'Tekstem',
     languageDe: 'Mit Text',
+    languageIt: 'Con testo',
   },
   'ByIcon': {
     languageEn: "With icons",
@@ -10659,6 +10680,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Іконками",
     languagePl: 'Ikony',
     languageDe: 'Mit Ikonen',
+    languageIt: 'Con icone',
   },
   'IndicatorColor': {
     languageEn: "Indicator color",
@@ -10666,6 +10688,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Колір індикатора",
     languagePl: 'Kolor wskaźnika',
     languageDe: "Farbe des Indikators",
+    languageIt: 'Colore dell`indicatore',
   },
   'IndicatorsColor': {
     languageEn: "Flags indicators colors",
@@ -10673,6 +10696,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Колір прапорів індикаторів",
     languagePl: 'Kolor wskaźników flagowych',
     languageDe: 'Farbe der Flaggenanzeigen',
+    languageIt: 'Colori degli indicatori delle bandiere',
   },
   'Bomb': {
     languageEn: "Bomb",
@@ -10680,6 +10704,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Бомба",
     languagePl: 'Bomba',
     languageDe: 'Die Bombe',
+    languageIt: 'Bomba',
   },
   'DisplayBombTimer': {
     languageEn: "Display bomb timer",
@@ -10687,6 +10712,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Відображати таймер бомби",
     languagePl: 'Wyświetlanie timera bomby',
     languageDe: 'Anzeige des Bombentimers',
+    languageIt: 'Visualizza il timer della bomba',
   },
   'Flags': {
     languageEn: "Flags",
@@ -10694,6 +10720,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Прапори",
     languagePl: 'Flagi',
     languageDe: "Flaggen",
+    languageIt: 'Bandiere',
   },
   'DisplayNickname': {
     languageEn: "Display nickname",
@@ -10701,6 +10728,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Відображати нікнейм",
     languagePl: 'Wyświetlanie pseudonimu',
     languageDe: 'Spitzname anzeigen',
+    languageIt: 'Visualizza soprannome',
   },
   'DisplayScope': {
     languageEn: "Display scope",
@@ -10708,6 +10736,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Відображати прицілювання",
     languagePl: 'Wyświetlanie celowania',
     languageDe: 'Anzeige des Ziels',
+    languageIt: 'Mostra mirino',
   },
   'DisplayReloading': {
     languageEn: "Display reloading",
@@ -10715,6 +10744,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Відображати перезарядку",
     languagePl: 'Przeładowanie wyświetlacza',
     languageDe: 'Nachladen anzeigen',
+    languageIt: 'Mostra ricarica',
   },
   'DisplayBombCarrier': {
     languageEn: "Display bomb carrier",
@@ -10722,6 +10752,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Відображати наявність бомби",
     languagePl: "Wyświetlanie obecności bomby",
     languageDe: 'Vorhandensein einer Bombe anzeigen',
+    languageIt: 'Visualizza la presenza della bomba',
   },
   'DisplayFlashing': {
     languageEn: "Display flashing",
@@ -10729,6 +10760,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Відображати осліплення",
     languagePl: 'Wyświetlanie olśnienia',
     languageDe: "Blendung anzeigen",
+    languageIt: 'Mostra abbagliamento',
   },
   'NicknameBot': {
     languageEn: "Bot Josh",
@@ -10736,6 +10768,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Бот Андрій",
     languagePl: 'Bot Josh',
     languageDe: "Bot Josh",
+    languageIt: 'Bot Josh',
   },
   'HitBoxes': {
     languageEn: "Models hitboxes",
@@ -10743,6 +10776,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Хiтбокси моделей",
     languagePl: 'Modelowe hitboxy',
     languageDe: 'Modell-Hitboxen',
+    languageIt: 'Hitbox dei modelli',
   },
   'AddParallelepiped': {
     languageEn: "Wrap into a parallelepiped",
@@ -10750,6 +10784,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Поміщати в паралелепіпед",
     languagePl: 'Wstawianie równoległoboku',
     languageDe: 'Einsetzen eines Parallelepipeds',
+    languageIt: 'Inserimento di un parallelepipedo',
   },
   'HitBoxesColorVisible': {
     languageEn: "Visible hitboxes color",
@@ -10757,6 +10792,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Колір видимих хiтбоксiв",
     languagePl: 'Kolor widocznych hitboxów',
     languageDe: 'Farbe der sichtbaren Hitboxen',
+    languageIt: 'Colore degli hitbox visibili',
   },
   'HitBoxesColorInvisible': {
     languageEn: "Invisible models color",
@@ -10764,6 +10800,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Колір невидимих моделей",
     languagePl: 'Kolor niewidzialnych modeli',
     languageDe: 'Farbe der unsichtbaren Modelle',
+    languageIt: 'Colore dei modelli invisibili',
   },
   'AutoShoot': {
     languageEn: "Automatic shots",
@@ -10771,6 +10808,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Автоматичні постріли",
     languagePl: 'Zdjęcia automatyczne',
     languageDe: 'Automatische Aufnahmen',
+    languageIt: 'Sparo automatico',
   },
   'ShotWhenAimed': {
     languageEn: "Shoot on enemy hovering",
@@ -10778,6 +10816,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Стріляти при наведенні на ворогів",
     languagePl: 'Strzelaj, gdy wskazujesz na wrogów',
     languageDe: 'Schießen, wenn Sie auf Feinde zielen',
+    languageIt: 'Spara quando miri ai nemici',
   },
   'AlwaysWorking': {
     languageEn: "Activity type: always",
@@ -10785,6 +10824,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Тип роботи: завжди",
     languagePl: 'Rodzaj pracy: zawsze',
     languageDe: 'Art der Arbeit: immer',
+    languageIt: 'Tipo di attività: sempre',
   },
   'OnButtonPressing': {
     languageEn: "Activity type: on button pressing",
@@ -10792,6 +10832,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Тип роботи: по затисненню на кнопку",
     languagePl: 'Rodzaj działania: przez naciśnięcie przycisku',
     languageDe: 'Art der Bedienung: durch Drücken der Taste',
+    languageIt: 'Tipo di attività: alla pressione del pulsante',
   },
   'OnButtonSwitch': {
     languageEn: "Activity type: on/off on switch",
@@ -10799,6 +10840,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Тип роботи: вкл/викл по кнопці",
     languagePl: 'Rodzaj działania: włączanie/wyłączanie przyciskiem',
     languageDe: 'Betriebsart: ein/aus durch Druckknopf',
+    languageIt: 'Tipo di attività: on/off sul pulsante',
   },
   'ByButtonIfNotAlways': {
     languageEn: "Button key-binding is not enabled with activity type «always»",
@@ -10810,6 +10852,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Tryb pracy z przyciskiem jest aktywowany, gdy rodzaj pracy «zawsze» jest dezaktywowany',
     languageDe:
         'Der Tastenbetrieb wird aktiviert, wenn die Betriebsart «immer» deaktiviert ist',
+    languageIt: 
+        'Il funzionamento dei pulsanti viene attivato quando la modalità operativa «sempre» è disattivata',
   },
   'Obstacles': {
     languageEn: "Obstacles",
@@ -10817,6 +10861,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Перешкода",
     languagePl: 'Przeszkody',
     languageDe: 'Hindernisse',
+    languageIt: 'Ostacoli',
   },
   'AutoShootIgnoreFlash': {
     languageEn: "Ignore flashing",
@@ -10824,6 +10869,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Ігнорувати осліплення",
     languagePl: 'Zignorować oślepiający',
     languageDe: 'Ignorieren Sie die Blendung',
+    languageIt: 'Ignora il bagliore',
   },
   'AutoShootIgnoreJump': {
     languageEn: "Do not shoot while jumping",
@@ -10831,6 +10877,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Не стріляти в стрибку",
     languagePl: 'Nie strzelaj z wyskoku',
     languageDe: 'Nicht auf den Sprung schießen',
+    languageIt: 'Non sparare mentre salti',
   },
   'SniperRifles': {
     languageEn: "Sniper rifles",
@@ -10838,6 +10885,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Снайперські гвинтівки",
     languagePl: 'Karabiny snajperskie',
     languageDe: 'Scharfschützengewehre',
+    languageIt: 'Fucili da cecchino',
   },
   'DoNotShootWithoutScope': {
     languageEn: "Do not shoot without scope",
@@ -10845,6 +10893,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Не стріляти без прицілювання",
     languagePl: 'Nie strzelaj bez celowania',
     languageDe: 'Schießen Sie nicht ohne zu zielen',
+    languageIt: 'Non sparare senza mirino',
   },
   'ScopeAutomatically': {
     languageEn: "Scope automatically",
@@ -10852,6 +10901,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Прицілюватися автоматично",
     languagePl: 'Celuj automatycznie',
     languageDe: 'Automatisch zielen',
+    languageIt: 'Mira automaticamente',
   },
   'WeaponSelection': {
     languageEn: "Weapon selection",
@@ -10859,6 +10909,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Вибір зброї",
     languagePl: 'Wybór broni',
     languageDe: 'Auswahl der Waffen',
+    languageIt: 'Scelta delle armi',
   },
   'WeaponSelectionDescription': {
     languageEn:
@@ -10871,6 +10922,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wszystkie ustawienia w tym dziale dotyczą wszystkich broni jednocześnie. Dodatkowa optymalizacja dla każdego typu broni odbywa się po stronie samej modyfikacji!',
     languageDe:
         'Alle Einstellungen in diesem Abschnitt gelten für alle Waffen auf einmal. Zusätzliche Optimierungen für jeden Waffentyp finden auf der Seite der Modifikation selbst statt!',
+    languageIt: 
+        'Tutte le impostazioni in questa sezione si applicano a tutte le armi contemporaneamente. Ulteriori ottimizzazioni per ciascun tipo di arma vengono apportate nella pagina di modifica stessa!',
   },
   'ShootDelay': {
     languageEn: "Delays",
@@ -10878,6 +10931,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Затримки",
     languagePl: 'Opóźnienia',
     languageDe: 'Verzögerungen',
+    languageIt: 'Ritardi',
   },
   'ShootPreFireDelay': {
     languageEn: "Delay before shooting",
@@ -10885,6 +10939,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Затримка перед пострілом",
     languagePl: 'Opóźnienie przed odpaleniem',
     languageDe: 'Verzögerung vor dem Abschuss',
+    languageIt: 'Ritardo prima di sparare',
   },
   'ShootBetweenFireDelay': {
     languageEn: "Delay between shots",
@@ -10892,6 +10947,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Затримка між пострілами",
     languagePl: 'Opóźnienie między strzałami',
     languageDe: 'Verzögerung zwischen Schüssen',
+    languageIt: 'Ritardo tra gli spari',
   },
   'AutoDelayDescription': {
     languageEn:
@@ -10904,6 +10960,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Uwaga, czasy opóźnienia są obliczane automatycznie na podstawie odległości między tobą a przeciwnikiem.',
     languageDe:
         'Beachten Sie, dass die Verzögerungszeiten automatisch auf der Grundlage der Entfernung zwischen Ihnen und Ihrem Gegner berechnet werden.',
+    languageIt: 
+        'Tieni presente che la durata del ritardo viene calcolata automaticamente in base alla distanza tra te e il tuo avversario.',
   },
   'PreFireDelay': {
     languageEn: "Pre-fire delay will be applied only to sniper rifles",
@@ -10914,6 +10972,7 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl:
         'Opóźnienie przed strzałem dotyczy tylko karabinów snajperskich',
     languageDe: 'Verzögerung vor dem Schuss gilt nur für Scharfschützengewehre',
+    languageIt: 'Il ritardo prima di sparare si applica solo ai fucili di precisione',
   },
   'RiflesAndPistols': {
     languageEn: "Rifles and pistols",
@@ -10921,6 +10980,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Автомати і пістолети",
     languagePl: 'Karabiny maszynowe i pistolety',
     languageDe: 'Maschinengewehre und Pistolen',
+    languageIt: 'Fucili e pistole',
   },
   'DoNotStopOnKill': {
     languageEn: "Keep shooting after killing",
@@ -10928,6 +10988,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Продовжувати вогонь при вбивстві",
     languagePl: 'Kontynuuj strzelanie do morderstwa',
     languageDe: 'Weiterschießen bei einem Mord',
+    languageIt: 'Continua a sparare dopo aver ucciso',
   },
   'DoNotStopOnKillDescription': {
     languageEn:
@@ -10940,6 +11001,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Aby zmaksymalizować legalność twojej gry podczas oglądania powtórek z patroli, Exwift nie będzie przerywać strzelania natychmiast po zabiciu. Ta funkcja dotyczy większości karabinów i niektórych pistoletów.',
     languageDe:
         'Um die Legitimität Ihres Spiels beim Betrachten von Patrouillenwiederholungen zu maximieren, hört Exwift nach einem Kill nicht sofort auf zu schießen. Diese Funktion gilt für die meisten Gewehre und einige Pistolen.',
+    languageIt: 
+        'Per la massima legittimazione del tuo stile di gioco, Exwift non smetterà di sparare subito dopo gli omicidi. Potrebbe farti apparire meglio in Overwatch. Questa funzione si applica alla maggior parte dei fucili e ad alcune pistole.',
   },
   'JumpHelper': {
     languageEn: "Jump helper",
