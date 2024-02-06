@@ -9004,6 +9004,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Скасувати запуск',
     languagePl: 'Anuluj uruchomienie',
     languageDe: 'Start abbrechen',
+    languageIt: 'Annulla l`avvio',
   },
   'AntiCheatWarning': {
     languageEn:
@@ -9016,6 +9017,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Zwróć uwagę, {game} ma bardzo dobry system anty-cheat, co oznacza, że prawie wszystkie bezpłatne modyfikacje mogą spowodować zbanowanie Twojego konta lub przestać działać po najmniejszej aktualizacji gry. Zalecamy używanie modyfikacji tylko na koncie, którego nie żałujesz i nie jesteś do nich szczególnie obcy!',
     languageDe:
         'Bitte beachten Sie, dass {game} ein sehr gutes Antichitsystem hat, was bedeutet, dass fast alle kostenlosen Modifikationen dein Konto verbannen oder nach der geringsten Aktualisierung des Spiels nicht mehr funktionieren können. Wir empfehlen, die Modifikationen nur auf dem Konto zu verwenden, das dir nicht leid tut und dich nicht besonders daran gewöhnt!',
+    languageIt: 
+        'Tieni presente che {game} ha un ottimo sistema anti-cheat, il che significa che quasi tutte le modifiche gratuite possono portare a un ban dal gioco o smettere di funzionare dopo il più piccolo aggiornamento del gioco. Ti consigliamo di utilizzare queste modifiche solo su quegli account che non ti pentirai di perdere e non ti abituerai molto!',
   },
   'CodeIsCopied': {
     languageEn:
@@ -9026,6 +9029,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Kod autoryzacji został pomyślnie skopiowany do twojego schowka!',
     languageDe:
         "Der Autorisierungscode wurde erfolgreich in die Zwischenablage kopiert!",
+    languageIt: 
+        'Il codice di autorizzazione è stato copiato con successo nei tuoi appunti!',
   },
   'FailedToCopyCode': {
     languageEn: "Couldn't copy this authorization code to your clipboard!",
@@ -9036,6 +9041,7 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl: 'Nie można skopiować podanego kodu autoryzacji do schowka!',
     languageDe:
         "Dieser Autorisierungscode konnte nicht in die Zwischenablage kopiert werden!",
+    languageIt: 'Impossibile copiare questo codice di autorizzazione negli appunti!',
   },
   'YouAuthCode': {
     languageEn: "Your authorization code",
@@ -9043,6 +9049,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Твій код авторизації',
     languagePl: 'Twój kod autoryzacji',
     languageDe: 'Dein Autorisierungscode',
+    languageIt: 'Il tuo codice di autorizzazione',
   },
   'CodeIsValidWithin30Minutes': {
     languageEn:
@@ -9055,6 +9062,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Ten kod wygaśnie po 30 minutach, może się przydać na etapie autoryzacji w menu modyfikacji!',
     languageDe:
         'Dieser Code läuft nach 30 Minuten ab und kann während der Autorisierungsphase im Modifikationsmenü nützlich sein!',
+    languageIt: 
+        'Questo codice scadrà entro i prossimi 30 minuti, potrebbe essere utile in fase di autorizzazione nel menù di modifica!',
   },
   'SpecifyPathForMobile': {
     languageEn: "Specify the installation path of the modification's APK file:",
@@ -9063,6 +9072,7 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl: 'Określ ścieżkę instalacji pliku APK modyfikacji:',
     languageDe:
         'Geben Sie den Installationspfad der APK-Datei der Modifikation an:',
+    languageIt: 'Specificare il percorso di installazione del file APK della modifica:',
   },
   'CFGAndLuaSwitcher': {
     languageEn:
@@ -9075,6 +9085,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niektóre modyfikacje obsługują nie tylko instalowanie\nkonfiguracji, ale także LUA. Przełączanie między nimi\njest tutaj!',
     languageDe:
         'Einige Modifikationen unterstützen nicht nur die Installation von\nKonfigurationen, sondern auch LUA. Der Wechsel zwischen den\nbeiden ist hier!',
+    languageIt: 
+        'Alcune modifiche supportano non solo l`installazione di\nconfigurazioni, ma anche LUA. Puoi passare da uno all`altro qui!',
   },
   'CFG': {
     languageEn: "Configurations",
@@ -9082,6 +9094,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Конфігурації',
     languagePl: 'Konfiguracje',
     languageDe: 'Konfigurationen',
+    languageIt: 'Configurazioni',
   },
   'LUA': {
     languageEn: "LUA scipts",
@@ -9089,6 +9102,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'ЛУА скрипти',
     languagePl: 'Skrypty LUA',
     languageDe: 'LUA Skripte',
+    languageIt: 'Script LUA',
   },
   'IAmUploadingLUA': {
     languageEn: "This file is a LUA, not a configuration",
@@ -9096,6 +9110,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Даний файл є LUA, а не конфігурація',
     languagePl: 'Dany plik to LUA, a nie konfiguracja',
     languageDe: 'Diese Datei ist eine LUA-Datei, keine Konfiguration',
+    languageIt: 'Questo file è un LUA, non una configurazione',
   },
   'ConfigWillBeReplaced': {
     languageEn:
@@ -9108,6 +9123,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Ustawienie tej konfiguracji lub Lua nadpisze jeden z wcześniej zainstalowanych plików. Może to być spowodowane tym, że wielu autorów przesłało różne konfiguracje lub LUA, które mają tę samą nazwę pliku. Kontynuować instalację?',
     languageDe:
         "Legt diese Konfiguration fest, oder die LUA überschreibt eine der zuvor installierten Dateien. Dies kann daran liegen, dass mehrere Autoren unterschiedliche Konfigurationen heruntergeladen haben oder dass LUA denselben Dateinamen haben. Möchten Sie die Installation fortsetzen?",
+    languageIt: 
+        'L`installazione di questa configurazione o LUA sovrascriverà uno dei file installati in precedenza. Ciò potrebbe essere correlato al fatto che diversi autori hanno caricato configurazioni o LUA diversi con lo stesso nome. Vuoi continuare l`installazione?',
   },
   'ModificationsNotificationsFormat': {
     languageEn: "Format of modifications notifications",
@@ -9115,6 +9132,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Формат повідомлень про модифікації',
     languagePl: 'Format powiadomień o modyfikacjach',
     languageDe: 'Format für Modifikationnenbenachrichtigungen',
+    languageIt: 'Formato delle notifiche di modifica',
   },
   'AsDialog': {
     languageEn: "In special dialog on application's startup",
@@ -9122,6 +9140,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'В окремому вікні при запуску програми',
     languagePl: 'W osobnym oknie podczas uruchamiania aplikacji',
     languageDe: 'In einem separaten Fenster beim Starten der Anwendung',
+    languageIt: 'In una finestra separata all`avvio dell`applicazione',
   },
   'InPage': {
     languageEn: "On the notifications page with the rest of the notifications",
@@ -9129,6 +9148,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'На сторінці повідомлень з іншими повідомленнями',
     languagePl: 'Na stronie powiadomień z pozostałymi powiadomieniami',
     languageDe: 'Auf der Benachrichtigungsseite mit anderen Benachrichtigungen',
+    languageIt: 'Nella pagina delle notifiche con altre notifiche',
   },
   'MonoFlags': {
     languageEn:
@@ -9141,6 +9161,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Aby uruchomić ten mod, może być konieczne określenie wartości Namespace, Class i Method. Możesz określić te wartości tutaj, oddzielając je przecinkami!',
     languageDe:
         'Möglicherweise müssen Sie Werte für Namespace, Class und Method angeben, um diese Mod auszuführen. Sie können diese Werte hier durch Kommas getrennt angeben!',
+    languageIt: 
+        'Potrebbe essere necessario specificare i valori di spazio dei nomi, classe e metodo per eseguire questa mod. Puoi specificare questi valori qui separati da virgole!',
   },
   'SteamModule': {
     languageEn:
@@ -9153,6 +9175,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Jeśli do uruchomienia modyfikacji konieczne jest wstrzyknięcie specjalnego modułu Steam, możesz go dodać tutaj:',
     languageDe:
         'Wenn Sie ein spezielles Steam-Modul injizieren müssen, um die Modifikation auszuführen, können Sie es hier hinzufügen:',
+    languageIt: 
+        'Se la modifica richiede l`inserimento di un modulo Steam speciale per il suo lancio, puoi aggiungere il suo file qui:',
   },
   'ConfigComplaint': {
     languageEn:
@@ -9165,6 +9189,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Jeśli przyczyną Twojej skargi jest niedziałająca konfiguracja lub Lua skryptu - daj mu niechęć, aby inni użytkownicy nie napotkali tego samego problemu, gdy rozpatrujemy Twoją skargę!',
     languageDe:
         'Wenn die Ursache deiner Beschwerde eine fehlerhafte Konfiguration oder ein Script-LUA ist, lege ihm einen Dizlaik hin, damit andere Benutzer nicht auf das gleiche Problem stoßen, während wir deine Beschwerde bearbeiten!',
+    languageIt: 
+        'Se la causa del tuo reclamo è un`errata configurazione o uno script LUA, invia un messaggio in modo che altri utenti non incontrino lo stesso problema mentre elaboriamo il tuo reclamo!',
   },
   'PayAttentionToCFG': {
     languageEn:
@@ -9177,6 +9203,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Zwróć uwagę, Ta konfiguracja lub Lua ma bardzo\nniską ocenę, być może coś jest z nią nie tak!',
     languageDe:
         'Bitte beachten Sie, dass diese Konfiguration\noder LUA eine sehr niedrige Bewertung hat,\nvielleicht stimmt etwas mit ihm nicht!',
+    languageIt: 
+        'Tieni presente che questa configurazione o LUA ha una valutazione\nmolto bassa, forse c`è qualcosa che non va!',
   },
   'ConfigMayDiffer': {
     languageEn:
@@ -9189,6 +9217,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Konfiguracja lub LUA ze zrzutu ekranu może różnić się od aktualnej wersji. Uwaga,\ndane obrazu są przesyłane przez autora karty, a nie przez administrację projektu!',
     languageDe:
         'Die Konfiguration oder das LUA aus dem Screenshot kann sich von der aktuellen Version unterscheiden. Bitte\nbeachten Sie, dass diese Bilder vom Autor der Karte geladen werden, nicht von der Projektverwaltung!',
+    languageIt: 
+        'La configurazione o LUA dello screenshot potrebbe differire dalla versione effettiva. Tieni presente\nche queste immagini vengono caricate dall`autore della mappa e non dall`amministrazione del progetto!',
   },
   'ImagesDeletion': {
     languageEn: "Images deletion",
@@ -9196,6 +9226,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Видалення зображень',
     languagePl: 'Usuwanie obrazów',
     languageDe: 'Löschen von Bildern',
+    languageIt: 'Eliminazione di immagini',
   },
   'VideoDeletion': {
     languageEn: "Delete video review",
@@ -9203,6 +9234,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Видалити відео-огляд',
     languagePl: 'Usuń recenzję wideo',
     languageDe: 'Videobewertung löschen',
+    languageIt: 'Elimina la recensione video',
   },
   'Needed': {
     languageEn: "Needed",
@@ -9210,6 +9242,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Потрібно',
     languagePl: 'Wymagane',
     languageDe: 'Erforderlich',
+    languageIt: 'Necessario',
   },
   'PirateClient': {
     languageEn: "Pirate game client",
@@ -9217,6 +9250,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Піратський клієнт гри',
     languagePl: 'Piracki klient gry',
     languageDe: 'Piraten Spiel Client',
+    languageIt: 'Client di gioco pirata',
   },
   'OfficialClient': {
     languageEn: "Official game client",
@@ -9224,6 +9258,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Офіційний клієнт гри',
     languagePl: 'Oficjalny klient gry',
     languageDe: 'Offizieller Spiel Client',
+    languageIt: 'Client di gioco ufficiale',
   },
   'SteamClient': {
     languageEn: "Steam version of the game",
@@ -9231,6 +9266,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Версія гри зі Steam',
     languagePl: 'Wersja gry ze Steam',
     languageDe: 'Steam Version des Spiels',
+    languageIt: 'Versione Steam del gioco',
   },
   'NoOriginalClient': {
     languageEn: "Do not launch this mod on Steam/EpicGames/Microsoft/any other original version of the game, it is only created for the pirated version of the game!",
@@ -9238,6 +9274,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Не запускай цей мод на Steam/EpicGames/Microsoft/будь-якій іншій оригінальній версії гри, він створений лише під піратську версію гри!',
     languagePl: 'Nie uruchamiaj tego moda na Steam/EpicGames/Microsoft/jakiejkolwiek innej oryginalnej wersji gry, jest on stworzony tylko dla pirackiej wersji gry!',
     languageDe: 'Führen Sie diese Mod nicht auf Steam/EpicGames/Microsoft/jeder anderen Originalversion des Spiels aus, sie ist nur für die raubkopierte Version des Spiels erstellt!',
+    languageIt: 'Non avviare questa mod su Steam/EpicGames/Microsoft/qualsiasi altra versione originale del gioco, è creata solo per la versione piratata del gioco!',
   },
   'MultiPlayer': {
     languageEn: "Multiplayer version of the game",
@@ -9245,6 +9282,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Версія гри: Мультиплеєр',
     languagePl: 'Wersja gry: Multiplayer',
     languageDe: 'Spielversion: Multiplayer',
+    languageIt: 'Versione multigiocatore del gioco',
   },
   'SinglePlayer': {
     languageEn: "Singleplayer version of the game",
@@ -9252,6 +9290,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Версія гри: Синглплеєр',
     languagePl: 'Wersja gry: Singleplayer',
     languageDe: 'Spielversion: Einzelspieler',
+    languageIt: 'Versione per giocatore singolo del gioco',
   },
   'EpicGamesClient': {
     languageEn: "EpicGames version of the game",
@@ -9259,6 +9298,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Версія гри з EpicGames',
     languagePl: 'Wersja gry z EpicGames',
     languageDe: 'EpicGames Version des Spiels',
+    languageIt: 'Versione EpicGames del gioco',
   },
   'MicrosoftClient': {
     languageEn: "Microsoft version of the game",
@@ -9266,6 +9306,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Версія гри з Microsoft',
     languagePl: 'Wersja gry z Microsoft',
     languageDe: 'Microsoft Version des Spiels',
+    languageIt: 'Versione Microsoft del gioco',
   },
   'ItchIOClient': {
     languageEn: "Itch.io version of the game",
@@ -9273,6 +9314,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Версія гри з Itch.io',
     languagePl: 'Wersja gry z Itch.io',
     languageDe: 'Itch.io Version des Spiels',
+    languageIt: 'Versione Itch.io del gioco',
   },
   'DriverMode': {
     languageEn: "Driver version",
@@ -9280,6 +9322,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Драйверна версія',
     languagePl: 'Driver wersja',
     languageDe: 'Driver Version',
+    languageIt: 'Versione del driver',
   },
   'UserMode': {
     languageEn: "Usermode version",
@@ -9287,6 +9330,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Юзер-мод версія',
     languagePl: 'Wersja trybu użytkownika',
     languageDe: 'Version im Benutzermodus',
+    languageIt: 'Versione in modalità utente',
   },
   'Audio': {
     languageEn: "Audio",
@@ -9294,6 +9338,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Аудіо',
     languagePl: 'Audio',
     languageDe: 'Audio',
+    languageIt: 'Audio',
   },
   'StartupAudio': {
     languageEn: "Funny voice acting on application's startup",
@@ -9301,6 +9346,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Забавна озвучка при запуску програми',
     languagePl: 'Zabawny głos podczas uruchamiania aplikacji',
     languageDe: 'Lustige Stimme beim Starten der App',
+    languageIt: 'Voce divertente all`avvio dell`app',
   },
   'NoAudio': {
     languageEn: "Without audio",
@@ -9308,6 +9354,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Без озвучення',
     languagePl: 'Bez głosu',
     languageDe: 'Keine Stimme',
+    languageIt: 'Senza audio',
   },
   'BuiltIn': {
     languageEn: "Play random voice acting that is built into the app",
@@ -9315,6 +9362,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Програвати випадкову озвучку, вбудовану в додаток',
     languagePl: 'Odtwarzanie losowego głosu wbudowanego w aplikację',
     languageDe: 'In der App eingebettete zufällige Sprachausgabe wiedergeben',
+    languageIt: 'Riproduci una voce fuori campo casuale incorporata nell`app',
   },
   'CustomAudio': {
     languageEn:
@@ -9326,6 +9374,8 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl: 'Odtwarzaj losowy głos tylko z listy własnych plików audio',
     languageDe:
         'Zufallswiedergabe nur aus der Liste Ihrer eigenen Audiodateien wiedergeben',
+    languageIt: 
+        'Riproduci una voce fuori campo casuale solo dall`elenco dei tuoi file audio',
   },
   'BothAudioModes': {
     languageEn: "Use both custom and built-in in the app voice actings",
@@ -9337,6 +9387,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Używać zarówno natywnych, jak i wbudowanych w aplikację lektorów',
     languageDe:
         'Verwenden Sie sowohl eigene als auch in der App integrierte Sprachausgaben',
+    languageIt: 
+        'Utilizza sia le tue voci fuori campo che quelle integrate nell`app',
   },
   'SoundVolume': {
     languageEn: "Sound volume as a percentage",
@@ -9344,6 +9396,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Гучність звуків у відсотках',
     languagePl: 'Głośność dźwięków w procentach',
     languageDe: 'Die Lautstärke der Töne in Prozent',
+    languageIt: 'Volume del suono in percentuale',
   },
   'AddCustomSounds': {
     languageEn: "Add custom audio",
@@ -9351,6 +9404,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Додати свою озвучку',
     languagePl: 'Dodaj swój głos',
     languageDe: 'Eigene Stimme hinzufügen',
+    languageIt: 'Aggiungi audio personalizzato',
   },
   'HandlingAudio': {
     languageEn: "Processing the selected audio...",
@@ -9358,6 +9412,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Обробляємо обране аудіо...',
     languagePl: 'Przetwarzamy wybrany dźwięk...',
     languageDe: 'Wir verarbeiten das ausgewählte Audio...',
+    languageIt: 'Elaborazione dell`audio selezionato...',
   },
   'YourAudioIsSaved': {
     languageEn: "Your audio has been successfully saved!",
@@ -9365,6 +9420,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Твоє аудіо успішно збережено!',
     languagePl: 'Twój dźwięk został pomyślnie zapisany!',
     languageDe: 'Dein Audio wurde erfolgreich gespeichert!',
+    languageIt: 'Il tuo audio è stato salvato con successo!',
   },
   'AddCustomSoundsDescription': {
     languageEn:
@@ -9377,6 +9433,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Możesz dodać swoje pliki audio dla funkcji zabawnych lektorów podczas uruchamiania aplikacji. Nie zapomnij zmienić opcji losowania lektorów po dodaniu plików!',
     languageDe:
         'Sie können Ihre Audiodateien für die Fun-Voiceover-Funktion beim Start der App. Vergiss nicht, die Option für die Randomisierung von Voices zu ändern, nachdem du deine Dateien hinzugefügt hast!',
+    languageIt: 
+        'Puoi salvare i tuoi file audio per la divertente funzione voiceover quando avvii l`app. Non dimenticare di modificare l`opzione di randomizzazione vocale dopo aver aggiunto i file!',
   },
   'TestVolume': {
     languageEn: "Test volume",
@@ -9384,6 +9442,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Протестувати гучність',
     languagePl: 'Przetestuj głośność',
     languageDe: 'Lautstärke testen',
+    languageIt: 'Test del volume',
   },
   'Standard': {
     languageEn: "Standard",
@@ -9391,6 +9450,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Стандартний',
     languagePl: 'Standardowy',
     languageDe: 'Standard',
+    languageIt: 'Predefinito',
   },
   'HoverEffect': {
     languageEn: "Hover sound effect",
@@ -9398,6 +9458,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Звуковий ефект наведення',
     languagePl: 'Efekt dźwiękowy najechania',
     languageDe: 'Hover Sound Effekt',
+    languageIt: 'Effetto sonoro al passaggio del mouse',
   },
   'ClickEffect': {
     languageEn: "Click sound effect",
@@ -9405,6 +9466,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Звуковий ефект кліка',
     languagePl: 'Efekt dźwiękowy kliknięcia',
     languageDe: 'Klick Sound Effekt',
+    languageIt: 'Effetto sonoro del click',
   },
   'DeleteAudio': {
     languageEn: "Deletion of manually added sounds",
@@ -9412,6 +9474,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Видалення вручну доданих звуків',
     languagePl: 'Ręczne usuwanie dodanych dźwięków',
     languageDe: 'Manuell hinzugefügte Sounds löschen',
+    languageIt: 'Eliminazione manuale degli effetti sonori aggiunti',
   },
   'AudioAssetsAreNeeded': {
     languageEn:
@@ -9424,6 +9487,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Aby funkcjonalność działała poprawnie z tej zakładki, musisz pobrać dodatkowe pliki za pomocą przycisku poniżej!',
     languageDe:
         'Um die Funktionalität dieser Registerkarte korrekt zu nutzen, musst du zusätzliche Dateien mit dem unten stehenden Button herunterladen!',
+    languageIt: 
+        'Affinché questa parte delle impostazioni funzioni correttamente, è necessario scaricare file audio aggiuntivi utilizzando il pulsante in basso!',
   },
   'FailedToInstallAudio': {
     languageEn:
@@ -9436,6 +9501,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety nie udało nam się zainstalować niezbędnych plików audio, spróbuj powtórzyć proces instalacji trochę później 🙁',
     languageDe:
         'Leider konnten wir die erforderlichen Audiodateien nicht installieren, versuchen Sie, den Installationsvorgang ein wenig später zu wiederholen 🙁',
+    languageIt: 
+        'Sfortunatamente, il processo di installazione dei file audio non è riuscito, riprova più tardi 🙁',
   },
   'OldPCsAndSounds': {
     languageEn:
