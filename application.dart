@@ -8507,6 +8507,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Закрити інсталятор',
     languagePl: 'Zamknij instalator',
     languageDe: "Installationsprogramm schließen",
+    languageIt: 'Chiudi il programma di installazione',
   },
   'OpenExLoader': {
     languageEn: 'Launch ExLoader',
@@ -8514,6 +8515,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Відкрити ExLoader',
     languagePl: 'Otwórz ExLoader',
     languageDe: "ExLoader öffnen",
+    languageIt: 'Avvia ExLoader',
   },
   'OpenExLoaderAndOffers': {
     languageEn: 'Continue and open the ExLoader',
@@ -8521,6 +8523,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Продовжити і відкрити ExLoader',
     languagePl: 'Kontynuuj i otwórz ExLoader',
     languageDe: 'Weiter und ExLoader öffnen',
+    languageIt: 'Continua e apri ExLoader',
   },
   'CloseInstallerAndOffers': {
     languageEn: 'Continue and close the installer',
@@ -8528,6 +8531,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Продовжити і закрити інсталятор',
     languagePl: 'Kontynuuj i zamknij instalator',
     languageDe: "Fortfahren und das Programm schließen",
+    languageIt: 'Continua e chiudi il programma di installazione',
   },
   'EverythingIsDoneShort': {
     languageEn: 'Everything is done, application is ready to use!',
@@ -8535,6 +8539,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Все готово, ExLoader доступен до використання!',
     languagePl: 'Wszystko gotowe, Aplikacja jest dostępna do użycia',
     languageDe: "Alles ist bereit, ExLoader ist einsatzbereit!",
+    languageIt: 'Tutto è fatto, l`applicazione è pronta per l`uso!',
   },
   'ErrorDuringInstallation': {
     languageEn:
@@ -8547,6 +8552,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Niestety wystąpił błąd podczas instalacji Exloadera. Aby to naprawić, sprawdź ustawienia zapory i programu antywirusowego, a następnie spróbuj ponownie zainstalować naszą aplikację! Może powinieneś spróbować włączyć/wyłączyć VPN. Lista oprogramowania, które może powodować konflikty [może nie być pełna]: ',
     languageDe:
         "Leider ist bei der Installation von ExLoader ein Fehler aufgetreten. Um es zu beseitigen, überprüfen Sie die Einstellungen Ihrer Firewall und Ihres Antivirenprogramms und versuchen Sie die Installation erneut! Vielleicht sollten Sie versuchen, VPN zu aktivieren oder zu deaktivieren. Die Liste der gefundenen widersprüchlichen Anwendungen [möglicherweise nicht vollständig]: ",
+    languageIt: 
+        'Sfortunatamente, si è verificato un errore durante l`installazione di ExLoader. Per eliminarlo, controlla le impostazioni del firewall e dell`antivirus e prova a eseguire nuovamente l`installazione! Forse dovresti provare ad abilitare o disabilitare la VPN. L`elenco delle applicazioni in conflitto trovate [potrebbe non essere completo]: ',
   },
   'UnifiedLibrarySlogan': {
     languageEn: 'Unified library of game modifications',
@@ -8554,6 +8561,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Єдина бібліотека ігрових модифікацій',
     languagePl: 'Ujednolicona biblioteka modyfikacji gry',
     languageDe: "Die einzige Bibliothek mit Spielmodifikationen",
+    languageIt: 'Libreria unificata di modifiche al gioco',
   },
   'UpdateFile': {
     languageEn: "Application's update file is not chosen yet",
@@ -8561,6 +8569,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Файл оновлення поки не вибран',
     languagePl: 'Plik aktualizacji nie został jeszcze wybrany',
     languageDe: "Es wurde noch keine Update-Datei ausgewählt",
+    languageIt: 'Il file di aggiornamento dell`applicazione non è stato ancora scelto',
   },
   'UpdateIsNeeded': {
     languageEn:
@@ -8573,6 +8582,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Masz zainstalowanego starą wersję Exloadera, zaktualizuj go do nowej wersji za pomocą Google Play, aby z niego korzystać!',
     languageDe:
         "Sie haben einen alten ExLoader-Client installiert. Bitte führen Sie ein Upgrade auf die neue Version mit Google Play durch, um fortzufahren!",
+    languageIt: 
+        'Hai installato un vecchio client ExLoader. Per continuare, esegui l`upgrade alla nuova versione con Google Play!',
   },
   'AppIsUpdated': {
     languageEn: "Application is updated!",
@@ -8580,6 +8591,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Додаток оновлено!',
     languagePl: 'Aplikacja została zaktualizowana!',
     languageDe: "Die App wurde aktualisiert!",
+    languageIt: 'L`applicazione è aggiornata!',
   },
   'DelailedListOfChanges': {
     languageEn:
@@ -8592,6 +8604,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Jeśli jesteś zainteresowany, możesz przeczytać szczegółową listę zmian na naszym oficjalnym kanale {Social}, dostępnym za pomocą przycisku poniżej',
     languageDe:
         "Wenn Sie interessiert sind, können Sie eine detaillierte Liste der Änderungen in unserem offiziellen {Social}-Kanal lesen, der durch Klicken auf die Schaltfläche unten verfügbar ist",
+    languageIt: 
+        'Se sei interessato, puoi leggere l`elenco dettagliato delle modifiche nel nostro canale {Social} ufficiale, disponibile con il pulsante qui sotto',
   },
   'DoNotForgetToMarkConfig': {
     languageEn:
@@ -8604,6 +8618,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Nie zapomnij ocenić konfiguracji po graniu z\nnią, aby pomóc innym użytkownikom z\nwyborem wysokiej jakości konfiguracji!',
     languageDe:
         "Vergessen Sie nicht, die Konfiguration zu bewerten, nachdem Sie damit gespielt haben,\num anderen Benutzern bei der Auswahl einer qualitativ hochwertigen Konfiguration zu helfen!",
+    languageIt: 
+        'Non dimenticare di valutare la configurazione dopo averla giocata per aiutare gli altri utenti a scegliere una configurazione di qualità!',
   },
   'ExloaderLauncher': {
     languageEn: "Launch with ExLoader",
@@ -8611,6 +8627,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Запуск за допомогою ExLoader',
     languagePl: 'Uruchom za pomocą Exloadera',
     languageDe: "Starten mit ExLoader",
+    languageIt: 'Avvia con ExLoader',
   },
   'OriginalLauncher': {
     languageEn:
@@ -8623,6 +8640,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Uruchom za pomocą natywnego programu uruchamiającego modyfikacje (dla tych, którzy mają problemy z pierwszą opcją)',
     languageDe:
         "Starten Sie über den nativen Modifikations-Launcher (für diejenigen, die Probleme mit der ersten Option haben)",
+    languageIt: 
+        'Avvia tramite il launcher della modifica ufficiale (per chi ha problemi con la prima opzione)',
   },
   'CrashesStats': {
     languageEn: "Crashes statistics for this day",
@@ -8630,6 +8649,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Статистика за вильотами за день',
     languagePl: 'Statystyki awarii dla tego dnia',
     languageDe: "Statistiken über Crashes pro Tag",
+    languageIt: 'Statistiche sugli arresti anomali per questo giorno',
   },
   'Crashes': {
     languageEn: "Modifications crashes",
@@ -8637,6 +8657,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Вильоти модифікацій',
     languagePl: 'Odloty modyfikacji',
     languageDe: "Crashes von Mods",
+    languageIt: 'Arresti anomali delle modifiche',
   },
   'CrashesDescription': {
     languageEn: "Data on game crashes due to modifications usage",
@@ -8644,6 +8665,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Дані по вильотах ігор при використанні модифікацій',
     languagePl: 'Dane dotyczące odlotów gier podczas korzystania z modów',
     languageDe: "Daten zu Spielabstürzen bei Verwendung von Mods",
+    languageIt: 'Dati sugli arresti anomali del gioco dovuti all`utilizzo delle modifiche',
   },
   'SearchByUsers': {
     languageEn: "Search among users",
@@ -8651,6 +8673,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Пошук серед користувачів',
     languagePl: 'Szukaj wśród użytkowników',
     languageDe: "Suchen Sie unter Benutzern",
+    languageIt: 'Cerca tra gli utenti',
   },
   'WaitingForInput': {
     languageEn: "Enter something to the search-bar to get the users list",
@@ -8662,6 +8685,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Wpisz cokolwiek w pasku wyszukiwania, aby uzyskać listę użytkowników!',
     languageDe:
         "Geben Sie etwas in die Suchleiste ein, um eine Liste der Benutzer zu erhalten!",
+    languageIt: 
+        'Inserisci qualcosa nella barra di ricerca per ottenere l`elenco degli utenti',
   },
   'WillBeUnbanned': {
     languageEn: "User will be unbanned",
@@ -8669,6 +8694,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Користувач буде розбанен',
     languagePl: 'Użytkownik zostanie zdemontowany',
     languageDe: "Der Benutzer wird entsperrt",
+    languageIt: 'L`utente vuole essere sbloccato',
   },
   'NoComplaintsHere': {
     languageEn:
@@ -8679,6 +8705,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Żadnych skarg! Wygląda na to, że wszystko zostało już przetworzone',
     languageDe:
         "Keine Beschwerden! Es scheint, dass bereits alles verarbeitet wurde",
+    languageIt: 
+        'Non ci sono lamentele! Sembra che tutto sia già stato elaborato',
   },
   'ConfigsDeletion': {
     languageEn: "Configurations deletion",
@@ -8686,6 +8714,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Видалення конфігурацій',
     languagePl: 'Usuwanie konfiguracji',
     languageDe: "Konfigurationen löschen",
+    languageIt: 'Elimina configurazioni',
   },
   'ReviewsDeletion': {
     languageEn: "Reviews deletion",
@@ -8693,6 +8722,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Видалення коментарів',
     languagePl: 'Usuwanie komentarzy',
     languageDe: "Kommentare löschen",
+    languageIt: 'Elimina i commenti',
   },
   'DeleteJustThisReview': {
     languageEn: "Delete only this review",
@@ -8700,6 +8730,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Видалити лише цей коментар',
     languagePl: 'Usuń tylko ten komentarz',
     languageDe: "Nur diesen Kommentar löschen",
+    languageIt: 'Basta eliminare questo commento',
   },
   'DeleteJustThisConfig': {
     languageEn: "Delete only this configuration",
@@ -8707,6 +8738,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Видалити лише цю конфігурацію',
     languagePl: 'Usuń tylko tę konfigurację',
     languageDe: "Löschen Sie nur diese Konfiguration",
+    languageIt: 'Elimina solo questa configurazione',
   },
   'DeleteAllReviewsForWeek': {
     languageEn: "Delete all reviews written during this week",
@@ -8714,6 +8746,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Видалити всі коментарі за тиждень',
     languagePl: 'Usuń wszystkie komentarze napisane w tym tygodniu',
     languageDe: "Lösche alle Kommentare für eine Woche",
+    languageIt: 'Elimina tutti i commenti per una settimana',
   },
   'DeleteAllConfigsForWeek': {
     languageEn: "Delete all configurations uploaded during this week",
@@ -8721,6 +8754,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Видалити всі конфігурації за тиждень',
     languagePl: 'Usuń wszystkie konfiguracje przesłane w tym tygodniu',
     languageDe: "Löschen Sie alle Konfigurationen in eine Woche",
+    languageIt: 'Elimina tutte le configurazioni per una settimana',
   },
   'DeleteAllReviews': {
     languageEn: "Delete all user's reviews",
@@ -8728,6 +8762,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Видалити всі коментарі за весь час',
     languagePl: 'Usuń wszystkie komentarze użytkownika',
     languageDe: "Alle Kommentare für immer löschen",
+    languageIt: 'Elimina tutti i commenti dell`utente',
   },
   'DeleteAllConfigs': {
     languageEn: "Delete all user's configurations",
@@ -8735,6 +8770,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Видалити всі конфігурації за весь час",
     languagePl: "Usuń wszystkie konfiguracje użytkownika",
     languageDe: "Alle Kommentare für alle Zeit löschen",
+    languageIt: 'Elimina tutte le configurazioni dell`utente',
   },
   'Name': {
     languageEn: "Title",
@@ -8742,6 +8778,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Назва',
     languagePl: 'Nazwa',
     languageDe: "Name",
+    languageIt: 'Titolo',
   },
   'File': {
     languageEn: "File",
@@ -8749,6 +8786,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Файл',
     languagePl: 'Plik',
     languageDe: "Datei",
+    languageIt: 'File',
   },
   'DescriptionTitle': {
     languageEn: "Description",
@@ -8756,6 +8794,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Опис',
     languagePl: 'Opis',
     languageDe: "Beschreibung",
+    languageIt: 'Descrizione',
   },
   'AppropriateExtension': {
     languageEn: "Approptiate extension",
@@ -8763,6 +8802,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Вірне розширення',
     languagePl: 'Prawidłowe rozszerzenie',
     languageDe: "Wahre Erweiterung",
+    languageIt: 'Estensione adeguata',
   },
   'NotPresent': {
     languageEn: "Not set",
@@ -8770,6 +8810,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Відсутній',
     languagePl: 'Być nieobecnym',
     languageDe: "Nicht gesetzt",
+    languageIt: 'Non impostato',
   },
   'FastGameSwitch': {
     languageEn:
@@ -8781,6 +8822,8 @@ const Map<String, Map<String, String>> localeItems = {
     languagePl:
         'Szybki skok do strony wyboru gry z innymi\nmodyfikacjami można znaleźć tutaj!',
     languageDe: "Ein schneller wechsel zwischen spielen ist hier möglich",
+    languageIt: 
+        'Un rapido salto alla pagina di selezione del gioco\ncon altre modifiche puoi trovarle qui!',
   },
   'SpecialThanksForTranslation': {
     languageEn:
@@ -8793,6 +8836,8 @@ const Map<String, Map<String, String>> localeItems = {
         "Specjalne podziękowania dla {users} za pomoc w przetłumaczeniu Exloadera na ten język!",
     languageDe:
         'Besonderer Dank geht an {users} für die Hilfe beim Übersetzen von ExLoader in diese Sprache',
+    languageIt: 
+        'Un ringraziamento speciale a {users} per il loro aiuto nella traduzione di ExLoader per questa lingua!',
   },
   'ChooseGameFirst': {
     languageEn: "To open the library, you need to choose some game first!",
@@ -8800,6 +8845,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Для заходу в бібліотеку тобі необхідно вибрати гру!',
     languagePl: 'Aby wejść do biblioteki, musisz wybrać grę!',
     languageDe: 'Um die Bibliothek zu betreten, musst du ein Spiel auswählen',
+    languageIt: 'Per aprire la libreria, devi prima scegliere un gioco!',
   },
   'ThatPlaceWhere': {
     languageEn:
@@ -8812,6 +8858,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Chcesz wiedzieć, w którym folderze instalowane są\nkonfiguracje i inne pliki modyfikacji? To Ty tutaj!',
     languageDe:
         'Möchten Sie wissen, in welchem Ordner die anderen\nModifizierungsdateien installiert werden? Dann komm her!',
+    languageIt: 
+        'Hai bisogno di scoprire in quali cartelle sono installati i file di configurazione e gli altri\nfile di modifica? Allora clicca qui!',
   },
   'NoModificationsForThisMethod': {
     languageEn:
@@ -8824,6 +8872,8 @@ const Map<String, Map<String, String>> localeItems = {
         'W tej chwili w Bibliotece ExLoadera nie ma modyfikacji obsługujących ten sposób wstrzykiwania 🙁',
     languageDe:
         'Momentan gibt es in der ExLoader-Bibliothek keine Modifikationen, die diese Injektionsmethode unterstützen 🙁',
+    languageIt: 
+        'Al momento, non ci sono modifiche nella libreria ExLoader che supportano questo metodo di iniezione 🙁',
   },
   'ListIsSorted': {
     languageEn:
@@ -8836,6 +8886,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Zwróć uwagę, lista modyfikacji jest posortowana według gry, którą aktualnie wybrałeś!',
     languageDe:
         "Bitte beachten Sie, die Liste der Modifikationen ist nach dem Spiel sortiert, das Sie gerade ausgewählt haben!",
+    languageIt: 
+        'Attenzione, l`elenco delle modifiche è ordinato in base al gioco scelto al momento!',
   },
   // (Used in settings for changing how application's window corners look like)
   'Rounding': {
@@ -8844,6 +8896,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Заокруглення країв',
     languagePl: 'Zaokrąglanie krawędzi',
     languageDe: "Kanten abrunden",
+    languageIt: 'Arrotondamento degli angoli',
   },
   // Rounding is turned off, absent
   '0.0Rounding': {
@@ -8852,6 +8905,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Відсутнє',
     languagePl: 'Brak',
     languageDe: 'Fehlt',
+    languageIt: 'Disattivato',
   },
   // Types of rounding(small/average/big/etc.)
   '6.0Rounding': {
@@ -8860,6 +8914,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Маленьке',
     languagePl: 'Małe',
     languageDe: 'Kleine',
+    languageIt: 'Poco',
   },
   '9.0Rounding': {
     languageEn: "Average",
@@ -8867,6 +8922,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Середнє',
     languagePl: 'Średnie',
     languageDe: 'Mittlere',
+    languageIt: 'medio',
   },
   '12.0Rounding': {
     languageEn: "Strong",
@@ -8874,6 +8930,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Сильне',
     languagePl: 'Mocne',
     languageDe: 'Starke',
+    languageIt: 'Tanto',
   },
   'FailedToApplySystemFeature': {
     languageEn: "Unfortunately, your system does not support this feature 🙁",
@@ -8881,6 +8938,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'На жаль, твоя система не підтримує цю функцію 🙁',
     languagePl: 'Niestety, twój system nie obsługuje tej funkcji 🙁',
     languageDe: 'Leider unterstützt Ihr System diese Funktion nicht 🙁',
+    languageIt: 'Sfortunatamente, il tuo sistema non supporta questa funzionalità 🙁',
   },
   'WindowSize': {
     languageEn: "ExLoader window size",
@@ -8888,6 +8946,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Розмір вікна ExLoader',
     languagePl: 'Rozmiar okna ExLoadera',
     languageDe: 'Größe des ExLoader-Fensters',
+    languageIt: 'Dimensioni della finestra di ExLoader',
   },
   'SizeChangeConsequences': {
     languageEn:
@@ -8900,6 +8959,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Zmiana rozmiaru okna aplikacji może spowodować, że niektóre widżety zaczną przeskakiwać podczas przewijania lub po najechaniu na nie kursorem myszy. Niestety ten problem jest bezpośrednio związany z silnikiem naszej aplikacji i zostanie naprawiony tylko wtedy, gdy zostanie naprawiony przez programistów frameworka 🙁',
     languageDe:
         'Das Ändern der Größe des Anwendungsfensters kann dazu führen, dass einige Widgets beim Scrollen oder beim Bewegen der Maus über sie springen. Leider hängt dieses Problem direkt mit der Engine unserer Anwendung zusammen und wird nur behoben, wenn es von den Entwicklern des Frameworks repariert wird 🙁',
+    languageIt: 
+        'La modifica delle dimensioni della finestra dell`applicazione potrebbe causare il salto di alcuni widget durante lo scorrimento o mentre si passa sopra con il cursore del mouse. Sfortunatamente, questo problema è direttamente correlato al motore della nostra applicazione e verrà risolto solo quando gli sviluppatori del framework lo risolveranno 🙁',
   },
   'Modification': {
     languageEn: "Modification",
@@ -8907,6 +8968,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Модифікація',
     languagePl: 'Modyfikacja',
     languageDe: 'Modifikation',
+    languageIt: 'Modifica',
   },
   'SuspsendedProcessFound': {
     languageEn:
@@ -8919,6 +8981,8 @@ const Map<String, Map<String, String>> localeItems = {
         "Uwaga, ten błąd można po prostu pominąć za pomocą przycisku poniżej! Jeśli modyfikacja nadal się uruchamia po pominięciu tego błędu, możesz go zignorować!\n\nWygląda na to, że Twoje oprogramowanie antywirusowe lub inny system zamroził dostęp do procesu {game}. Jest to niezwykle rzadki problem, jednak nie będzie trudno go rozwiązać - wystarczy ponownie uruchomić komputer i powinien sam zniknąć, takie rzeczy!",
     languageDe:
         "Beachten Sie, dass dieser Fehler mit der Schaltfläche unten einfach übersprungen werden kann! Wenn die Modikitaion nach dem Überspringen dieses Fehlers immer noch beginnt, können Sie ihn einfach ignorieren!\n\nEs scheint, dass deine Antivirensoftware oder ein anderes System den Zugriff auf den {game} Prozess eingefroren hat. Dies ist ein äußerst seltenes Problem, aber es wird nicht schwierig sein, es zu lösen - starte einfach den Computer neu und es sollte von selbst verschwinden, das sind die Dinge!",
+    languageIt: 
+        'Tieni presente che questo errore può essere semplicemente ignorato utilizzando il pulsante in basso! Se la modifica si avvia senza problemi dopo aver saltato questo errore, puoi semplicemente ignorare questo avviso!\n\nSembra che il tuo software antivirus o qualche altro sistema abbia bloccato l`accesso al processo del {game}. Questo è un problema estremamente raro, tuttavia non sarà difficile risolverlo: basta riavviare il computer e dovrebbe scomparire da solo! Sembra brutto, lo sappiamo!',
   },
   'HelpToFixTranslationIssues': {
     languageEn:
@@ -8931,6 +8995,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Znalazłeś błąd w tłumaczeniu aplikacji lub chcesz nam pomóc\nw tłumaczeniu Exloadera na inny język? Więc napisz tutaj!',
     languageDe:
         'Haben Sie einen Fehler bei der Übersetzung der Anwendung\ngefunden oder möchten Sie uns bei der Übersetzung von\nExLoader in eine andere Sprache helfen? Dann schreib hier!',
+    languageIt: 
+        'Hai trovato un errore nella traduzione dell`applicazione o vuoi\naiutarci con la sua traduzione in un`altra lingua? Allora scrivi qui!',
   },
   'CancelLaunch': {
     languageEn: "Cancel the launch",
