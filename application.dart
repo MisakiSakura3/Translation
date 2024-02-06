@@ -10006,71 +10006,85 @@ const Map<String, Map<String, String>> localeItems = {
     languageEn: 'Total Activity',
     languageRu: 'Общая активность',
     languageUa: 'Загальна активність',
+    languageIt: 'Attività totale',
   },
   'YouHave': {
     languageEn: 'You have',
     languageRu: 'У тебя',
     languageUa: 'В тебе',
+    languageIt: 'Hai',
   },
   'NewFirst': {
     languageEn: 'new',
     languageRu: 'новых',
     languageUa: 'нових',
+    languageIt: 'nuovo',
   },
   'NewSecond': {
     languageEn: 'new',
     languageRu: 'новое',
     languageUa: 'нове',
+    languageIt: 'nuovo',
   },
   'UnreadFirst': {
     languageEn: 'unread',
     languageRu: 'непрочитанных',
     languageUa: 'непрочитаних',
+    languageIt: 'non letto',
   },
   'UnreadSecond': {
     languageEn: 'unread',
     languageRu: 'непрочитанное',
     languageUa: 'непрочитане',
+    languageIt: 'non letto',
   },
   'NotificationsFirst': {
     languageEn: 'notification',
     languageRu: 'уведомление',
     languageUa: 'сповіщення',
+    languageIt: 'notifica',
   },
   'NotificationsSecond': {
     languageEn: 'notifications',
     languageRu: 'уведомления',
     languageUa: 'сповіщення',
+    languageIt: 'notifiche',
   },
   'NotificationsThird': {
     languageEn: 'notifications',
     languageRu: 'уведомлений',
     languageUa: 'сповіщень',
+    languageIt: 'notifiche',
   },
   'NewNotifications': {
     languageEn: 'New notifications',
     languageRu: 'Новые уведомления',
     languageUa: 'Нові повідомлення',
+    languageIt: 'Nuove notifiche',
   },
   'History': {
     languageEn: 'History',
     languageRu: 'История',
     languageUa: 'Історія',
+    languageIt: 'Cronologia',
   },
   'AcceptedFriendReqest': {
     languageEn: 'has accepted your friend request.',
     languageRu: 'принял(а) твою заявку в друзья.',
     languageUa: 'прийняв(ла) твою заявку в друзі',
+    languageIt: 'ha accettato la tua richiesta di amicizia.',
   },
   'Accept': {
     languageEn: 'Accept',
     languageRu: 'Принять',
     languageUa: 'Прийняти',
+    languageIt: 'Accettare',
   },
   'Decline': {
     languageEn: 'Decline',
     languageRu: 'Отклонить',
     languageUa: 'Відхилити',
+    languageIt: 'Non accettare',
   },
   'NotificationsGuide': {
     languageEn:
@@ -10079,36 +10093,44 @@ const Map<String, Map<String, String>> localeItems = {
         'Комментируй чужие отзывы, жалуйся на нарушителей, добавляй других пользователей к себе в друзья, подписуйся на уведомления о выходе релизов и эта вкладка наполнится различными уведомлениями!',
     languageUa:
         'Коментуй чужі відгуки, скаржся на порушників, додавай інших користувачів до себе в друзі, підписуйся на сповіщення про вихід релізів і ця вкладка наповниться різноманітними сповіщеннями!',
+    languageIt: 
+        'Commenta le recensioni di altre persone, lamentati degli autori di abusi, aggiungi altri utenti al tuo amico, iscriviti per ricevere notifiche sulle uscite e questa schermata si riempirà di varie notifiche!',
   },
   'BugReports': {
     languageEn: 'about issues',
     languageRu: 'о багах',
     languageUa: 'про баги',
+    languageIt: 'sui problemi',
   },
   'MessageFirst': {
     languageEn: 'Message',
     languageRu: 'Сообщение',
     languageUa: 'Повідомлення',
+    languageIt: 'Messaggio',
   },
   'MessageSecond': {
     languageEn: 'Messages',
     languageRu: 'Сообщения',
     languageUa: 'Повідомлення',
+    languageIt: 'Messaggi',
   },
   'MessageThird': {
     languageEn: 'Messages',
     languageRu: 'Сообщений',
     languageUa: 'Повідомлень',
+    languageIt: 'Messaggi',
   },
   'BugReportsTitle': {
     languageEn: 'Issues',
     languageRu: 'Проблемы',
     languageUa: 'Проблеми',
+    languageIt: 'Problemi',
   },
   'BugReportsDescription': {
     languageEn: 'List of bug reports from users',
     languageRu: 'Список багрепортов от пользователей',
     languageUa: 'Список багрепортів від користувачів',
+    languageIt: 'Elenco delle segnalazioni di bug da parte degli utenti',
   },
   'ModUpdatesTitle': {
     languageEn: 'Mods updates',
@@ -10116,6 +10138,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Оновлення модів',
     languagePl: 'Aktualizacje modów',
     languageDe: 'Mod-Aktualisierungen',
+    languageIt: 'Aggiornamenti delle mod',
   },
   'ModUpdatesDescription': {
     languageEn: 'List of mod update reports',
@@ -10123,36 +10146,43 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Список репортів на оновлення модів',
     languagePl: "Lista raportów aktualizacji modów",
     languageDe: "Liste der Mod-Update-Berichte",
+    languageIt: 'Elenco dei rapporti sugli aggiornamenti delle mod',
   },
   'Unresolved': {
     languageEn: 'Unresolved',
     languageRu: 'Не просмотрено',
     languageUa: 'Не оброблено',
+    languageIt: 'Irrisolto',
   },
   'Resolved': {
     languageEn: 'Resolved',
     languageRu: 'Просмотрено',
     languageUa: 'Оброблено',
+    languageIt: 'Risolto',
   },
   'Active': {
     languageEn: 'Active',
     languageRu: 'Активные',
     languageUa: 'Активні',
+    languageIt: 'Attivo',
   },
   'ReviewedComplaint': {
     languageEn: ' has handled the complaint about ',
     languageRu: ' рассмотрел(а) жалобу на ',
     languageUa: ' обробив(а) скаргу на ',
+    languageIt: ' ha gestito il reclamo in merito ',
   },
   'Actions': {
     languageEn: 'Actions',
     languageRu: 'Действия',
     languageUa: 'Дії',
+    languageIt: 'Azioni',
   },
   'WeCouldNotFindAnythingInBookmarks': {
     languageEn: 'It seems that right now your library is empty',
     languageRu: 'Похоже, что в твоей библиотеке ещё ничего нет',
     languageUa: 'Схоже, шо в твоїй бібліотеці ще нічого немає',
+    languageIt: 'Sembra che in questo momento la tua libreria sia vuota',
   },
   'AddGamesToBookmarks': {
     languageEn:
@@ -10163,51 +10193,62 @@ const Map<String, Map<String, String>> localeItems = {
         'Додавай ігри в обране для швидкого запуску або їх завантаження',
     languagePl: 'Dodaj gry do zakładek, aby uruchomić je szybciej',
     languageDe: "Fügen des Spiels zu den Favoriten hinzu",
+    languageIt: 
+        'Aggiungi giochi ai segnalibri per l`avvio rapido o il download',
   },
   "Filters": {
     languageEn: 'Filters',
     languageRu: 'Фильтры',
     languageUa: 'Сортування',
+    languageIt: 'Filtri',
   },
   "ClearFilters": {
     languageEn: 'Clear filters',
     languageRu: 'Очистить фильтры',
     languageUa: 'Оновити сортування',
+    languageIt: 'Cancella filtri',
   },
   'RemoveGame': {
     languageEn: 'Erase game files',
     languageRu: 'Удалить игру',
     languageUa: 'Видалити гру',
+    languageIt: 'Cancella i file di gioco',
   },
   'OpenFolderWithGame': {
     languageEn: "Open game's folder",
     languageRu: 'Открыть папку с игрой',
     languageUa: 'Відкрити папку з грою',
+    languageIt: 'Apri la cartella del gioco',
   },
   'NotifyOnRelease': {
     languageEn: 'Notify me',
     languageRu: 'Уведомить меня',
     languageUa: 'Повідомити мене',
+    languageIt: 'Avvisami',
   },
   'Unsubscribe': {
     languageEn: 'Unsubscribe',
     languageRu: 'Отписаться',
     languageUa: 'Відписатися',
+    languageIt: 'Annulla l`iscrizione',
   },
   'AddToSideMenu': {
     languageEn: 'Add game to bookmarks',
     languageRu: 'Добавить игру в закладки',
     languageUa: 'Додати гру в закладки',
+    languageIt: 'Aggiungi il gioco ai segnalibri',
   },
   'RemoveFromSideMenu': {
     languageEn: 'Remove game from bookmarks',
     languageRu: 'Убрать игру из закладок',
     languageUa: 'Прибрати гру з закладок',
+    languageIt: 'Rimuovi il gioco dai segnalibri',
   },
   'PurchaseGame': {
     languageEn: 'Purchase this game in an official store',
     languageRu: 'Приобрести эту игру в официальном магазине',
     languageUa: 'Придбати цю гру в офіційному магазині',
+    languageIt: 'Acquista questo gioco in un negozio ufficiale',
   },
   'NotYetAvailable': {
     languageEn:
@@ -10216,11 +10257,14 @@ const Map<String, Map<String, String>> localeItems = {
         'Обрати внимание, зачастую репаки игр появляются лишь через несколько дней после выхода игры, а не одновременно с её релизом!',
     languageUa:
         "Зверни увагу, найчастіше ріпаки ігор з'являються лишь через декілька днів після виходу гри, а не одночасно с її релізом!",
+    languageIt: 
+        'Tieni presente che i repack dei giochi sono spesso disponibili solo entro pochi giorni dal rilascio ufficiale del gioco, non immediatamente dopo il suo rilascio!',
   },
   'EstematedReleaseDate': {
     languageEn: 'Release date',
     languageRu: 'Дата релиза',
     languageUa: 'Дата виходу',
+    languageIt: 'Data di rilascio',
   },
   'SubscribeToGetNotified': {
     languageEn:
@@ -10229,176 +10273,212 @@ const Map<String, Map<String, String>> localeItems = {
         'Подпишись на уведомления, чтобы получить оповещение при выходе репака {game}',
     languageUa:
         'Підпишись на повідомлення, щоб отримати сповіщення про вихід ріпаку {game}',
+    languageIt: 
+        'Iscriviti per ricevere una notifica quando {game} sarà disponibile per il download',
   },
   'Genre': {
     languageEn: "Genre",
     languageRu: 'Жанр',
     languageUa: 'Жанр',
+    languageIt: 'Genere',
   },
   'Genres': {
     languageEn: "Genres",
     languageRu: 'Жанры',
     languageUa: 'Жанри',
+    languageIt: 'Generi',
   },
   'Action': {
     languageEn: 'Action',
     languageRu: 'Экшены',
     languageUa: 'Екшени',
+    languageIt: 'Azione',
   },
   'Adventure': {
     languageEn: 'Adventure',
     languageRu: 'Приключения',
     languageUa: 'Пригоди',
+    languageIt: 'Avventura',
   },
   'Casual': {
     languageEn: 'Casual',
     languageRu: 'Казуальные',
     languageUa: 'Казуальні',
+    languageIt: 'Casuale',
   },
   'Indie': {
     languageEn: 'Indie',
     languageRu: 'Инди',
     languageUa: 'Інді',
+    languageIt: 'Indie',
   },
   'Mmo': {
     languageEn: 'MMO',
     languageRu: 'ММО',
     languageUa: 'ММО',
+    languageIt: 'MMO',
   },
   'Racing': {
     languageEn: 'Racing',
     languageRu: 'Гонки',
     languageUa: 'Гонки',
+    languageIt: 'Corsa',
   },
   'Rpg': {
     languageEn: 'RPG',
     languageRu: 'РПГ',
     languageUa: 'РПГ',
+    languageIt: 'RPG',
   },
   'Rtstrategy': {
     languageEn: 'Real-time strategy',
     languageRu: 'Стратегії в реальному часі',
     languageUa: 'Стратегии в реальном времени',
+    languageIt: 'Strategia in tempo reale',
   },
   'Simulation': {
     languageEn: 'Simulation',
     languageRu: 'Симуляторы',
     languageUa: 'Симулятори',
+    languageIt: 'Simulazione',
   },
   'Sports': {
     languageEn: 'Sports',
     languageRu: 'Спортивные',
     languageUa: 'Спортивн',
+    languageIt: 'Sport',
   },
   'Strategy': {
     languageEn: 'Strategy',
     languageRu: 'Стратегии',
     languageUa: 'Стратегії',
+    languageIt: 'Strategia',
   },
   // 'Sandbox': {
   //   languageEn: 'Open world',
   //   languageRu: 'Открытый мир',
   //   languageUa: 'Відкритий світ',
+  //   languageIt: 'Open world',
   // },
   // 'Scientific': {
   //   languageEn: 'Scientific',
   //   languageRu: 'Научные',
   //   languageUa: 'Наукові',
+  //   languageIt: 'Scientifico',
   // },
   // 'Survival': {
   //   languageEn: 'Survival',
   //   languageRu: 'Выживание',
   //   languageUa: 'Виживання',
+  //   languageIt: 'Sopravvivenza',
   // },
   // 'Fighting': {
   //   languageEn: 'Fighting',
   //   languageRu: 'Файтинги',
   //   languageUa: 'Файтинги',
+  //   languageIt: 'Combattimento',
   // },
   // 'Shooter': {
   //   languageEn: 'Shooter',
   //   languageRu: 'Шутеры',
   //   languageUa: 'Шутери',
+  //   languageIt: 'Sparatutto',
   // },
   // 'BattleRoyale': {
   //   languageEn: 'Battle royale',
   //   languageRu: 'Королевские битвы',
   //   languageUa: 'Королівські битви',
+  //   languageIt: 'Battaglia reale',
   // },
   // 'Horror': {
   //   languageEn: 'Horror',
   //   languageRu: 'Хорроры',
   //   languageUa: 'Хоррори',
+  //   languageIt: 'Horror',
   // },
   'SystemRequirements': {
     languageEn: 'System requirements',
     languageRu: 'Системные требования',
     languageUa: 'Системні вимоги',
+    languageIt: 'Requisiti di sistema',
   },
   'ShowMaximumSystemRequirements': {
     languageEn: 'Recommended requirements',
     languageRu: 'Рекомендованные требования',
     languageUa: 'Рекомендовані вимоги',
+    languageIt: 'Requisiti consigliati',
   },
   'ShowMinimumSystemRequirements': {
     languageEn: 'Minimum requirements',
     languageRu: 'Минимальные требования',
     languageUa: 'Мінімальні вимоги',
+    languageIt: 'Requisiti minimi',
   },
   'Ram': {
     languageEn: 'RAM',
     languageRu: 'ОЗУ',
     languageUa: 'ОЗП',
+    languageIt: 'RAM',
   },
   'Cpu': {
     languageEn: 'Processor',
     languageRu: 'Процессор',
     languageUa: 'Процесор',
+    languageIt: 'Processore',
   },
   'GPU': {
     languageEn: 'Graphics',
     languageRu: 'Видеокарта',
     languageUa: 'Відеокарта',
+    languageIt: 'Grafica',
   },
   'DiskSpace': {
     languageEn: 'Disk space',
     languageRu: 'Место на диске',
     languageUa: 'Місце на диску',
+    languageIt: 'Spazio sul disco',
   },
   'Memory': {
     languageEn: 'Memory',
     languageRu: 'Оперативная память',
     languageUa: "Оперативна пам'ять",
+    languageIt: 'Memoria',
   },
   'Os': {
     languageEn: 'Operating system',
     languageRu: 'Операционная система',
     languageUa: 'Операційна система',
+    languageIt: 'Sistema operativo',
   },
   'Localization': {
     languageEn: 'Localization',
     languageRu: 'Локализация',
     languageUa: 'Локалізація',
+    languageIt: 'Localizzazione',
   },
   'FullAudio': {
     languageEn: 'Full audio',
     languageRu: 'Озвучка',
     languageUa: 'Озвучення',
+    languageIt: 'Audio completo',
   },
   'Interface': {
     languageEn: 'Interface',
     languageRu: 'Интерфейс',
     languageUa: 'інтерфейс',
+    languageIt: 'Interfaccia',
   },
   'Subtitles': {
     languageEn: 'Subtitles',
     languageRu: 'Субтитры',
     languageUa: 'Субтитри',
+    languageIt: 'Sottotitoli',
   },
   'WriteReview': {
     languageEn: 'Write a review',
     languageRu: 'Написать отзыв',
     languageUa: 'Написати відгук',
+    languageIt: 'Scrivere una recensione',
   },
   'AcrylicEffect': {
     languageEn: 'Acrylic effect',
@@ -10406,6 +10486,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: 'Акриловий ефект',
     languagePl: 'Efekt akrylowy',
     languageDe: 'Acryleffekt',
+    languageIt: 'Effetto acrilico',
   },
   'AcrylicEffectDescription': {
     languageEn:
@@ -10418,11 +10499,14 @@ const Map<String, Map<String, String>> localeItems = {
         'Stosuje połączony efekt przezroczystości i rozmycia do okna aplikacji. Wyłącza niektóre inne efekty wizualne i ustawienia!',
     languageDe:
         'Wendet einen kombinierten Transparenz- und Unschärfeeffekt auf das Anwendungsfenster an. Deaktiviert einige andere visuelle Effekte und Einstellungen!',
+    languageIt: 
+        'Applica gli effetti di trasparenza e sfocatura alla finestra dell`applicazione. Disabilita alcuni altri effetti visivi e impostazioni!',
   },
   'Sorting': {
     languageEn: 'Sorting',
     languageRu: 'Сортировка',
     languageUa: 'Сортування',
+    languageIt: 'Ordinamento',
   },
   'RecommendedImageSize': {
     languageEn:
