@@ -11404,7 +11404,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Відзначити всі підказки прочитаними",
     languagePl: 'Zaznacz wszystkie podpowiedzi jako przeczytane',
     languageDe: 'Alle Eingabeaufforderungen als gelesen markieren',
-    languageIt: 'Contrassegna tutte le richieste come lette',
+    `
   },
   'VoteLimitExceededPlus': {
     languageEn:
@@ -11515,6 +11515,9 @@ const Map<String, Map<String, String>> localeItems = {
         'Przesyłanie wideo wymaga wyższego poziomu reputacji niż ten, który posiadasz 🙁',
     languageDe:
         'Das Hochladen eines Videos erfordert eine höhere Reputation als die, die Sie haben 🙁',
+    languageIt: 
+        'Caricare un video richiede una reputazione superiore a quella che hai 🙁',
+    
   },
   'YouTubeCFGReview': {
     languageEn: "Video review of the config or LUA on YouTube",
@@ -11522,6 +11525,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Відео-огляд конфіга або ж ЛУА на YouTube",
     languagePl: 'Recenzja wideo konfiguracji lub LUA na YouTube',
     languageDe: 'Video-Übersicht über die Konfiguration oder LUA auf YouTube',
+    languageIt: 'Panoramica video della configurazione o LUA su YouTube',
   },
   'EditYourVideoBeforePublish': {
     languageEn:
@@ -11534,6 +11538,8 @@ const Map<String, Map<String, String>> localeItems = {
         'Aby upewnić się, że ten film jest związany z naszą aplikacją i nie jest spamem, dodaj słowo «{word}» do opisu lub tytułu swojego filmu!',
     languageDe:
         'Um sicherzustellen, dass dieses Video für unsere App relevant ist und kein Spam, fügen Sie bitte das Wort «{word}» in die Beschreibung oder den Titel Ihres Videos ein!',
+    languageIt: 
+        'Per assicurarti che questo video sia rilevante per la nostra app e non sia spam, includi la parola «{word}» nella descrizione o nel titolo del tuo video!',
   },
   'ActiveUser': {
     languageEn: "Active user",
@@ -11541,6 +11547,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Активний користувач",
     languagePl: 'Aktywny użytkownik',
     languageDe: 'Aktiver Benutzer',
+    languageIt: 'Utente attivo',
   },
   "AvailableFromLvl": {
     languageEn: "Available starting at {level} reputation level",
@@ -11548,6 +11555,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Доступно починаючи з {level} рівня репутації",
     languagePl: 'Dostępne od poziomu reputacji {level}',
     languageDe: 'Verfügbar ab {level} Reputationsstufe',
+    languageIt: 'Disponibile a partire dal livello di reputazione {level}',
   },
   'ReputationAndWhatIsIt': {
     languageEn: "Reputation levels and what they are",
@@ -11555,6 +11563,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Рівні репутації та що це таке",
     languagePl: 'Poziomy reputacji i ich znaczenie',
     languageDe: 'Reputationsstufen und was sie sind',
+    languageIt: 'Livelli di reputazione e cosa sono',
   },
   'ReputationExLoader': {
     languageEn: '''
@@ -11810,6 +11819,56 @@ Levels ab 6 und höher:
   - Du kannst 25 Konfigurationen pro Tag hochladen
   
 Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezogen, z. B. für erhaltene Likes oder Dislikes, das Schreiben von Kommentaren, das Hochladen von Configs, Verbote usw. Du kannst deinen Ruf in deinem Profil sehen! Übrigens, während der Feiertage und bei thematischen Veranstaltungen werden alle Erfahrungen, die Sie machen, verdoppelt.''',
+  languageIt: '''
+Livelli da -4 e inferiore:
+   - Non puoi impostare Non mi piace o Mi piace
+   - Puoi scrivere solo 2 commenti al giorno
+   - Puoi caricare solo 1 configurazione al giorno
+   - Non puoi lamentarti di quelle degli altri
+   commenti, configurazioni o lua
+
+Livelli da -3 a -1:
+   - Puoi impostare 1 non mi piace al giorno, non puoi impostare i mi piace
+   - Puoi pubblicare solo 4 commenti al giorno
+   - Puoi caricare solo 2 configurazioni al giorno
+   - Puoi lasciare solo 1 reclamo al giorno circa
+   configurazioni, lua o commenti di qualcun altro
+
+Livello 0:
+   - Puoi impostare solo 2 Non mi piace al giorno
+   - Puoi scrivere solo 6 commenti al giorno
+   - Puoi caricare solo 4 configurazioni al giorno
+   - Puoi lasciare solo 2 reclami al giorno circa
+   configurazioni, lua o commenti di qualcun altro
+
+Livelli da 1 a 3:
+   - Puoi impostare solo 6 Non mi piace al giorno
+   - Puoi scrivere fino a 20 commenti al giorno
+   - Puoi caricare fino a 10 configurazioni al giorno
+   - Puoi aggiungere una recensione video alla tua configurazione
+  
+Livello 3:
+   - Puoi impostare avatar animati
+
+Livelli 4 e 5:
+   - Viene visualizzata l'icona dell'utente attivo
+   accanto al tuo nickname
+   - Puoi impostare una cornice per l'avatar
+   - Puoi impostare fino a 10 Non mi piace al giorno
+   - Puoi scrivere fino a 50 commenti al giorno
+   - Puoi caricare fino a 15 configurazioni al giorno
+  
+Livello 5:
+   - Puoi comunque caricare LUA protetti
+   non senza saltare il controllo di base
+
+Livelli da 6 in su:
+   - Tutti i bonus dei livelli precedenti
+   - Puoi impostare fino a 14 Non mi piace al giorno
+   - Puoi scrivere fino a 200 commenti al giorno
+   - Puoi caricare fino a 25 configurazioni al giorno
+    
+La reputazione viene data e tolta per la partecipazione alla vita sociale dell'app, ad esempio per Mi piace e Non mi piace ricevuti, scrivendo commenti, caricando configurazioni, divieti, ecc. Puoi vedere il tuo livello di reputazione nel tuo profilo! A proposito, durante le vacanze e gli eventi a tema, tutta l'esperienza che ottieni è raddoppiata.''',
   },
   'ProtectedLuasAreNotAllowed': {
     languageEn:
@@ -11822,6 +11881,8 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
         'Niestety, pobieranie niebezpiecznych LUA lub LUA z zabezpieczeniami jest zabronione dla bezpieczeństwa innych użytkowników! Surowość kontroli LUA zmniejsza się wraz ze wzrostem poziomu reputacji.',
     languageDe:
         "Leider ist das Herunterladen von unsicherer oder geschützter LUA zum Schutz anderer Nutzer verboten! Der Schweregrad Ihrer LUA-Prüfung nimmt mit steigender Reputationsstufe ab.",
+    languageIt: 
+        'Sfortunatamente, è vietato scaricare LUA non sicuri o protetti per proteggere gli altri utenti! La restrizione del controllo LUA diminuisce all`aumentare del livello di reputazione.',
   },
   'ReputationLevelProgress': {
     languageEn:
@@ -11833,6 +11894,8 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languagePl: 'Zdobyłeś już {experience} na kolejny poziom reputacji!',
     languageDe:
         'Sie haben bereits {experience} gesammelt, um die nächste Reputationsstufe zu erreichen!',
+    languageIt: 
+        'Hai già guadagnato {experience} per raggiungere il livello di reputazione successivo!',
   },
   'HiddenAsNoun': {
     languageEn: 'Hidden',
@@ -11840,6 +11903,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languageUa: 'Приховано',
     languagePl: 'Ukryte',
     languageDe: "Versteckt",
+    languageIt: 'Nascosto',
   },
   'NameRandomization': {
     languageEn: "Application's name randomization",
@@ -11847,6 +11911,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languageUa: 'Рандомізація назви',
     languagePl: 'Randomizacja tytułu',
     languageDe: "Randomisierung des Titels",
+    languageIt: 'Randomizzazione del nome dell`applicazione',
   },
   'NameRandomizationDescription': {
     languageEn:
@@ -11859,6 +11924,8 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
         'Nazwa pliku aplikacji zmieni się za każdym razem, gdy aplikacja zostanie uruchomiona',
     languageDe:
         "Der Name der Anwendungsdatei ändert sich jedes Mal, wenn die Anwendung gestartet wird",
+    languageIt: 
+        'Il nome del file eseguibile dell`applicazione cambierà ogni volta che viene avviata',
   },
   'ReputationControll': {
     languageEn: "Reputation's experience management",
@@ -11866,6 +11933,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languageUa: 'Управління досвідом репутації',
     languagePl: 'Zarządzanie doświadczeniami związanymi z reputacją',
     languageDe: "Management von Reputationserfahrungen",
+    languageIt: 'Gestione dell`esperienza della reputazione',
   },
   'SubscriptionControll': {
     languageEn: "Subscription management",
@@ -11873,6 +11941,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languageUa: 'Управління підпискою',
     languagePl: 'Zarządzanie subskrypcjami',
     languageDe: "Verwaltung von Abonnements",
+    languageIt: 'Gestisci le iscrizioni',
   },
   'ExperienceIsDoubled': {
     languageEn:
@@ -11885,6 +11954,8 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
         'Na cześć święta «{holiday}» wszystkie doświadczenia za polubienia,\nkomentarze, cfg i inne aktywności są podwojone, wesołych świąt!{emoji}',
     languageDe:
         "Zu Ehren des Feiertags «{holiday}» werden alle Erfahrungen\nfür Likes, Kommentare, cfg und andere Aktivitäten verdoppelt,\nfrohe Feiertage!{emoji}",
+    languageIt: 
+        'In onore della festività «{holiday}», tutte le esperienze\nper Mi piace, commenti, cfg e altre attività saranno raddoppiate,\nbuone vacanze!{emoji}',
   },
   'DownloadModLauncher': {
     languageEn: "Download modification",
@@ -11892,6 +11963,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languageUa: 'Завантажити модифікацію',
     languagePl: 'Pobieranie modyfikacji',
     languageDe: "Änderung herunterladen",
+    languageIt: 'Scarica la modifica',
   },
   'Support': {
     languageEn: "Support",
@@ -11899,6 +11971,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languageUa: 'Підтримка',
     languagePl: 'Wsparcie',
     languageDe: "Unterstützung",
+    languageIt: 'Supporto',
   },
   'LaunchOnlyInAnotherLauncher': {
     languageEn:
@@ -11911,6 +11984,8 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
         'Niestety, uruchomienie tej modyfikacji jest możliwe tylko poprzez zainstalowanie jej własnego launchera, można to zrobić za pomocą poniższego przycisku. Po pobraniu programu ładującego wystarczy postępować zgodnie z instrukcjami pozostawionymi przez twórców moda!',
     languageDe:
         "Leider ist das Ausführen dieser Modifikation nur durch die Installation des eigenen Launcher möglich, können Sie dies tun, indem Sie die Schaltfläche unten. Nach dem Download des Launcher, folgen Sie einfach den Anweisungen, die von den Entwicklern der mod!",
+    languageIt: 
+        'Sfortunatamente, l`avvio di questa modifica è disponibile solo dopo aver installato il proprio launcher, puoi farlo utilizzando il pulsante in basso. Dopo aver scaricato il loader, segui semplicemente le istruzioni lasciate dagli sviluppatori della mod!',
   },
   'AlsoComponentsMightBeNeeded': {
     languageEn:
@@ -11923,6 +11998,8 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
         'Ponadto do uruchomienia tego moda i jego programu ładującego może być konieczne zainstalowanie następujących składników:',
     languageDe:
         "Möglicherweise müssen Sie auch die folgenden Komponenten installieren, um diese Mod und ihren Loader auszuführen:",
+    languageIt: 
+        'Inoltre, potrebbe essere necessario installare i seguenti componenti per eseguire questa mod e il suo loader:',
   },
   'UpTo': {
     languageEn: "up to",
@@ -11930,6 +12007,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languageUa: 'до',
     languagePl: 'do',
     languageDe: "bis zu",
+    languageIt: 'fino a',
   },
   'ModIsNotCheckedYet': {
     languageEn: "This mod has not been checked for virus threats absence",
@@ -11937,6 +12015,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languageUa: 'Модифікація не перевірена на відсутність вірусних загроз',
     languagePl: 'Mod nie został sprawdzony pod kątem zagrożeń wirusowych',
     languageDe: "Der Mod wurde nicht auf Virenbedrohungen geprüft",
+    languageIt: 'La mod non è stata controllata per rilevare eventuali minacce di virus',
   },
   'ModIsChecked': {
     languageEn:
@@ -11945,6 +12024,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languageUa: 'Модифікацію успішно перевірено на відсутність вірусних загроз',
     languagePl: 'Mod został pomyślnie sprawdzony pod kątem zagrożeń wirusowych',
     languageDe: "Die Modifikation wurde erfolgreich auf Virenfreiheit geprüft",
+    languageIt: 'La modifica è stata controllata con successo per verificare l`assenza di virus',
   },
   'CrashesInfo': {
     languageEn: "Detailed information on mod's crashes statistics",
@@ -11952,6 +12032,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languageUa: 'Детальна інформація щодо статистики вильотів',
     languagePl: 'Szczegółowe informacje na temat statystyk odlotów',
     languageDe: "Detaillierte Informationen zur Abflugstatistik",
+    languageIt: 'Informazioni dettagliate sulle statistiche sugli arresti anomali della mod',
   },
   'CrashesInfoUnavailable': {
     languageEn:
@@ -11964,6 +12045,8 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
         'Niestety, nie mamy statystyk dotyczących\nawarii tych modyfikacji, które nie są\nuruchamiane za pośrednictwem naszej\naplikacji!',
     languageDe:
         "Leider haben wir keine Statistiken über\ndie Abstürze dieser Änderungen, die nicht\nüber unsere Anwendung gestartet werden!",
+    languageIt: 
+        'Sfortunatamente non abbiamo statistiche\ndi arresti anomali di queste modifiche\nche non vengono avviate tramite la nostra\napplicazione!',
   },
   'BansInfo': {
     languageEn: "Extended analysis of mod's VAC bans statistics",
@@ -11971,6 +12054,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languageUa: 'Детальний аналіз статистики вак банів модифікації',
     languagePl: 'Szczegółowa analiza statystyk VAC-banów',
     languageDe: "Detaillierte Analyse der VAC-Ban-Statistiken",
+    languageIt: 'Analisi dettagliata delle statistiche dei ban del VAC',
   },
   'BansInfoUnavailable': {
     languageEn:
@@ -11983,6 +12067,8 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
         'Niestety, nie zbieramy danych na temat\nbanów modyfikacji, które nie są dostępne na Steam!',
     languageDe:
         "Leider sammeln wir keine Daten über\nModifikationsverbote, die nicht auf Steam sind!",
+    languageIt: 
+        'Sfortunatamente, non raccogliamo dati sui\nban di modifica che non sono presenti su Steam!',
   },
   'NotifyAboutAnUpdate': {
     languageEn: "Notify us about mod's update",
@@ -11990,6 +12076,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languageUa: 'Повідомити про оновлення мода',
     languagePl: 'Powiadom nas o aktualizacji moda',
     languageDe: "Informieren Sie uns über Mods Update",
+    languageIt: 'Avvisateci sull`aggiornamento della mod',
   },
   'NotifyAboutAnUpdateExtended': {
     languageEn:
@@ -12002,6 +12089,8 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
         'Zgłoś aktualizację moda lub jeśli mod\nprzestał działać po aktualizacji gry.',
     languageDe:
         "Ein Mod-Update melden oder wenn ein Mod\nnach einem Spiel-Update nicht mehr funktioniert",
+    languageIt: 
+        'Avvisaci dell`aggiornamento della mod o che\nha smesso di funzionare dopo l`aggiornamento del gioco',
   },
   'SteamBetaSelectionNeeded': {
     languageEn:
@@ -12014,6 +12103,8 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
         'Aby uruchomić niektóre lub większość modów do tej gry, musisz włączyć jej wersję beta w styme. Aby to zrobić, przejdź do biblioteki Steam, wybierz grę, otwórz jej właściwości, przejdź do wersji beta i włączyć tę wersję: «{version}»!',
     languageDe:
         "Um einige oder die meisten der Mods für dieses Spiel zu verwenden, müssen Sie die Beta-Version im Steam. Gehen Sie dazu in Ihre Steam-Bibliothek, wählen Sie das Spiel aus, öffnen Sie seine Eigenschaften, gehen Sie zu den Beta-Versionen und aktivieren Sie die Version: «{version}»!",
+    languageIt: 
+        'Per utilizzare alcune o la maggior parte delle mod di questo gioco dovrai scaricare la versione beta su Steam. Per fare ciò, vai nella tua libreria Steam, seleziona il gioco, apri le sue proprietà, vai alle versioni beta e attiva la versione: «{version}»!',
   },
   'VideoGuideMinecraftDescription': {
     languageEn:
@@ -12026,6 +12117,8 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
         'Jak uruchomić modyfikację po instalacji? Do nagrania wideo został użyty oryginalny Minecraft Launcher, jednak ten poradnik będzie działał z każdym Launcherem!',
     languageDe:
         "Wie führe ich die Modifikation nach der Installation aus? Die ursprüngliche Minecraft Launcher wurde verwendet, um das Video aufzunehmen, aber diese Anleitung wird mit jedem Launcher funktionieren!",
+    languageIt: 
+        'Come posso avviare la modifica dopo l`installazione? Per registrare il video è stato utilizzato il launcher originale di Minecraft, ma questa guida funzionerà con qualsiasi launcher!',
   },
   'ViewVideoGuide': {
     languageEn: "Open the video-guide",
@@ -12033,6 +12126,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languageUa: 'Показати відео-інструкцію',
     languagePl: 'Wyświetl samouczek wideo',
     languageDe: "Video-Tutorial anzeigen",
+    languageIt: 'Guarda il video tutorial',
   },
   'UpdateObject': {
     languageEn: "Notification about an update of",
@@ -12040,6 +12134,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languageUa: 'Повідомлення про оновлення',
     languagePl: 'Powiadomienie o aktualizacji',
     languageDe: "Benachrichtigung über eine Aktualisierung von",
+    languageIt: 'Notifica di un aggiornamento di',
   },
   'UpdateSourceLink': {
     languageEn: "Link to the update source",
@@ -12047,6 +12142,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languageUa: 'Посилання на джерело з оновленням',
     languagePl: 'Link źródłowy z aktualizacją',
     languageDe: "Quellenlink mit Update",
+    languageIt: 'Collegamento alla fonte dell`aggiornamento',
   },
   'LinkIsEmpty': {
     languageEn: "It looks like you provided an empty link!",
@@ -12055,6 +12151,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languagePl: 'Wygląda na to, że podałeś pusty link!',
     languageDe:
         "Es sieht so aus, als ob Sie einen leeren Link angegeben haben!",
+    languageIt: 'Sembra che tu abbia fornito un collegamento vuoto!',
   },
   'WeAcceptOnlyTheseSources': {
     languageEn:
@@ -12067,6 +12164,8 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
         'Aby uniknąć publikowania wirusów, akceptujemy tylko następujące źródła: forum Unkn0wncheats, zweryfikowana sekcja na forum YouGame, repozytoria open source GitHub lub to samo źródło, z którego zaczerpnięto modyfikację: {source}!',
     languageDe:
         "Um die Veröffentlichung von Viren zu vermeiden, akzeptieren wir nur die folgenden Quellen: das Unkn0wncheats-Forum, den verifizierten Bereich im YouGame-Forum, Open-Source-GitHub-Repositories oder die gleiche Quelle, aus der die Modifikation stammt: {source}!",
+    languageIt: 
+        'Per evitare di pubblicare virus, accettiamo solo le seguenti fonti: il forum Unkn0wncheats, la sezione verificata del forum YouGame, repository GitHub open source o la stessa fonte da cui proviene la modifica: {source}!',
   },
   'ChangeAvatarFrame': {
     languageEn: "Change avatar frame",
@@ -12074,6 +12173,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languageUa: 'Змінити рамку над аватаркою',
     languagePl: 'Zmień ramkę nad awatarem',
     languageDe: "Ändern Sie den Rahmen über dem Avatar",
+    languageIt: 'Cambia la cornice dell`avatar',
   },
   'NoBeta': {
     languageEn: "Standard version of the game, with disabled beta version",
@@ -12081,6 +12181,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languageUa: 'Стандартна версія гри, без бета версій',
     languagePl: 'Standardowa wersja gry, bez wersji beta',
     languageDe: "Standardversion des Spiels, keine Betaversionen",
+    languageIt: 'Versione standard del gioco, nessuna versione beta',
   },
   'AutoTranslation': {
     languageEn: "Automatic translation",
@@ -12088,6 +12189,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languageUa: 'Автоматичний переклад',
     languagePl: 'Automatyczne tłumaczenie',
     languageDe: "Automatische Übersetzung",
+    languageIt: 'Traduzione automatica',
   },
   'AutoTranslationDescription': {
     languageEn:
@@ -12100,6 +12202,8 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
         'Wszystkie komentarze, konfiguracje, LUA i inne tego typu widżety zostaną automatycznie przetłumaczone na język użytkownika.',
     languageDe:
         "Alle Kommentare, Konfigurationen, LUA und andere solche Widgets werden automatisch in Ihre Sprache übersetzt",
+    languageIt: 
+        'Tutte le recensioni, le configurazioni, i LUA e gli altri widget verranno automaticamente tradotti nella tua lingua',
   },
   'SetupForYourSelf': {
     languageEn: "Setup ExLoader for yourself!",
@@ -12107,6 +12211,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languageUa: 'Налаштуй ExLoader під себе!',
     languagePl: 'Dostosuj ExLoader do swoich potrzeb!',
     languageDe: "Passen Sie ExLoader an Ihre Bedürfnisse an!",
+    languageIt: 'Configura ExLoader per te stesso!',
   },
   'AllTheseAndOtherSettings': {
     languageEn:
@@ -12119,6 +12224,8 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
         'Wszystkie te i wiele innych ustawień można w każdej chwili zmienić w ustawieniach aplikacji!',
     languageDe:
         "All diese und viele andere Einstellungen können Sie jederzeit in den Einstellungen der App ändern!",
+    languageIt: 
+        'Puoi modificare tutte queste e molte altre impostazioni in qualsiasi momento nelle impostazioni dell`app!',
   },
   'RestartWithLogOptions': {
     languageEn: "Restart ExLoader with debug mode",
@@ -12126,6 +12233,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languageUa: 'Перезапустити ExLoader у дебаг режим',
     languagePl: 'Restart ExLoadera w trybie debugowania',
     languageDe: "ExLoader im Debug-Modus neu starten",
+    languageIt: 'Riavvia ExLoader in modalità debug',
   },
   'Logout': {
     languageEn: "Log out",
@@ -12133,6 +12241,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languageUa: 'Вийти з акаунта',
     languagePl: 'Wylogowanie z konta',
     languageDe: "Aus dem Konto abmelden",
+    languageIt: 'Esci dall`account',
   },
   'PleaseSayUsWatsWrongFirst': {
     languageEn:
@@ -12145,6 +12254,8 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
         'Aby umieścić niską ocenę pod tą modyfikacją, musisz zostawić komentarz opisujący, co dokładnie ci się w niej nie podobało. Pomoże to deweloperowi naprawić twój problem i ulepszyć mod!',
     languageDe:
         "Um eine niedrige Punktzahl unter diese Modifikation zu setzen, musst du einen Kommentar hinterlassen, in dem du beschreibst, was genau dir an der Modifikation nicht gefallen hat. Dies wird dem Entwickler helfen, Ihr Problem zu beheben und die Mod zu verbessern!",
+    languageIt: 
+        'Per assegnare un punteggio basso a questa modifica, devi lasciare un commento descrivendo esattamente cosa non ti è piaciuto della modifica. Ciò aiuterà lo sviluppatore a risolvere il tuo problema e a migliorare la mod!',
   },
   'OtherMods': {
     languageEn: "🎲 Other modifications",
@@ -12152,6 +12263,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languageUa: '🎲 Інші модифікації',
     languagePl: '🎲 Inne modyfikacje',
     languageDe: '🎲 Andere Modifikationen',
+    languageIt: '🎲 Altre modifiche',
   },
   'OtherModsDescription': {
     languageEn:
@@ -12164,6 +12276,8 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
         'Wszystkie mody do tej gry obecne w ExLoaderze można zobaczyć tutaj',
     languageDe:
         'Alle Mods für dieses Spiel, die jemals im ExLoader waren, können hier eingesehen werden',
+    languageIt: 
+        'Tutte le mod per questo gioco che siano mai state presenti in ExLoader possono essere visualizzate qui',
   },
   'AutoProfanityHide': {
     languageEn: "Hide profanity",
@@ -12171,6 +12285,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languageUa: 'Приховувати ненормативну лексику',
     languagePl: 'Ukryj wulgaryzmy',
     languageDe: 'Obszönitäten ausblenden',
+    languageIt: 'Nascondi volgarità',
   },
   'NotInformativeText': {
     languageEn: "Come up with something more adequate and/or informative!",
@@ -12179,6 +12294,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languagePl: 'Wymyśl coś bardziej adekwatnego i/lub pouczającego!',
     languageDe:
         'Denken Sie sich etwas Angemesseneres und/oder Informativeres aus!',
+    languageIt: 'Pensa a qualcosa di più appropriato e/o informativo!',
   },
   'AutoProfanityHideDescription': {
     languageEn:
@@ -12191,6 +12307,8 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
         'Wszystkie komentarze zawierające wulgarny język zostaną automatycznie ukryte, a użytkownik nie będzie nawet wiedział o ich istnieniu.',
     languageDe:
         'Alle Kommentare mit unflätigen Ausdrücken werden automatisch ausgeblendet, Sie werden nicht einmal wissen, dass sie existieren.',
+    languageIt: 
+        'Tutti i commenti contenenti linguaggio volgare verranno automaticamente nascosti, non saprai nemmeno della loro esistenza.',
   },
   'AutoProfanityWrapping': {
     languageEn: "Warn of the presence of foul language",
@@ -12198,6 +12316,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languageUa: 'Показувати наявність нецензурної лайки',
     languagePl: 'Ostrzeżenie przed wulgarnym językiem',
     languageDe: 'Warnung vor unflätiger Sprache',
+    languageIt: 'Avvertimento contro il linguaggio volgare',
   },
   'AutoProfanityWrappingDescription': {
     languageEn:
@@ -12210,6 +12329,8 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
         'Wszystkie komentarze zawierające wulgaryzmy zostaną opatrzone specjalnym ostrzeżeniem, które tymczasowo ukryje ich wyświetlanie',
     languageDe:
         'Alle Kommentare mit Schimpfwörtern werden mit einer speziellen Warnung versehen, die ihre Anzeige vorübergehend ausblendet',
+    languageIt: 
+        'A tutti i commenti contenenti volgarità viene fornito un avviso speciale che ne nasconde temporaneamente la visualizzazione',
   },
   'IDoNotKnowTheUpdateLink': {
     languageEn:
@@ -12222,6 +12343,8 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
         'Mod przestał działać po ostatniej aktualizacji gry i chcę to zgłosić!',
     languageDe:
         'Der Mod hat nach dem letzten Spielupdate aufgehört zu funktionieren und ich möchte es melden!',
+    languageIt: 
+        'La mod ha smesso di funzionare dopo l`ultimo aggiornamento del gioco e voglio segnalarlo!',
   },
   'DebugConsole': {
     languageEn: "Debug console",
@@ -12229,6 +12352,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languageUa: 'Дебаг консоль',
     languagePl: 'Konsola debugowania',
     languageDe: 'Debug-Konsole',
+    languageIt: 'Console di debug',
   },
   'SocialPromo': {
     languageEn:
@@ -12241,6 +12365,8 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
         "Dołącz do naszego EU i anglojęzycznego serwera Discord, gdzie znajdziesz społeczność graczy modów, wsparcie, różne role i wiele innych fajnych rzeczy! Kliknij, aby przejść, lub przesuń palcem w bok, aby ukryć to powiadomienie.",
     languageDe:
         "Tritt unserem EU- und englischsprachigen Discord-Server bei, auf dem du eine Mod-Gaming-Community, Unterstützung, verschiedene Rollen und viele andere coole Dinge finden kannst! Klicken Sie, um zu gehen, oder wischen Sie seitwärts, um diesen Hinweis auszublenden.",
+    languageIt: 
+        'Unisciti al nostro server Discord EU e di lingua inglese, dove puoi trovare community di mod-gaming, supporto, ruoli diversi e molte altre cose interessanti! Fai clic per aprire o scorri lateralmente per nascondere questo avviso.',
   },
   'WhereToDownloadGame': {
     languageEn:
@@ -12253,6 +12379,8 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
         'Nie wiesz, gdzie możesz pobrać {Game}, aby uruchomić te mody? Kliknij przycisk z boku lub spróbuj ręcznie znaleźć odpowiednią wersję w Internecie!',
     languageDe:
         'Sie wissen nicht, wo Sie {Game} herunterladen können, um diese Mods auszuführen? Dann klicke auf den Button auf der Seite oder versuche, die benötigte Version manuell im Internet zu finden!',
+    languageIt: 
+        'Non sai dove scaricare il gioco {Game} per lanciare queste mod? Fai clic sul pulsante laterale o prova a trovare manualmente la versione necessaria su Internet!',
   },
   'Download': {
     languageEn: "Download",
@@ -12260,6 +12388,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languageUa: 'Завантажити',
     languagePl: 'Pobierz',
     languageDe: 'Herunterladen',
+    languageIt: 'Scaricamento',
   },
   'NoComments': {
     languageEn:
@@ -12272,6 +12401,8 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
         'Wygląda na to, że nikt jeszcze nie dodał swojej recenzji dla tego cfg/lua. Możesz być pierwszy!',
     languageDe:
         "Sieht so aus, als hätte noch niemand seine Bewertung für diese cfg/lua abgegeben. Sie können der Erste sein!",
+    languageIt: 
+        'Sembra che nessuno abbia ancora fornito la propria recensione per questo cfg/lua. Potresti essere il primo!',
   },
   'ReconnectionSucceeded': {
     languageEn:
@@ -12282,6 +12413,8 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
         'Połączenie z serwerem aplikacji zostało pomyślnie przywrócone!',
     languageDe:
         'Die Verbindung zum Anwendungsserver wurde erfolgreich wiederhergestellt!',
+    languageIt: 
+        'La connessione al server delle applicazioni è stata ripristinata con successo!',
   },
   'PlaceForAnAd': {
     languageEn: "Place for an ad...",
@@ -12289,6 +12422,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languageUa: 'Місце для реклами...',
     languagePl: 'Miejsce na reklamę...',
     languageDe: 'Ein Ort zum Werben...',
+    languageIt: 'Posto per un annuncio...',
   },
   'Ad': {
     languageEn: "Advertisement",
@@ -12296,6 +12430,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languageUa: 'Реклама',
     languagePl: 'Reklama',
     languageDe: 'Anzeige',
+    languageIt: 'Annuncio',
   },
   'OnlyTrusted': {
     languageEn: "Add only virus-checked mod files to antivirus exceptions",
@@ -12306,6 +12441,8 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languagePl: 'Dodaj tylko sprawdzone pliki modów do wyjątków antywirusowych',
     languageDe:
         'Nur virengeprüfte Mod-Dateien zu den Antiviren-Ausnahmen hinzufügen',
+    languageIt: 
+        'Aggiungi solo file mod controllati da virus alle eccezioni antivirus',
   },
   'EvenUntrusted': {
     languageEn: "Add both virus-checked and virus-unchecked mods files",
@@ -12315,6 +12452,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
         'Додавати як файли перевірених, так і файли неперевірених модів',
     languagePl: 'Dodaj zarówno zaznaczone, jak i niezaznaczone pliki modów',
     languageDe: 'Hinzufügen von markierten und nicht markierten Mod-Dateien',
+    languageIt: 'Aggiungi sia file mod controllati da virus che quelli non controllati',
   },
   'NoTrustedNoUntrusted': {
     languageEn: "Do not add any files to antivirus exclusions at all",
@@ -12322,6 +12460,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languageUa: 'Взагалі не додавати жодних файлів у винятки антивірусу',
     languagePl: 'Nie dodawaj żadnych plików do wykluczeń antywirusowych.',
     languageDe: 'Fügen Sie keine Dateien zu den Antiviren-Ausschlüssen hinzu.',
+    languageIt: 'Non aggiungere alcun file alle esclusioni antivirus',
   },
   'SwipeOrScroll': {
     languageEn: 'Scroll or swipe down to see more!',
@@ -12329,6 +12468,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languageUa: 'Прокрути або свайпни, щоб побачити більше!',
     languagePl: 'Przewiń lub przesuń, aby zobaczyć więcej!',
     languageDe: 'Scrollen oder wischen Sie, um mehr zu sehen!',
+    languageIt: 'Scorri per vedere di più!',
   },
   'PopularInSeason': {
     languageEn: "Popular within season",
@@ -12336,6 +12476,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languageUa: 'Популярні за сезон',
     languagePl: 'Popularne w tym sezonie',
     languageDe: 'Beliebt für die Saison',
+    languageIt: 'Popolare durante la stagione',
   },
   'CustomMapperSettings': {
     languageEn:
@@ -12348,6 +12489,8 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
         'Opcje są napisane w języku angielskim, ponieważ są przeznaczone dla osób, które je rozumieją. Jeśli nie wiesz nic o tych opcjach, lepiej ich nie dotykaj! Opcje są resetowane po ponownym uruchomieniu aplikacji i mają zastosowanie tylko do wstrzykiwania własnych modów z odpowiedniej sekcji.',
     languageDe:
         "Die Optionen sind in englischer Sprache verfasst, da sie für Menschen gedacht sind, die sie verstehen. Wenn Sie nichts über diese Optionen wissen, ist es besser, sie nicht zu berühren! Die Optionen werden beim Neustart der Anwendung zurückgesetzt und gelten nur für das Einfügen Ihrer eigenen Mods aus dem entsprechenden Abschnitt.",
+    languageIt: 
+        'Queste opzioni sono create per le persone che capiscono qualcosa nella mappatura delle librerie. Se non sai nulla di queste opzioni, è meglio non toccarle affatto! Le opzioni vengono ripristinate con il riavvio dell`applicazione e applicano solo la mappatura delle tue mod dalla sezione corrispondente.',
   },
   'NewClientVersion': {
     languageEn: "New client version: {version}!",
@@ -12355,6 +12498,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
     languageUa: 'Нова версія клієнту: {version}!',
     languagePl: 'Nowa wersja klienta: {wersja}!',
     languageDe: 'Neue Client-Version: {Version}!',
+    languageIt: 'Nuova versione del client: {version}!',
   },
   'OnlyLastReviews': {
     languageEn:
@@ -12367,5 +12511,7 @@ Reputation wird für die Teilnahme am sozialen Leben der App vergeben und abgezo
         'W tej opcji sortowania zobaczysz tylko komentarze napisane w ciągu\nostatniego półtora miesiąca! Aby przeczytać wszystkie komentarze,\nwybierz inną opcję sortowania.',
     languageDe:
         'Bei dieser Sortieroption sehen Sie nur Kommentare, die in den letzten\nanderthalb Monaten geschrieben wurden! Um alle Kommentare zu\nlesen, wählen Sie eine andere Sortieroption.',
+    languageIt: 
+        'Con questa opzione di ordinamento vedrai solo i commenti che sono stati\nscritti negli ultimi 45 giorni! Per visualizzare tutti i commenti, seleziona qualsiasi altra\nopzione di ordinamento.',
   },
 };
