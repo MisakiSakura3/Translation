@@ -11404,7 +11404,7 @@ const Map<String, Map<String, String>> localeItems = {
     languageUa: "Відзначити всі підказки прочитаними",
     languagePl: 'Zaznacz wszystkie podpowiedzi jako przeczytane',
     languageDe: 'Alle Eingabeaufforderungen als gelesen markieren',
-    `
+    languageIt: 'Contrassegna tutte le richieste come lette',
   },
   'VoteLimitExceededPlus': {
     languageEn:
